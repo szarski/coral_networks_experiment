@@ -1,2 +1,2 @@
 wp.pl
-onet.pl
+github.com
