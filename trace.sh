@@ -2,7 +2,9 @@
 COMMAND='traceroute'
 OUTPUT_DIR='output'
 mkdir -p $OUTPUT_DIR
-RESOURCE='wp.pl'
 TIMESTAMP=`date +%s`
-FILENAME=`echo $OUTPUT_DIR'/'$TIMESTAMP'_'$RESOURCE`
-$COMMAND $RESOURCE > $FILENAME
+
+for RESOURCE in `cat config/resources.txt`; do
+  FILENAME=`echo $OUTPUT_DIR'/'$TIMESTAMP'_'$RESOURCE`
+  $COMMAND $RESOURCE > $FILENAME
+done
