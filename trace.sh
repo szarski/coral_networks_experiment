@@ -1,5 +1,4 @@
-#COMMAND='tracepath'
-COMMAND='traceroute'
+(hash traceroute && COMMAND='traceroute') || COMMAND='tracepath'
 OUTPUT_DIR='output'
 mkdir -p $OUTPUT_DIR
 TIMESTAMP=`date +%s`
