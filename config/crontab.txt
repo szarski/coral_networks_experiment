@@ -1,2 +1,2 @@
-# m h dom mon dow  user                command
-  0 *  *   *   *  ubuntu    cd ~/coral_networks_experiment && ./trace.sh
+# m h dom mon dow command
+  0 *  *   *   *  cd ~/coral_networks_experiment && ./trace.sh
