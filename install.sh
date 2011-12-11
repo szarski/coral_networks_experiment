@@ -1,2 +1,2 @@
 crontab -r
-cat config/crontab.txt | crontab -l
+cat config/crontab.txt | crontab -
