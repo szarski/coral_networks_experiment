@@ -1,0 +1,1 @@
+cd && [ -d coral_networks_experiment ] && rm -fr coral_networks_experiment; cd && git clone git://github.com/szarski/coral_networks_experiment.git && cd coral_networks_experiment && chmod +x install.sh && ./install.sh
