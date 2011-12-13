@@ -1,7 +1,7 @@
 first run (hit enter all the time):
 
-sudo apt-get install git && cd && [ -d coral_networks_experiment ] && rm -fr coral_networks_experiment; mkdir -p ~/.ssh;cd ~/.ssh;rm id_rsa* 2>&-;ssh-keygen -t rsa -C `hostname`"@mailinator.com"; git config --global user.name `hostname`; echo 'add following to your deploy keys:'; cat ~/.ssh/id_rsa.pub
+sudo apt-get install git && mkdir -p ~/.ssh;cd ~/.ssh;rm id_rsa* 2>&-;ssh-keygen -t rsa -C `hostname`"@mailinator.com"; git config --global user.name `hostname`; echo 'add following to your deploy keys:'; cat ~/.ssh/id_rsa.pub
 
 then add the key to the deploy keys and do:
 
-cd && git clone git@github.com:szarski/coral_networks_experiment.git && cd coral_networks_experiment && chmod +x install.sh && ./install.sh && git checkout results
+cd && [ -d coral_networks_experiment ] && rm -fr coral_networks_experiment; git clone git@github.com:szarski/coral_networks_experiment.git && cd coral_networks_experiment && chmod +x install.sh && ./install.sh && git checkout results
