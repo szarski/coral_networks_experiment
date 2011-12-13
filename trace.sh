@@ -1,4 +1,5 @@
-BASE_DIR='~/coral_networks_experiment'
+cd; cd coral_networks_experiment;
+BASE_DIR=`pwd`
 COMMAND=`(hash traceroute 2>&- && echo 'traceroute') || echo 'tracepath'`
 DNS_COMMAND='dig'
 DUMP_COMMAND='sudo tcpdump -i eth0 -w'
@@ -29,5 +30,5 @@ for RESOURCE in $RESOURCES; do
 
   sudo killall tcpdump
 
-  cd $BASE_DIR && git add $OUTPUT_DIR && git commit -m'test results: '$TIMESTAMP
+  cd $BASE_DIR && git add $OUTPUT_DIR && git commit -m'test results: '$TIMESTAMP && git push
 done
