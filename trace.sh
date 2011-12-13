@@ -19,5 +19,5 @@ for RESOURCE in $RESOURCES; do
   DNS_FILENAME=`echo $OUTPUT_DIR'/dns/'$TIMESTAMP'_'$RESOURCE`
   $DNS_COMMAND $RESOURCE > $DNS_FILENAME
 
-  killall $DUMP_COMMAND
+  sudo killall tcpdump
 done
