@@ -2,7 +2,7 @@ COMMAND=`(hash traceroute 2>&- && echo 'traceroute') || echo 'tracepath'`
 DNS_COMMAND='dig'
 DUMP_COMMAND='sudo tcpdump -i eth0 -w'
 DATA_COMMAND='wget'
-OUTPUT_DIR='output'
+OUTPUT_DIR='output/host_'`hostname`
 TIMESTAMP=`date +%s`
 RESOURCES=`cat config/resources.txt`
 
