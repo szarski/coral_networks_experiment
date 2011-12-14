@@ -1,0 +1,35 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.122ms pmtu 1500
+ 1:  10.211.148.3                                          0.677ms asymm  2 
+ 1:  10.211.148.3                                          0.433ms asymm  2 
+ 2:  ip-10-1-14-17.ec2.internal                            0.470ms 
+ 3:  ip-10-1-15-14.ec2.internal                            0.457ms 
+ 4:  216.182.232.50                                        0.817ms 
+ 5:  72.21.222.148                                         0.866ms 
+ 6:  72.21.220.68                                          1.714ms asymm  9 
+ 7:  77.67.108.33                                         43.713ms asymm 12 
+ 8:  xe-1-0-0.was12.ip4.tinet.net                          1.087ms asymm 10 
+ 9:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              1.449ms 
+10:  te0-2-0-5.mpd22.dca01.atlas.cogentco.com              2.971ms asymm 13 
+11:  te0-6-0-0.mpd22.jfk02.atlas.cogentco.com              8.988ms asymm 14 
+12:  te0-1-0-5.ccr21.bos01.atlas.cogentco.com             99.564ms asymm 18 
+13:  te0-1-0-0.ccr21.jfk02.atlas.cogentco.com            101.409ms asymm 21 
+14:  te0-2-0-1.mpd21.fra03.atlas.cogentco.com             97.082ms asymm 16 
+15:  te0-0-0-1.mpd21.fra03.atlas.cogentco.com             99.684ms asymm 16 
+16:  te0-1-0-4.ccr21.muc01.atlas.cogentco.com            111.784ms asymm 21 
+17:  hanival-internet.demarc.cogentco.com                104.559ms asymm 14 
+18:  hanival-internet.demarc.cogentco.com                106.834ms asymm 14 
+19:  hanival-internet.demarc.cogentco.com                107.863ms asymm 14 
+20:  as1.rt1.ath2.gr.geant2.net                          149.700ms asymm 15 
+21:  as1.rt1.ath2.gr.geant2.net                          149.811ms asymm 15 
+22:  clientRouter.upatras.koletti-1.access-link.grnet.gr 150.645ms asymm 17 
+23:  no reply
+24:  kol1-to-eie2.backbone.grnet.gr                      151.903ms asymm 17 
+25:  no reply
+26:  no reply
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
