@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.110ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.745ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.801ms asymm  2 
+ 2:  ip-10-1-120-17.ec2.internal                           0.443ms 
+ 3:  ip-10-1-121-6.ec2.internal                            0.652ms 
+ 4:  216.182.224.68                                        0.561ms 
+ 5:  72.21.222.140                                         1.093ms 
+ 6:  72.21.220.64                                          1.460ms asymm  9 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.458ms asymm  9 
+ 8:  64.57.21.150                                         25.021ms asymm 11 
+ 9:  rtr-acm.cmu.3rox.net                                  7.929ms asymm 11 
+10:  CORE255-VL987.GW.CMU.NET                              8.090ms 
+11:  128.2.255.156                                         8.352ms asymm 14 
+12:  SCS-WEH-VL925.GW.CMU.NET                              8.079ms asymm 14 
+13:  no reply
+14:  PLANETLAB-3.CMCL.CS.CMU.EDU                           7.919ms reached
+     Resume: pmtu 1500 hops 14 back 51 
