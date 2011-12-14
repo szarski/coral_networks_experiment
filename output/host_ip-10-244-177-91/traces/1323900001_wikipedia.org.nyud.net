@@ -1,0 +1,15 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.194ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.907ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.381ms asymm  2 
+ 2:  ip-10-1-50-1.ec2.internal                             1.420ms 
+ 3:  ip-10-1-51-14.ec2.internal                            0.553ms 
+ 4:  216.182.224.92                                        0.625ms 
+ 5:  72.21.222.154                                         1.725ms 
+ 6:  72.21.220.38                                          2.241ms asymm  9 
+ 7:  72.21.221.42                                          2.201ms asymm 11 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                46.433ms asymm  9 
+ 9:  64.57.21.122                                         32.749ms asymm 12 
+10:  telecomb-br-01-te-4-3.northernlights.gigapop.net     32.725ms asymm 13 
+11:  telecomb-bn-01-v3760.ggnet.umn.edu                   32.846ms 
+12:  planetlabps.dtc.umn.edu                              32.281ms reached
+     Resume: pmtu 1500 hops 12 back 49 
