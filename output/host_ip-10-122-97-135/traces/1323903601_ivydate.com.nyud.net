@@ -1,0 +1,23 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.585ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.737ms asymm  2 
+ 2:  ip-10-1-118-17.ec2.internal                           0.505ms 
+ 3:  ip-10-1-119-6.ec2.internal                            1.117ms 
+ 4:  216.182.224.66                                        0.682ms 
+ 5:  72.21.220.192                                         0.658ms asymm  4 
+ 6:  72.21.222.138                                         1.175ms asymm  5 
+ 7:  72.21.220.136                                         9.481ms asymm  8 
+ 8:  xe-7-0-0.edge2.Washington1.Level3.net                 1.861ms asymm 12 
+ 9:  vlan60.csw1.Washington1.Level3.net                    1.750ms asymm 11 
+10:  ae-64-64.ebr4.Washington1.Level3.net                  1.810ms asymm 12 
+11:  ae-4-4.ebr3.LosAngeles1.Level3.net                   65.851ms 
+12:  ae-73-73.csw2.LosAngeles1.Level3.net                 65.869ms asymm 13 
+13:  ae-4-90.edge5.LosAngeles1.Level3.net                 65.847ms asymm 15 
+14:  JAPAN-TELEC.edge5.LosAngeles1.Level3.net             66.126ms 
+15:  tokyo-dc-gm2-xe5-3-2-vlan10.s4.sinet.ad.jp          179.519ms 
+16:  tokyo-dc-rm-ae4-vlan10.s4.sinet.ad.jp               192.241ms 
+17:  kanazawa-dc-rm-xe0-0-1-vlan10.s4.sinet.ad.jp        192.665ms asymm 19 
+18:  JAIST-LAN-gw.sinet.ad.jp                            209.254ms asymm 20 
+19:  150.65.254.2                                        193.655ms 
+20:  planet0.jaist.ac.jp                                 206.466ms reached
+     Resume: pmtu 1500 hops 20 back 44 
