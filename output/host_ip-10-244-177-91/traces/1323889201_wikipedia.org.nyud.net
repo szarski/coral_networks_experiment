@@ -1,0 +1,21 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.108ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.874ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.412ms asymm  2 
+ 2:  ip-10-1-44-1.ec2.internal                             0.419ms 
+ 3:  ip-10-1-45-14.ec2.internal                            0.520ms 
+ 4:  216.182.232.54                                        0.949ms 
+ 5:  72.21.222.154                                         1.723ms 
+ 6:  72.21.220.70                                          1.846ms asymm  9 
+ 7:  72.21.221.42                                          2.082ms asymm 11 
+ 8:  xe-0-0-0.0.ny0.tr-cps.internet2.edu                   7.799ms asymm 12 
+ 9:  64.57.21.210                                         12.629ms 
+10:  no reply
+11:  bdrvrf-hbl-out.net.uconn.edu                         15.928ms asymm 16 
+12:  bdr-fwin-hbl.net.uconn.edu                           14.623ms asymm 13 
+13:  no reply
+14:  no reply
+15:  vss-west-po3.net.uconn.edu                           16.168ms asymm 18 
+16:  no reply
+17:  137.99.22.82                                         16.006ms 
+18:  planetlab1.engr.uconn.edu                            17.062ms reached
+     Resume: pmtu 1500 hops 18 back 47 
