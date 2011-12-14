@@ -1,0 +1,21 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.137ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.950ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          1.125ms asymm  2 
+ 2:  ip-10-1-38-1.ec2.internal                             2.398ms 
+ 3:  ip-10-1-39-14.ec2.internal                            0.757ms 
+ 4:  216.182.224.84                                        0.649ms 
+ 5:  72.21.222.156                                         1.437ms 
+ 6:  72.21.220.166                                         2.289ms asymm  9 
+ 7:  dca2-edge-01.inet.qwest.net                           1.421ms asymm  8 
+ 8:  lap-brdr-03.inet.qwest.net                           75.842ms asymm 14 
+ 9:  63.146.26.70                                         71.864ms asymm 18 
+10:  lajbb001.kddnet.ad.jp                                71.130ms asymm 18 
+11:  otejbb204.kddnet.ad.jp                              168.870ms asymm 18 
+12:  ix-ote207.kddnet.ad.jp                              171.121ms asymm 19 
+13:  alaxala1.otemachi.wide.ad.jp                        188.682ms asymm 18 
+14:  ve-5.foundry6.otemachi.wide.ad.jp                   195.737ms asymm 18 
+15:  ve-51.cisco2.notemachi.wide.ad.jp                   187.674ms asymm 17 
+16:  ve-61.cisco2.dojima.wide.ad.jp                      194.599ms asymm 18 
+17:  ve-0-0-v3727.hitachi1.kurashiki.wide.ad.jp          204.778ms asymm 18 
+18:  planetlab-02.kusa.ac.jp                             178.818ms reached
+     Resume: pmtu 1500 hops 18 back 46 
