@@ -1,0 +1,15 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.135ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.802ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.694ms asymm  2 
+ 2:  ip-10-1-122-17.ec2.internal                           0.474ms 
+ 3:  ip-10-1-123-6.ec2.internal                            0.508ms 
+ 4:  216.182.224.66                                        7.567ms 
+ 5:  72.21.222.140                                         1.301ms 
+ 6:  72.21.220.64                                          1.428ms asymm  9 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.331ms asymm  9 
+ 8:  64.57.21.74                                          28.359ms 
+ 9:  atl-transitrail.ns.utk.edu                           30.554ms asymm 14 
+10:  fhm01v18.ns.utk.edu                                  30.368ms asymm 16 
+11:  no reply
+12:  pl2.eecs.utk.edu                                     30.865ms reached
+     Resume: pmtu 1500 hops 12 back 50 
