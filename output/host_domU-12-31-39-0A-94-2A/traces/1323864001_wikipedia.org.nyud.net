@@ -1,0 +1,15 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.111ms pmtu 1500
+ 1:  10.211.148.3                                          0.877ms asymm  2 
+ 1:  10.211.148.3                                          0.921ms asymm  2 
+ 2:  ip-10-1-12-17.ec2.internal                            0.436ms 
+ 3:  ip-10-1-13-14.ec2.internal                            0.594ms 
+ 4:  216.182.232.50                                        1.495ms 
+ 5:  72.21.222.148                                         0.967ms 
+ 6:  72.21.220.68                                          2.907ms asymm  9 
+ 7:  72.21.221.42                                          1.430ms asymm 11 
+ 8:  xe-0-2-0.212.rtr.ll.indiana.gigapop.net              30.524ms asymm 10 
+ 9:  149.165.183.30                                       38.812ms asymm 12 
+10:  no reply
+11:  no reply
+12:  planetlab4.cse.nd.edu                                38.900ms reached
+     Resume: pmtu 1500 hops 12 back 52 
