@@ -1,0 +1,22 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.134ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.562ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           1.123ms asymm  2 
+ 2:  ip-10-1-106-17.ec2.internal                           0.464ms 
+ 3:  ip-10-1-107-6.ec2.internal                            0.509ms 
+ 4:  216.182.224.56                                        0.535ms 
+ 5:  72.21.222.138                                         1.208ms 
+ 6:  72.21.220.144                                         1.701ms asymm  9 
+ 7:  xe-11-0-0.edge1.Washington1.Level3.net                1.294ms asymm  8 
+ 8:  vlan90.csw4.Washington1.Level3.net                    1.823ms asymm  9 
+ 9:  ae-82-82.ebr2.Washington1.Level3.net                  2.015ms asymm 10 
+10:  ae-44-44.ebr2.Paris1.Level3.net                      83.790ms asymm 11 
+11:  ae-45-45.ebr1.Frankfurt1.Level3.net                  90.015ms asymm 12 
+12:  ae-61-61.csw1.Frankfurt1.Level3.net                  90.564ms asymm 15 
+13:  ae-3-80.edge5.Frankfurt1.Level3.net                  89.496ms 
+14:  DANTE.edge5.Frankfurt1.Level3.net                    91.899ms asymm 17 
+15:  zr-pot1-te0-0-0-4.x-win.dfn.de                      102.630ms asymm 12 
+16:  xr-pep1-te2-1.x-win.dfn.de                          103.461ms asymm 12 
+17:  xr-tub2-te1-2.x-win.dfn.de                          103.668ms asymm 15 
+18:  kr-tu-berlin.x-win.dfn.de                           103.495ms asymm 13 
+19:  planet02.HHI.FRAUNHOFER.DE                          191.605ms reached
+     Resume: pmtu 1500 hops 19 back 48 
