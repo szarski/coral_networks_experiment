@@ -1,0 +1,20 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.144ms pmtu 1500
+ 1:  10.211.148.2                                          0.518ms asymm  2 
+ 1:  10.211.148.2                                          0.386ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.514ms 
+ 3:  ip-10-1-7-14.ec2.internal                             4.437ms 
+ 4:  216.182.224.76                                        0.588ms 
+ 5:  72.21.220.225                                         0.690ms asymm  4 
+ 6:  72.21.222.148                                        29.503ms asymm  5 
+ 7:  72.21.220.28                                          1.009ms 
+ 8:  77.67.108.33                                          2.320ms asymm 12 
+ 9:  te0-7-0-5.mpd22.iad02.atlas.cogentco.com              1.255ms asymm 10 
+10:  te0-3-0-1.mpd22.dca01.atlas.cogentco.com              2.364ms 
+11:  te0-0-0-3.mpd22.atl01.atlas.cogentco.com             31.255ms asymm 14 
+12:  te0-3-0-7.mpd22.atl01.atlas.cogentco.com             31.168ms asymm 15 
+13:  2910-r3-mg.bkb.rnp.br                               154.633ms asymm 16 
+14:  38.104.94.74                                         61.187ms asymm 13 
+15:  ae4-540-r0-sp.bkb.rnp.br                            137.195ms asymm 14 
+16:  ae4-540-r0-sp.bkb.rnp.br                            137.851ms asymm 14 
+17:  planetlab2.pop-mg.rnp.br                            152.776ms reached
+     Resume: pmtu 1500 hops 17 back 45 
