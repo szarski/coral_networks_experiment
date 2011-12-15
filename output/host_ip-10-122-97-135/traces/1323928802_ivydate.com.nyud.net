@@ -1,0 +1,16 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.114ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.544ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           1.012ms asymm  2 
+ 2:  ip-10-1-102-17.ec2.internal                           0.617ms 
+ 3:  ip-10-1-105-6.ec2.internal                            0.571ms 
+ 4:  216.182.224.56                                        0.676ms 
+ 5:  72.21.220.193                                         0.559ms asymm  4 
+ 6:  72.21.222.140                                         7.126ms asymm  5 
+ 7:  72.21.220.32                                          1.732ms asymm  9 
+ 8:  72.21.221.42                                          1.681ms asymm 11 
+ 9:  xe-0-2-0.212.rtr.ll.indiana.gigapop.net              30.543ms 
+10:  149.165.183.30                                       38.014ms asymm 12 
+11:  no reply
+12:  no reply
+13:  planetlab4.cse.nd.edu                                39.343ms reached
+     Resume: pmtu 1500 hops 13 back 50 
