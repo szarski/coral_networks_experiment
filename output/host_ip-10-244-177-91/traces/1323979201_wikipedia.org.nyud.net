@@ -1,0 +1,19 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.107ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          1.973ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.992ms asymm  2 
+ 2:  ip-10-1-42-1.ec2.internal                             0.606ms 
+ 3:  ip-10-1-43-14.ec2.internal                            0.447ms 
+ 4:  216.182.224.86                                        1.971ms 
+ 5:  72.21.222.156                                         1.489ms 
+ 6:  72.21.220.134                                         1.822ms asymm  9 
+ 7:  xe-11-2-1.edge3.Washington1.Level3.net                1.484ms asymm  9 
+ 8:  vlan90.csw4.Washington1.Level3.net                    2.180ms asymm 10 
+ 9:  ae-91-91.ebr1.Washington1.Level3.net                  2.687ms asymm 12 
+10:  ae-1-6.bar1.Cleveland1.Level3.net                     9.814ms asymm 14 
+11:  ae-0-11.bar2.Cleveland1.Level3.net                    9.523ms asymm 15 
+12:  ONE-CLEVELA.bar2.Cleveland1.Level3.net                9.425ms 
+13:  209.130.203.246                                     105.863ms asymm 16 
+14:  no reply
+15:  no reply
+16:  planetlab-5.eecs.CWRU.Edu                            11.122ms reached
+     Resume: pmtu 1500 hops 16 back 46 
