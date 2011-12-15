@@ -1,0 +1,19 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.129ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.595ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.393ms asymm  2 
+ 2:  ip-10-1-48-1.ec2.internal                             0.493ms 
+ 3:  ip-10-1-49-14.ec2.internal                            0.553ms 
+ 4:  216.182.232.54                                        0.603ms 
+ 5:  72.21.222.154                                         1.808ms 
+ 6:  72.21.220.38                                          1.637ms asymm  9 
+ 7:  ash-bb1-link.telia.net                                1.827ms asymm 10 
+ 8:  hbg-bb1-link.telia.net                               95.196ms asymm 12 
+ 9:  hbg-b1-link.telia.net                               120.901ms asymm 12 
+10:  telekomunikacja-ic-142822-hbg-b1.c.telia.net        118.718ms asymm 13 
+11:  195.117.0.10                                        110.826ms asymm 14 
+12:  no reply
+13:  c6503-outside.rtr.pw.edu.pl                         114.203ms asymm 21 
+14:  c3750.rtr.pw.edu.pl                                 116.872ms asymm 25 
+15:  coi-mini.rtr.pw.edu.pl                              113.942ms asymm 23 
+16:  planetlab4.mini.pw.edu.pl                           114.196ms reached
+     Resume: pmtu 1500 hops 16 back 38 
