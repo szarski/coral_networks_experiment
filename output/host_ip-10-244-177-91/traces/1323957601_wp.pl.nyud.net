@@ -1,0 +1,18 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.125ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                         34.745ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          6.738ms asymm  2 
+ 2:  ip-10-1-42-1.ec2.internal                             0.467ms 
+ 3:  ip-10-1-43-14.ec2.internal                            0.927ms 
+ 4:  216.182.224.86                                        0.599ms 
+ 5:  72.21.220.241                                         0.616ms asymm  4 
+ 6:  72.21.222.154                                         1.786ms asymm  5 
+ 7:  72.21.220.38                                          1.841ms asymm  9 
+ 8:  72.21.221.42                                          2.306ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                37.425ms 
+10:  64.57.21.254                                         34.726ms asymm 12 
+11:  164.113.232.238                                      35.990ms asymm 12 
+12:  wsec6-ge3-13.unl.edu                                 35.781ms asymm 14 
+13:  love-c1-te1-7.unl.edu                                36.381ms asymm 15 
+14:  oldh-d1-te1-2.unl.edu                                36.164ms asymm 16 
+15:  planetlab1.unl.edu                                   36.496ms reached
+     Resume: pmtu 1500 hops 15 back 48 
