@@ -1,0 +1,28 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.158ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.466ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           1.157ms asymm  2 
+ 2:  ip-10-1-118-17.ec2.internal                           0.753ms 
+ 3:  ip-10-1-121-6.ec2.internal                            0.534ms 
+ 4:  216.182.224.66                                        0.455ms 
+ 5:  72.21.222.140                                         1.401ms 
+ 6:  72.21.220.56                                          1.553ms asymm  9 
+ 7:  ae-13.r02.asbnva02.us.bb.gin.ntt.net                  1.498ms asymm  9 
+ 8:  ae-9.r21.asbnva02.us.bb.gin.ntt.net                   2.261ms asymm 10 
+ 9:  ae-4.r20.snjsca04.us.bb.gin.ntt.net                  99.789ms 
+10:  as-1.r20.osakjp01.jp.bb.gin.ntt.net                 182.227ms asymm 12 
+11:  ae-1.r22.osakjp01.jp.bb.gin.ntt.net                 200.012ms asymm 13 
+12:  ae-5.r24.tokyjp01.jp.bb.gin.ntt.net                 203.946ms asymm 15 
+13:  p64-2-0-0.r20.taiptw01.tw.bb.gin.ntt.net            213.805ms asymm 14 
+14:  xe-0-1-0.a05.taiptw01.tw.ra.gin.ntt.net             231.124ms asymm 16 
+15:  122.255.91.14                                       228.652ms asymm 23 
+16:  203.78.181.133                                      226.465ms asymm 26 
+17:  175.41.60.105                                       238.216ms asymm 22 
+18:  175.41.61.182                                       221.406ms asymm 23 
+19:  203.160.226.234                                     223.125ms asymm 24 
+20:  140.112.0.201                                       230.927ms asymm 24 
+21:  140.112.0.221                                       228.107ms asymm 23 
+22:  140.112.1.82                                        241.750ms asymm 25 
+23:  140.112.0.201                                       211.354ms asymm 24 
+24:  140.112.1.82                                        391.353ms asymm 25 
+25:  eve.ee.ntu.edu.tw                                   429.605ms reached
+     Resume: pmtu 1500 hops 25 back 40 
