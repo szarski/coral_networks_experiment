@@ -1,0 +1,21 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.143ms pmtu 1500
+ 1:  10.211.148.2                                          0.529ms asymm  2 
+ 1:  10.211.148.2                                          0.450ms asymm  2 
+ 2:  ip-10-1-4-17.ec2.internal                             6.736ms 
+ 3:  ip-10-1-5-14.ec2.internal                             0.699ms 
+ 4:  216.182.224.72                                        0.601ms 
+ 5:  72.21.220.225                                         0.789ms asymm  4 
+ 6:  72.21.222.148                                         1.060ms asymm  5 
+ 7:  72.21.220.44                                          1.418ms asymm  9 
+ 8:  us-ash.nordu.net                                      1.676ms asymm 10 
+ 9:  uk-hex.nordu.net                                     86.737ms 
+10:  dk-ore.nordu.net                                    107.839ms asymm 12 
+11:  dk-ore2.nordu.net                                   108.008ms asymm 12 
+12:  ndn-gw.pionier.gov.pl                               123.768ms asymm 15 
+13:  z-poznan-gw1.nask.10Gb.rtr.pionier.gov.pl           135.528ms asymm 16 
+14:  welcome-at.pw.edu.pl                                134.750ms asymm 13 
+15:  c6503-outside.rtr.pw.edu.pl                         136.442ms asymm 14 
+16:  c3750.rtr.pw.edu.pl                                 150.179ms 
+17:  coi-mini.rtr.pw.edu.pl                              136.622ms 
+18:  planetlab3.mini.pw.edu.pl                           137.548ms reached
+     Resume: pmtu 1500 hops 18 back 45 
