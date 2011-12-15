@@ -1,0 +1,16 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.123ms pmtu 1500
+ 1:  10.211.148.3                                          0.571ms asymm  2 
+ 1:  10.211.148.3                                          0.450ms asymm  2 
+ 2:  ip-10-1-18-17.ec2.internal                            0.567ms 
+ 3:  ip-10-1-19-14.ec2.internal                            0.447ms 
+ 4:  216.182.232.50                                        0.601ms 
+ 5:  72.21.222.148                                         0.998ms 
+ 6:  72.21.220.36                                          0.898ms asymm  8 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 0.995ms asymm  8 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.521ms asymm 11 
+ 9:  64.57.21.238                                         24.934ms 
+10:  ge-0-0-0x18.iron-mt2.mich.net                        31.956ms asymm 12 
+11:  ge0-2x11.mtu3.mich.net                               34.447ms 
+12:  207.75.40.2                                          37.635ms asymm 15 
+13:  mtuplanetlab1.cs.mtu.edu                             35.247ms reached
+     Resume: pmtu 1500 hops 13 back 49 
