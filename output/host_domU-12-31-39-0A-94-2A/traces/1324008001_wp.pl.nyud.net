@@ -1,0 +1,21 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.118ms pmtu 1500
+ 1:  10.211.148.2                                          0.515ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.424ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.833ms 
+ 4:  216.182.224.76                                        0.553ms 
+ 5:  72.21.220.225                                         0.731ms asymm  4 
+ 6:  72.21.222.148                                         1.114ms asymm  5 
+ 7:  72.21.220.52                                          1.064ms asymm  8 
+ 8:  gw3.lax1.asianetcom.net                              67.789ms asymm  7 
+ 9:  te0-3-0-0.wr2.sin0.asianetcom.net                   230.717ms asymm 12 
+10:  gi14-0-0.gw5.sin1.asianetcom.net                    230.987ms asymm 13 
+11:  gi2-2.gw2.sin1.asianetcom.net                       231.099ms asymm 13 
+12:  NUS-0020.GW2.SIN1.asianetcom.net                    230.745ms asymm 16 
+13:  ge-5-1-1.cc-rtr1.gigapop.nus.edu.sg                 231.478ms asymm 14 
+14:  nus-gw1.gigapop.nus.edu.sg                          232.155ms asymm 17 
+15:  nusnet-3-194.dynip.nus.edu.sg                       233.220ms asymm 16 
+16:  no reply
+17:  nusnet-180-235.dynip.nus.edu.sg                     232.781ms asymm 19 
+18:  nusnet-180-3.dynip.nus.edu.sg                       233.571ms asymm 19 
+19:  planetlab2.comp.nus.edu.sg                          233.528ms reached
+     Resume: pmtu 1500 hops 19 back 45 
