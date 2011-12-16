@@ -1,0 +1,22 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.120ms pmtu 1500
+ 1:  10.211.148.3                                          5.789ms asymm  2 
+ 1:  10.211.148.3                                          0.665ms asymm  2 
+ 2:  ip-10-1-18-17.ec2.internal                            0.482ms 
+ 3:  ip-10-1-19-14.ec2.internal                            0.525ms 
+ 4:  216.182.224.80                                        0.635ms 
+ 5:  72.21.222.148                                         0.968ms 
+ 6:  72.21.220.44                                          1.486ms asymm  9 
+ 7:  ae-4.r04.asbnva02.us.bb.gin.ntt.net                   1.839ms asymm 10 
+ 8:  192.205.37.53                                         2.936ms asymm 11 
+ 9:  cr2.wswdc.ip.att.net                                 49.021ms asymm 23 
+10:  cr1.attga.ip.att.net                                 48.955ms asymm 19 
+11:  cr2.ormfl.ip.att.net                                 46.559ms asymm 21 
+12:  gar4.miufl.ip.att.net                                43.614ms asymm 18 
+13:  12.88.168.14                                         34.937ms 
+14:  t9-1.gw1.mia.terremark.net                           34.554ms 
+15:  t9-1.gw1.mia.terremark.net                           34.455ms asymm 14 
+16:  panama-miami.core.redclara.net                       95.400ms asymm 17 
+17:  panama-santiago.core.redclara.net                   155.295ms 
+18:  panama-santiago.core.redclara.net                   154.833ms asymm 17 
+19:  planetlab1-santiago.lan.redclara.net                175.509ms reached
+     Resume: pmtu 1500 hops 19 back 47 
