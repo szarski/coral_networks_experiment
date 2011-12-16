@@ -1,0 +1,18 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.129ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          1.244ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.454ms asymm  2 
+ 2:  ip-10-1-42-1.ec2.internal                             0.547ms 
+ 3:  ip-10-1-43-14.ec2.internal                            4.996ms 
+ 4:  216.182.224.84                                       28.991ms 
+ 5:  72.21.220.241                                         0.967ms asymm  4 
+ 6:  72.21.222.154                                         4.796ms asymm  5 
+ 7:  72.21.220.54                                         58.055ms asymm  9 
+ 8:  equinixexchange-ash.flagtelecom.com                   8.290ms 
+ 9:  xe-1-2-0.0.cji01.nyc005.flagtel.com                   8.587ms asymm 12 
+10:  customer-yipes.flagtel.com                            9.046ms asymm 13 
+11:  nyu-bgp-1gr-35q-1.yipes.com                          25.304ms asymm 13 
+12:  NYUGWA-VL10.NET.NYU.EDU                              24.778ms asymm 18 
+13:  WSSGW-VL902.NET.NYU.EDU                              88.648ms asymm 16 
+14:  delancy.scs.cs.nyu.edu                               19.528ms asymm 19 
+15:  planetx.scs.cs.nyu.edu                               17.218ms reached
+     Resume: pmtu 1500 hops 15 back 44 
