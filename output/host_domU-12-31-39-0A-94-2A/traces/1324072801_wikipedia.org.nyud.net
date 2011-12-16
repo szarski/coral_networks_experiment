@@ -1,0 +1,15 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.101ms pmtu 1500
+ 1:  10.211.148.3                                          1.487ms asymm  2 
+ 1:  10.211.148.3                                          0.449ms asymm  2 
+ 2:  ip-10-1-14-17.ec2.internal                            0.513ms 
+ 3:  ip-10-1-15-14.ec2.internal                            0.559ms 
+ 4:  216.182.224.80                                        7.289ms 
+ 5:  72.21.222.148                                         1.046ms 
+ 6:  72.21.220.68                                          1.979ms asymm  9 
+ 7:  72.21.221.42                                          1.294ms asymm 11 
+ 8:  64.57.21.74                                          35.547ms asymm 10 
+ 9:  atl-transitrail.ns.utk.edu                           30.479ms asymm 12 
+10:  fhm01v18.ns.utk.edu                                  30.085ms asymm 13 
+11:  no reply
+12:  pl2.eecs.utk.edu                                     30.390ms reached
+     Resume: pmtu 1500 hops 12 back 50 
