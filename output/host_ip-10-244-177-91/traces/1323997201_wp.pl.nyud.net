@@ -1,0 +1,22 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.126ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.559ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.389ms asymm  2 
+ 2:  ip-10-1-40-1.ec2.internal                             0.462ms 
+ 3:  ip-10-1-41-14.ec2.internal                            2.472ms 
+ 4:  216.182.224.84                                        0.525ms 
+ 5:  72.21.220.241                                        13.377ms asymm  4 
+ 6:  72.21.222.154                                         1.611ms asymm  5 
+ 7:  72.21.220.70                                          4.992ms asymm  9 
+ 8:  72.21.221.42                                          2.234ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                20.175ms 
+10:  137.164.129.2                                        74.322ms asymm 13 
+11:  xe-1-0-0.0.paix0.tr-cps.internet2.edu                95.136ms asymm 14 
+12:  137.164.131.94                                       95.609ms asymm 14 
+13:  dc-svl-core1--svl-px1-10ge-3.cenic.net               96.069ms asymm 15 
+14:  dc-svl-agg1--svl-core1-10ge.cenic.net                96.227ms asymm 16 
+15:  dc-ucb--svl-agg1-10ge.cenic.net                     125.426ms 
+16:  t1-3.inr-202-reccev.Berkeley.EDU                     99.706ms asymm 17 
+17:  reccev-eecs-br-10GE.EECS.Berkeley.EDU                98.950ms asymm 16 
+18:  mill-10g-edge.EECS.Berkeley.EDU                      98.034ms asymm 19 
+19:  planetlab12.Millennium.Berkeley.EDU                  98.673ms reached
+     Resume: pmtu 1500 hops 19 back 44 
