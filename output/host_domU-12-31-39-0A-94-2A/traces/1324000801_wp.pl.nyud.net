@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.119ms pmtu 1500
+ 1:  10.211.148.3                                          0.576ms asymm  2 
+ 1:  10.211.148.3                                          0.396ms asymm  2 
+ 2:  ip-10-1-18-17.ec2.internal                            0.409ms 
+ 3:  ip-10-1-19-14.ec2.internal                            0.445ms 
+ 4:  216.182.224.80                                        0.517ms 
+ 5:  72.21.222.148                                         0.849ms 
+ 6:  72.21.220.36                                          1.104ms asymm  8 
+ 7:  72.21.221.42                                          1.493ms asymm 11 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.572ms asymm 11 
+ 9:  64.57.21.254                                         37.151ms asymm 12 
+10:  164.113.232.238                                      36.766ms asymm 13 
+11:  wsec6-ge3-13.unl.edu                                 35.922ms asymm 14 
+12:  love-c1-te1-7.unl.edu                                35.637ms asymm 15 
+13:  oldh-d1-te1-2.unl.edu                                35.221ms 
+14:  planetlab1.unl.edu                                   35.507ms reached
+     Resume: pmtu 1500 hops 14 back 51 
