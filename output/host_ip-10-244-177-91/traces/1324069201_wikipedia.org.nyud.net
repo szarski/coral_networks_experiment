@@ -1,0 +1,16 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.130ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.596ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.495ms asymm  2 
+ 2:  ip-10-1-36-1.ec2.internal                             0.973ms 
+ 3:  ip-10-1-37-14.ec2.internal                            4.519ms 
+ 4:  216.182.224.88                                        0.833ms 
+ 5:  72.21.220.241                                         0.661ms asymm  4 
+ 6:  72.21.222.154                                         1.680ms asymm  5 
+ 7:  72.21.220.70                                          2.083ms asymm  9 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.721ms asymm 11 
+ 9:  64.57.21.70                                          19.526ms asymm  8 
+10:  72.36.126.105                                        22.376ms asymm  9 
+11:  iccn-ur1rtr-uiuc1.gw.uiuc.edu                        22.647ms asymm 12 
+12:  t-extern1-1.gw.uiuc.edu                              22.621ms asymm 14 
+13:  planetlab4.cs.uiuc.edu                               23.041ms reached
+     Resume: pmtu 1500 hops 13 back 50 
