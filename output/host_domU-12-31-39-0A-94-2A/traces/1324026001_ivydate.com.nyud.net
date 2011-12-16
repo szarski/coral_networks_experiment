@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.111ms pmtu 1500
+ 1:  10.211.148.3                                          0.729ms asymm  2 
+ 1:  10.211.148.3                                          0.419ms asymm  2 
+ 2:  ip-10-1-18-17.ec2.internal                            0.729ms 
+ 3:  ip-10-1-19-14.ec2.internal                            0.418ms 
+ 4:  216.182.224.78                                        0.574ms 
+ 5:  72.21.222.148                                         0.761ms 
+ 6:  72.21.220.36                                         48.625ms asymm  8 
+ 7:  xe-3-0-0.was14.ip4.tinet.net                          1.079ms asymm  8 
+ 8:  tiscali.ash.seabone.net                               1.257ms asymm 11 
+ 9:  fiu.miami14.mia.seabone.net                          35.367ms asymm 14 
+10:  ae4-540-r0-sp.bkb.rnp.br                            136.825ms asymm 14 
+11:  xe-3-1-0-3000-r0-mg.bkb.rnp.br                      147.294ms asymm 17 
+12:  2910-r3-mg.bkb.rnp.br                               160.182ms asymm 16 
+13:  38.104.94.74                                         29.272ms 
+14:  planetlab2.pop-mg.rnp.br                            152.715ms reached
+     Resume: pmtu 1500 hops 14 back 45 
