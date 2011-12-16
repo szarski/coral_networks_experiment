@@ -1,0 +1,19 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.125ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.984ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.642ms asymm  2 
+ 2:  ip-10-1-40-1.ec2.internal                             0.655ms 
+ 3:  ip-10-1-41-14.ec2.internal                            0.977ms 
+ 4:  216.182.232.52                                        0.907ms 
+ 5:  72.21.220.241                                         0.781ms asymm  4 
+ 6:  72.21.222.154                                         1.523ms asymm  5 
+ 7:  72.21.220.62                                          1.683ms asymm  6 
+ 8:  72.21.221.38                                          1.555ms asymm 10 
+ 9:  xe-1-2-0.er2.iad10.us.above.net                       2.066ms asymm 11 
+10:  xe-5-1-0.cr2.dca2.us.above.net                       35.149ms asymm 12 
+11:  xe-2-2-0.cr2.iah1.us.above.net                       29.486ms asymm 10 
+12:  xe-1-1-0.er2.iah1.us.above.net                       29.572ms asymm 15 
+13:  64.125.143.21.available.above.net                    29.630ms asymm 12 
+14:  no reply
+15:  as36859-tlc2.gw.uh.edu                               30.360ms asymm 16 
+16:  planetlab-2.cs.uh.edu                                30.034ms reached
+     Resume: pmtu 1500 hops 16 back 47 
