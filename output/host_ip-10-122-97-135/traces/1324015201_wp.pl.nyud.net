@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.138ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.643ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.964ms asymm  2 
+ 2:  ip-10-1-108-17.ec2.internal                           0.746ms 
+ 3:  ip-10-1-103-6.ec2.internal                            1.075ms 
+ 4:  216.182.224.48                                        0.748ms 
+ 5:  72.21.220.193                                         0.659ms asymm  4 
+ 6:  72.21.222.140                                         1.497ms asymm  5 
+ 7:  72.21.220.48                                          1.684ms asymm  9 
+ 8:  ash-bb1-link.telia.net                                6.171ms asymm 11 
+ 9:  ffm-bb1-link.telia.net                              102.299ms asymm 10 
+10:  prag-bb1-link.telia.net                             120.305ms asymm 13 
+11:  prag-b3-link.telia.net                              120.236ms 
+12:  cesnet-01205-prag-b3.c.telia.net                    122.985ms asymm 14 
+13:  r105-r40.cesnet.cz                                  121.605ms asymm 16 
+14:  planetlab1.cesnet.cz                                120.988ms reached
+     Resume: pmtu 1500 hops 14 back 52 
