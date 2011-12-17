@@ -1,0 +1,20 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.139ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.545ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.422ms asymm  2 
+ 2:  ip-10-1-36-1.ec2.internal                             0.447ms 
+ 3:  ip-10-1-37-14.ec2.internal                            0.449ms 
+ 4:  216.182.224.84                                        0.600ms 
+ 5:  72.21.220.241                                         0.927ms asymm  4 
+ 6:  72.21.222.154                                         1.489ms asymm  5 
+ 7:  72.21.220.70                                          2.062ms asymm  9 
+ 8:  72.21.221.42                                          1.911ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                20.071ms 
+10:  137.164.131.138                                      44.408ms asymm 11 
+11:  frgp-gw-2-te1-1.frgp.net                             44.435ms asymm 12 
+12:  ucb-i1-frgp.colorado.edu                             45.556ms asymm 18 
+13:  hut-juniper.colorado.edu                             46.042ms asymm 19 
+14:  engr-hut.colorado.edu                                45.961ms asymm 19 
+15:  engrgw-engr.colorado.edu                             45.133ms asymm 18 
+16:  cs-engr.colorado.edu                                 45.786ms asymm 22 
+17:  planetlab1.cs.colorado.edu                           45.503ms reached
+     Resume: pmtu 1500 hops 17 back 45 
