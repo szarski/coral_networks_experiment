@@ -1,0 +1,16 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.123ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.583ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.415ms asymm  2 
+ 2:  ip-10-1-48-1.ec2.internal                             0.497ms 
+ 3:  ip-10-1-49-14.ec2.internal                            0.617ms 
+ 4:  216.182.224.92                                        0.696ms 
+ 5:  72.21.222.154                                         1.667ms 
+ 6:  72.21.220.70                                          2.012ms asymm  9 
+ 7:  ethernet2-2.ar7.dca3.gblx.net                         2.366ms asymm 10 
+ 8:  lag9.csr2.DCA3.gblx.net                               6.221ms 
+ 9:  po4-20G.ar1.PAO2.gblx.net                            80.123ms asymm 13 
+10:  202.169.174.225                                     197.478ms asymm 12 
+11:  202.169.174.78                                      198.004ms asymm 13 
+12:  140.109.254.78                                      198.882ms asymm 14 
+13:  planetlab1.iis.sinica.edu.tw                        198.067ms reached
+     Resume: pmtu 1500 hops 13 back 53 
