@@ -1,0 +1,18 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.103ms pmtu 1500
+ 1:  10.211.148.2                                          0.729ms asymm  2 
+ 1:  10.211.148.2                                          0.489ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.462ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.548ms 
+ 4:  216.182.224.74                                        0.641ms 
+ 5:  72.21.220.225                                         2.373ms asymm  4 
+ 6:  72.21.222.148                                         1.601ms asymm  5 
+ 7:  72.21.220.68                                          2.220ms asymm  9 
+ 8:  72.21.221.42                                         68.727ms asymm 11 
+ 9:  137.164.131.54                                       21.394ms asymm  8 
+10:  no reply
+11:  no reply
+12:  198.32.166.178                                       48.867ms asymm 14 
+13:  131.247.254.241                                      48.950ms asymm 15 
+14:  enb-6500.net.usf.edu                                 48.082ms 
+15:  planetlab1.csee.usf.edu                              48.075ms reached
+     Resume: pmtu 1500 hops 15 back 50 
