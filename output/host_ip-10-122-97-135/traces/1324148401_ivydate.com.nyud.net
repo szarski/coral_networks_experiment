@@ -1,0 +1,27 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.120ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.872ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.943ms asymm  2 
+ 2:  ip-10-1-108-17.ec2.internal                           0.579ms 
+ 3:  ip-10-1-109-6.ec2.internal                            0.551ms 
+ 4:  216.182.224.64                                        9.717ms 
+ 5:  72.21.222.138                                         3.250ms 
+ 6:  72.21.220.152                                         1.388ms 
+ 7:  xe-4-3-1.edge2.Washington1.Level3.net                 1.796ms asymm 10 
+ 8:  vlan80.csw3.Washington1.Level3.net                    1.714ms asymm 10 
+ 9:  ae-92-92.ebr2.Washington1.Level3.net                  1.839ms asymm 11 
+10:  ae-3-3.ebr1.NewYork2.Level3.net                       7.846ms asymm 11 
+11:  ae-1-100.ebr2.NewYork2.Level3.net                     7.258ms asymm 14 
+12:  ae-6-6.ebr2.NewYork1.Level3.net                       7.301ms asymm 13 
+13:  ae-2-2.ebr4.SanJose1.Level3.net                      75.641ms asymm 16 
+14:  ae-61-61.csw1.SanJose1.Level3.net                    75.466ms asymm 17 
+15:  ae-62-62.ebr2.SanJose1.Level3.net                    75.503ms asymm 17 
+16:  ae-1-6.bar2.SanFrancisco1.Level3.net                 75.766ms asymm 17 
+17:  ae-0-11.bar1.SanFrancisco1.Level3.net                76.510ms asymm 21 
+18:  CHUNGHWA-TE.bar1.SanFrancisco1.Level3.net            76.977ms asymm 22 
+19:  175.41.60.1                                         203.062ms asymm 22 
+20:  175.41.61.174                                       211.785ms asymm 24 
+21:  203.160.226.234                                     203.598ms asymm 24 
+22:  203.160.226.234                                     208.788ms asymm 24 
+23:  140.112.0.225                                       217.022ms asymm 26 
+24:  planetlab1.im.ntu.edu.tw                            382.708ms reached
+     Resume: pmtu 1500 hops 24 back 38 
