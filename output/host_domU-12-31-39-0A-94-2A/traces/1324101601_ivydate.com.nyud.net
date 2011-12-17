@@ -1,0 +1,15 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.137ms pmtu 1500
+ 1:  10.211.148.3                                          0.591ms asymm  2 
+ 1:  10.211.148.3                                          0.404ms asymm  2 
+ 2:  ip-10-1-14-17.ec2.internal                            0.437ms 
+ 3:  ip-10-1-15-14.ec2.internal                            0.517ms 
+ 4:  216.182.232.50                                        0.972ms 
+ 5:  72.21.222.148                                         1.085ms 
+ 6:  72.21.220.68                                          2.121ms asymm  9 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.677ms asymm  8 
+ 8:  64.57.21.70                                          19.208ms 
+ 9:  72.36.126.105                                        21.547ms 
+10:  iccn-ur1rtr-uiuc1.gw.uiuc.edu                        22.087ms 
+11:  t-extern1-1.gw.uiuc.edu                              21.529ms 
+12:  planetlab4.cs.uiuc.edu                               22.236ms reached
+     Resume: pmtu 1500 hops 12 back 52 
