@@ -1,0 +1,26 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.126ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.496ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           1.016ms asymm  2 
+ 2:  ip-10-1-120-17.ec2.internal                           0.664ms 
+ 3:  ip-10-1-121-6.ec2.internal                            0.543ms 
+ 4:  216.182.224.68                                        0.666ms 
+ 5:  72.21.222.140                                         1.370ms 
+ 6:  72.21.220.32                                          1.811ms asymm  9 
+ 7:  ae-4.r04.asbnva02.us.bb.gin.ntt.net                   1.467ms 
+ 8:  ae-2.r21.asbnva02.us.bb.gin.ntt.net                   1.571ms 
+ 9:  ae-4.r20.snjsca04.us.bb.gin.ntt.net                  80.354ms 
+10:  as-1.r20.osakjp01.jp.bb.gin.ntt.net                 198.122ms 
+11:  ae-1.r22.osakjp01.jp.bb.gin.ntt.net                 259.122ms asymm 12 
+12:  ae-5.r24.tokyjp01.jp.bb.gin.ntt.net                 185.659ms asymm 15 
+13:  p64-2-0-0.r20.taiptw01.tw.bb.gin.ntt.net            221.054ms asymm 17 
+14:  xe-0-1-0.a05.taiptw01.tw.ra.gin.ntt.net             224.370ms asymm 17 
+15:  122.255.91.34                                       221.269ms asymm 22 
+16:  203.78.181.133                                      224.137ms asymm 26 
+17:  175.41.60.101                                       235.576ms asymm 19 
+18:  175.41.61.182                                       233.420ms asymm 23 
+19:  203.160.226.138                                     231.360ms asymm 23 
+20:  v255-117.NTCU.net                                   228.470ms asymm 14 
+21:  c7609-2-c7609C.nthu.edu.tw                          240.593ms asymm 15 
+22:  cs-c7609-2.nthu.edu.tw                              239.995ms asymm 15 
+23:  pads21.cs.nthu.edu.tw                               236.752ms reached
+     Resume: pmtu 1500 hops 23 back 47 
