@@ -1,0 +1,19 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.113ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.745ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.680ms asymm  2 
+ 2:  ip-10-1-120-17.ec2.internal                           0.462ms 
+ 3:  ip-10-1-123-6.ec2.internal                            0.553ms 
+ 4:  216.182.224.50                                        0.521ms 
+ 5:  72.21.222.140                                         1.077ms 
+ 6:  72.21.220.24                                          1.168ms 
+ 7:  xe-0-3-0.was12.ip4.tinet.net                          1.136ms asymm  9 
+ 8:  xe-5-1-0.was12.ip4.tinet.net                          1.464ms asymm  9 
+ 9:  fiu.miami14.mia.seabone.net                          37.227ms asymm 17 
+10:  198.32.252.142                                      146.286ms asymm 14 
+11:  usp.ptta.ansp.br                                    149.401ms asymm 19 
+12:  no reply
+13:  core-poli-b.uspnet.usp.br                           148.935ms asymm 18 
+14:  143.107.151.34                                      150.605ms asymm 21 
+15:  usp.ptta.ansp.br                                    143.104ms asymm 19 
+16:  plab2.larc.usp.br                                   144.529ms reached
+     Resume: pmtu 1500 hops 16 back 43 
