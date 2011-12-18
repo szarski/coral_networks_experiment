@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.119ms pmtu 1500
+ 1:  10.211.148.2                                          0.466ms asymm  2 
+ 1:  10.211.148.2                                          0.828ms asymm  2 
+ 2:  ip-10-1-4-17.ec2.internal                             0.430ms 
+ 3:  ip-10-1-5-14.ec2.internal                             0.722ms 
+ 4:  216.182.232.48                                       61.818ms 
+ 5:  72.21.220.225                                         0.525ms asymm  4 
+ 6:  72.21.222.148                                         0.947ms asymm  5 
+ 7:  72.21.220.52                                          1.333ms asymm  8 
+ 8:  NCCHRL-MLX-CORE02.spirittelecom.com                  18.726ms asymm 10 
+ 9:  xe-lag2.clma1.ip4.spirittelecom.net                  19.964ms asymm 11 
+10:  atm1-0-0.9110102.gwy.scclma.infoave.net              20.784ms 
+11:  165.166.22.70                                        30.406ms asymm 13 
+12:  165.166.57.198                                       21.383ms asymm 13 
+13:  no reply
+14:  planetlab1.citadel.edu                               22.718ms reached
+     Resume: pmtu 1500 hops 14 back 51 
