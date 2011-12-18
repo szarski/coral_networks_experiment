@@ -1,0 +1,20 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.106ms pmtu 1500
+ 1:  10.211.148.2                                          0.592ms asymm  2 
+ 1:  10.211.148.2                                          0.428ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.475ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.664ms 
+ 4:  216.182.232.48                                        0.839ms 
+ 5:  72.21.220.225                                         0.926ms asymm  4 
+ 6:  72.21.222.148                                         3.440ms asymm  5 
+ 7:  72.21.220.68                                          2.077ms asymm  9 
+ 8:  77.67.108.33                                          2.328ms asymm 12 
+ 9:  tiscali.ash.seabone.net                               2.519ms asymm 11 
+10:  fiu.miami14.mia.seabone.net                          49.420ms asymm 14 
+11:  198.32.252.142                                      146.275ms asymm 14 
+12:  te0-3-0-2.mpd22.atl01.atlas.cogentco.com             31.309ms asymm 14 
+13:  no reply
+14:  core-poli-b.uspnet.usp.br                           147.674ms asymm 19 
+15:  143.107.151.34                                      147.221ms asymm 21 
+16:  usp.ptta.ansp.br                                    141.435ms asymm 18 
+17:  plab1.larc.usp.br                                   148.152ms reached
+     Resume: pmtu 1500 hops 17 back 45 
