@@ -1,0 +1,22 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.108ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.911ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.571ms asymm  2 
+ 2:  ip-10-1-46-1.ec2.internal                             0.452ms 
+ 3:  ip-10-1-47-14.ec2.internal                            0.434ms 
+ 4:  216.182.224.90                                        0.689ms 
+ 5:  72.21.220.240                                         0.851ms asymm  4 
+ 6:  72.21.222.156                                         1.477ms asymm  5 
+ 7:  72.21.220.158                                         1.414ms asymm  9 
+ 8:  xe-10-2-0.edge1.Washington1.Level3.net                2.527ms asymm 10 
+ 9:  vlan60.csw1.Washington1.Level3.net                    2.312ms asymm 11 
+10:  ae-72-72.ebr2.Washington1.Level3.net                  2.992ms asymm  9 
+11:  ae-41-41.ebr2.Paris1.Level3.net                      81.709ms asymm 13 
+12:  ae-47-47.ebr1.Frankfurt1.Level3.net                  88.714ms asymm 14 
+13:  ae-91-91.csw4.Frankfurt1.Level3.net                  91.494ms asymm 15 
+14:  ae-4-90.edge5.Frankfurt1.Level3.net                  89.275ms asymm 15 
+15:  DANTE.edge5.Frankfurt1.Level3.net                    91.335ms asymm 17 
+16:  xr-saa1-ge5-1.x-win.dfn.de                           96.474ms asymm 22 
+17:  kr-0unisb.x-win.dfn.de                               96.394ms asymm 23 
+18:  mpi2rz-hsrp2.net.uni-saarland.de                     94.719ms asymm 21 
+19:  planetlab02.mpi-sws.mpg.de                           95.185ms reached
+     Resume: pmtu 1500 hops 19 back 41 
