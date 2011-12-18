@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.124ms pmtu 1500
+ 1:  10.211.148.3                                          0.510ms asymm  2 
+ 1:  10.211.148.3                                          0.401ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            3.610ms 
+ 3:  ip-10-1-17-14.ec2.internal                            1.270ms 
+ 4:  216.182.224.82                                       27.799ms 
+ 5:  72.21.222.148                                         1.074ms 
+ 6:  72.21.220.36                                          0.968ms asymm  8 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.083ms asymm  8 
+ 8:  137.164.131.54                                       21.691ms 
+ 9:  no reply
+10:  no reply
+11:  198.32.166.178                                       48.744ms asymm 14 
+12:  131.247.254.241                                      48.911ms asymm 15 
+13:  enb-6500.net.usf.edu                                 47.952ms asymm 14 
+14:  131.247.2.247                                        47.843ms reached
+     Resume: pmtu 1500 hops 14 back 50 
