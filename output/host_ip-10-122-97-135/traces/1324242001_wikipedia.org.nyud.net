@@ -1,0 +1,23 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.169ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.507ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.737ms asymm  2 
+ 2:  ip-10-1-120-17.ec2.internal                           5.073ms 
+ 3:  ip-10-1-121-6.ec2.internal                            1.247ms 
+ 4:  216.182.224.66                                        0.690ms 
+ 5:  72.21.222.140                                         1.342ms 
+ 6:  72.21.220.56                                          1.392ms asymm  9 
+ 7:  72.21.221.38                                          1.367ms asymm 10 
+ 8:  xe-0-2-0.er1.iad10.us.above.net                       1.556ms asymm 10 
+ 9:  xe-3-0-0.cr1.dca2.us.above.net                        2.489ms asymm 12 
+10:  xe-3-2-0.cr1.lga5.us.above.net                        7.672ms asymm 11 
+11:  xe-2-1-0.mpr1.ewr1.us.above.net                      24.208ms asymm 13 
+12:  xe-2-1-0.mpr1.ewr1.us.above.net                       7.469ms asymm 13 
+13:  no reply
+14:  no reply
+15:  no reply
+16:  no reply
+17:  no reply
+18:  no reply
+19:  no reply
+20:  planetlab2.rutgers.edu                                8.342ms reached
+     Resume: pmtu 1500 hops 20 back 43 
