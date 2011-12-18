@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.116ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.430ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.997ms asymm  2 
+ 2:  ip-10-1-102-17.ec2.internal                           0.578ms 
+ 3:  ip-10-1-103-6.ec2.internal                            0.527ms 
+ 4:  216.182.224.62                                        0.572ms 
+ 5:  72.21.220.193                                         0.659ms asymm  4 
+ 6:  72.21.222.140                                         1.153ms asymm  5 
+ 7:  72.21.220.64                                          1.463ms asymm  9 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.355ms asymm  9 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                29.949ms asymm 10 
+10:  64.57.21.238                                         20.347ms asymm 11 
+11:  ge-0-0-0x18.iron-mt2.mich.net                        32.510ms asymm 14 
+12:  ge0-2x11.mtu3.mich.net                               34.867ms asymm 11 
+13:  207.75.40.2                                          37.918ms asymm 15 
+14:  mtuplanetlab1.cs.mtu.edu                             36.222ms reached
+     Resume: pmtu 1500 hops 14 back 49 
