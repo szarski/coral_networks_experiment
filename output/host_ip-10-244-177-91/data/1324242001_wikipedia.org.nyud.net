@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!-- Sysops: Please do not edit the main template directly; update /temp and synchronise. -->
+
+<html lang="mul" dir="ltr">
+<head>
+<meta charset="utf-8" />
+<title>Wikipedia</title>
+<meta name="title" content="Wikipedia" />
+<meta name="description" content="Wikipedia, the free encyclopedia that anyone can edit." />
+<meta name="author" content="Wikimedia Foundation" />
+<meta name="copyright" content="Creative Commons Attribution-Share Alike 3.0 and GNU Free Documentation License" />
+<meta name="publisher" content="Wikimedia Foundation" />
+<meta name="language" content="Many" />
+<meta name="robots" content="index, follow" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<link rel="shortcut icon" href="//en.wikipedia.org/favicon.ico" />
+<link rel="apple-touch-icon" href="//upload.wikimedia.org/wikipedia/commons/f/f1/Wikipedia-mobile-icon.png" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="copyright" href="//www.gnu.org/copyleft/fdl.html" />
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="license" href="//www.gnu.org/copyleft/fdl.html" />
+<link rel="stylesheet" href="//bits.wikimedia.org/skins-1.18/monobook/main.css?303-4" type="text/css" media="screen, projection" />
+
+<!-- http://meta.wikimedia.org/wiki/Www.wikipedia.org_template/css -->
+<style>
+a{unicode-bidi:embed;white-space:nowrap}div.divTop10item{position:absolute}div.divTop10item a{display:block;padding:0;text-decoration:none}div.divTop10item strong{font-size:larger}div.divTop10item a:hover strong{text-decoration:underline}div.divTop10item em,div.divTop10item small{color:Black;text-decoration:none}div.divTop10item em{font-style:italic}div.divTop10item em.emNonItalicLang{font-style:normal}div#p-search{float:none;margin:1em auto 1.5em auto;max-width:95%;padding:0.3em;text-align:center;vertical-align:middle;width:540px}div#p-search h5{white-space:normal}div#p-search label span{white-space:nowrap}form#searchform fieldset{background-color:#f9f9f9;border:1px solid#aaa;margin-top:0.5em;padding:0.7em;width:auto}form#searchform input#searchInput{font-size:1.2em;margin:0;padding:0;vertical-align:top}form#searchform select#language{margin:0 0.4em;padding:0;vertical-align:middle}form#searchform input.searchButton{font-size:1.2em;margin:0;padding:0;vertical-align:top}div#divOtherProjects{float:left;font-weight:bold;margin:1.5em 0;text-align:center;vertical-align:middle;width:100%}div.divOtherProjectsItem{float:left;height:60px;min-width:12em;width:33%}div#divSiteInfo{clear:both;margin:2.5em 0 2em 0;text-align:center}#tenk div,#hundredk div{font-size:larger}
+</style>
+<style media="screen, projection">
+body{background:white}
+</style>
+<style media="print">
+body{background-color:transparent}a{color:black!important;background:none!important;padding:0!important}a:link,a:visited{color:#520;background:transparent
