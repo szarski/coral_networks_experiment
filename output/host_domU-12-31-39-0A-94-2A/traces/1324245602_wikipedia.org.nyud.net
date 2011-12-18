@@ -1,0 +1,22 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.098ms pmtu 1500
+ 1:  10.211.148.2                                          1.409ms asymm  2 
+ 1:  10.211.148.2                                          0.436ms asymm  2 
+ 2:  ip-10-1-8-17.ec2.internal                             0.544ms 
+ 3:  ip-10-1-9-14.ec2.internal                             0.532ms 
+ 4:  216.182.232.48                                        0.651ms 
+ 5:  72.21.220.225                                        12.592ms asymm  4 
+ 6:  72.21.222.148                                         0.916ms asymm  5 
+ 7:  72.21.220.68                                          2.090ms asymm  9 
+ 8:  xe-3-0-0.was14.ip4.tinet.net                          1.347ms 
+ 9:  xe-9-0-0.was12.ip4.tinet.net                          1.202ms asymm  8 
+10:  te0-7-0-5.mpd22.iad02.atlas.cogentco.com              1.609ms 
+11:  te0-4-0-1.mpd22.dca01.atlas.cogentco.com              3.021ms asymm 12 
+12:  te0-2-0-0.ccr21.dca01.atlas.cogentco.com              3.251ms asymm 13 
+13:  no reply
+14:  vl3827.na41.b007499-0.dca01.atlas.cogentco.com        2.626ms asymm 12 
+15:  Georgetown_University.demarc.cogentco.com             2.853ms 
+16:  141.161.76.218                                        2.736ms asymm 15 
+17:  STM-RTR1.gtunet.georgetown.edu                        2.790ms asymm 15 
+18:  STM-RTR1.gtunet.georgetown.edu                        2.594ms asymm 15 
+19:  planetlab1.georgetown.edu                             3.036ms reached
+     Resume: pmtu 1500 hops 19 back 49 
