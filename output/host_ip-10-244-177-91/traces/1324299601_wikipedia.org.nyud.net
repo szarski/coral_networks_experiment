@@ -1,0 +1,22 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.129ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          2.456ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.449ms asymm  2 
+ 2:  ip-10-1-48-1.ec2.internal                            34.953ms 
+ 3:  ip-10-1-49-14.ec2.internal                            0.637ms 
+ 4:  216.182.224.92                                        0.861ms 
+ 5:  72.21.222.154                                         1.712ms 
+ 6:  72.21.220.46                                         27.334ms 
+ 7:  rt0as-equinix.vx.shawcable.net                        1.902ms 
+ 8:  rc3as-ge12-0-0.vx.shawcable.net                       1.759ms asymm 11 
+ 9:  rc2nr-pos10-0-0.wp.shawcable.net                     57.394ms 
+10:  66.163.78.21                                         72.872ms asymm 12 
+11:  rc2wh-tge0-1-1-0.vc.shawcable.net                    85.945ms asymm 14 
+12:  ra2wh-tge2-1.vc.shawcable.net                        83.693ms asymm 13 
+13:  rx0wh-bcnet.vc.bigpipeinc.com                        84.131ms asymm 18 
+14:  cr1-tx3920.vantx1.BC.net                             84.286ms asymm 18 
+15:  347-TX-UBCAb-cr1.vncv1.BC.net                        84.544ms asymm 18 
+16:  a0-anguborder.net.ubc.ca                             81.951ms asymm 18 
+17:  a1-a0.net.ubc.ca                                     87.404ms asymm 20 
+18:  137.82.73.21                                         85.678ms asymm 22 
+19:  planetlab1.cs.ubc.ca                                 85.887ms reached
+     Resume: pmtu 1500 hops 19 back 42 
