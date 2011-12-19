@@ -1,0 +1,19 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.127ms pmtu 1500
+ 1:  10.211.148.2                                          0.537ms asymm  2 
+ 1:  10.211.148.2                                          0.412ms asymm  2 
+ 2:  ip-10-1-4-17.ec2.internal                             2.260ms 
+ 3:  ip-10-1-5-14.ec2.internal                             0.460ms 
+ 4:  216.182.224.74                                        0.832ms 
+ 5:  72.21.220.225                                         0.524ms asymm  4 
+ 6:  72.21.222.148                                         0.983ms asymm  5 
+ 7:  72.21.220.36                                          1.278ms asymm  8 
+ 8:  72.21.221.42                                          1.406ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.445ms asymm 11 
+10:  137.164.129.2                                        73.018ms asymm 12 
+11:  xe-1-0-0.0.paix0.tr-cps.internet2.edu                94.119ms asymm 12 
+12:  137.164.131.94                                       94.909ms asymm 14 
+13:  dc-svl-core1--svl-px1-10ge-3.cenic.net               94.692ms asymm 12 
+14:  dc-oak-agg2--svl-core1-10ge.cenic.net                96.525ms 
+15:  dc-sj-csu-egm--oak-dc2.cenic.net                     97.538ms asymm 17 
+16:  plab2.engr.sjsu.edu                                 101.807ms reached
+     Resume: pmtu 1500 hops 16 back 48 
