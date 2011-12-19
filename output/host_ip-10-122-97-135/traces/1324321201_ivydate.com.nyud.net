@@ -1,0 +1,19 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.135ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.483ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.812ms asymm  2 
+ 2:  ip-10-1-104-17.ec2.internal                           0.506ms 
+ 3:  ip-10-1-105-6.ec2.internal                            0.623ms 
+ 4:  216.182.224.48                                       32.401ms 
+ 5:  72.21.220.193                                         0.617ms asymm  4 
+ 6:  72.21.222.140                                         1.351ms asymm  5 
+ 7:  72.21.220.32                                          1.633ms asymm  9 
+ 8:  72.21.221.42                                          5.223ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.668ms asymm 10 
+10:  137.164.129.2                                        73.459ms asymm 11 
+11:  xe-1-0-0.0.paix0.tr-cps.internet2.edu                94.303ms 
+12:  137.164.131.94                                       94.890ms 
+13:  dc-svl-core1--svl-px1-10ge-1.cenic.net               94.869ms asymm 12 
+14:  dc-oak-agg2--svl-core1-10ge.cenic.net                96.741ms asymm 16 
+15:  dc-sj-csu-egm--oak-dc2.cenic.net                     97.658ms asymm 17 
+16:  plab1.engr.sjsu.edu                                 287.125ms reached
+     Resume: pmtu 1500 hops 16 back 49 
