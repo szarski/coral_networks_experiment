@@ -1,0 +1,26 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.162ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.659ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.448ms asymm  2 
+ 2:  ip-10-1-46-1.ec2.internal                             0.491ms 
+ 3:  ip-10-1-47-14.ec2.internal                            0.495ms 
+ 4:  216.182.224.90                                        0.535ms 
+ 5:  72.21.220.240                                         0.736ms asymm  4 
+ 6:  72.21.222.156                                         1.398ms asymm  5 
+ 7:  72.21.220.142                                         1.607ms asymm  9 
+ 8:  xe-7-0-0.edge2.Washington1.Level3.net                 1.848ms asymm 12 
+ 9:  vlan70.csw2.Washington1.Level3.net                    2.157ms asymm 11 
+10:  ae-72-72.ebr2.Washington1.Level3.net                  1.756ms asymm  9 
+11:  ae-42-42.ebr2.Paris1.Level3.net                      81.145ms asymm 10 
+12:  ae-45-45.ebr1.Frankfurt1.Level3.net                  89.997ms asymm 14 
+13:  ae-91-91.csw4.Frankfurt1.Level3.net                  88.996ms asymm 15 
+14:  ae-3-80.edge5.Frankfurt1.Level3.net                  90.699ms asymm 15 
+15:  DANTE.edge5.Frankfurt1.Level3.net                    94.292ms asymm 17 
+16:  xr-gsi1-te1-1.x-win.dfn.de                           96.686ms asymm 23 
+17:  xr-hei1-te2-1.x-win.dfn.de                           99.132ms asymm 23 
+18:  xr-fzk1-te1-1.x-win.dfn.de                          110.904ms asymm 23 
+19:  xr-kai1-te1-1.x-win.dfn.de                           96.851ms asymm 21 
+20:  xr-saa1-te1-1.x-win.dfn.de                           97.853ms asymm 22 
+21:  kr-0unisb.x-win.dfn.de                               96.427ms asymm 23 
+22:  mpi2rz-hsrp2.net.uni-saarland.de                     99.344ms asymm 21 
+23:  swsat1500.mpi-sws.mpg.de                             98.081ms reached
+     Resume: pmtu 1500 hops 23 back 41 
