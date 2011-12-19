@@ -1,0 +1,18 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.111ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.396ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           1.015ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           0.449ms 
+ 3:  ip-10-1-125-6.ec2.internal                            1.356ms 
+ 4:  216.182.224.50                                        0.631ms 
+ 5:  72.21.222.140                                         1.163ms 
+ 6:  72.21.220.40                                          1.305ms asymm  9 
+ 7:  ash-bb1-link.telia.net                                1.188ms asymm  8 
+ 8:  ldn-bb1-link.telia.net                               77.121ms asymm 12 
+ 9:  ldn-b3-link.telia.net                                77.299ms asymm 11 
+10:  jnt-ic-144809-ldn-b3.c.telia.net                     76.880ms asymm 12 
+11:  ae13.read-sbr1.ja.net                                78.258ms asymm 14 
+12:  be1.londic-rbr1.ja.net                               79.270ms asymm 14 
+13:  ucl.ja.net.136.97.146.in-addr.arpa                   79.205ms asymm 12 
+14:  193.60.255.130                                       99.407ms 
+15:  planetlab2.cs.ucl.ac.uk                              91.973ms reached
+     Resume: pmtu 1500 hops 15 back 48 
