@@ -1,0 +1,25 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.125ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.555ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.419ms asymm  2 
+ 2:  ip-10-1-48-1.ec2.internal                             0.510ms 
+ 3:  ip-10-1-49-14.ec2.internal                            0.459ms 
+ 4:  216.182.232.54                                        0.522ms 
+ 5:  72.21.222.154                                         1.725ms 
+ 6:  72.21.220.54                                          1.764ms asymm  9 
+ 7:  gw3.lax1.asianetcom.net                              69.445ms asymm  9 
+ 8:  te0-1-0-0.wr1.nrt0.asianetcom.net                   248.046ms asymm 11 
+ 9:  te0-0-0-0.wr1.osa0.asianetcom.net                   259.598ms asymm 12 
+10:  te0-2-0-0.wr1.hkg0.asianetcom.net                   317.577ms 
+11:  te0-0-0-0.wr1.sin0.asianetcom.net                   449.801ms 
+12:  gi1-0-0.gw5.sin1.asianetcom.net                     456.247ms asymm 18 
+13:  po10-1.gw2.sin1.asianetcom.net                      459.681ms asymm 15 
+14:  NUS-0020.GW2.SIN1.asianetcom.net                    438.000ms asymm 19 
+15:  xe-5-2-0.cc-rtr1.gigapop.nus.edu.sg                 435.209ms asymm 18 
+16:  nus-gw1.gigapop.nus.edu.sg                          435.239ms asymm 18 
+17:  nusnet-3-194.dynip.nus.edu.sg                       448.084ms asymm 16 
+18:  nusnet-3-194.dynip.nus.edu.sg                       453.245ms asymm 16 
+19:  no reply
+20:  nusnet-180-235.dynip.nus.edu.sg                     452.446ms asymm 21 
+21:  nusnet-180-3.dynip.nus.edu.sg                       449.637ms asymm 23 
+22:  planetlab1.comp.nus.edu.sg                          446.806ms reached
+     Resume: pmtu 1500 hops 22 back 41 
