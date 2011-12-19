@@ -1,0 +1,21 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.115ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.574ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.964ms asymm  2 
+ 2:  ip-10-1-122-17.ec2.internal                           0.723ms 
+ 3:  ip-10-1-123-6.ec2.internal                           15.863ms 
+ 4:  216.182.224.70                                        0.559ms 
+ 5:  72.21.220.192                                         0.510ms asymm  4 
+ 6:  72.21.222.138                                         1.284ms asymm  5 
+ 7:  72.21.220.120                                         1.626ms asymm  9 
+ 8:  xe-11-0-0.edge1.Washington1.Level3.net                1.198ms 
+ 9:  vlan90.csw4.Washington1.Level3.net                    1.844ms 
+10:  ae-62-62.ebr2.Washington1.Level3.net                  1.733ms asymm 11 
+11:  ae-5-5.ebr2.Washington12.Level3.net                   2.032ms asymm 10 
+12:  4.69.148.49                                           6.822ms asymm 11 
+13:  ae-1-8.bar2.Boston1.Level3.net                       12.051ms asymm 16 
+14:  ae-5-5.car2.Boston1.Level3.net                       11.646ms asymm 13 
+15:  BOSTON-UNIV.car2.Boston1.Level3.net                  12.499ms asymm 17 
+16:  comm595-tunnel-gw01-tu27-bent300-bdr-gw01-tu1.bu.edu  12.423ms 
+17:  cumm111-dist-aca01-tu1-comm595-tunnel-gw01-tu18.bu.edu  18.438ms asymm 19 
+18:  planetlab-01.bu.edu                                  12.800ms reached
+     Resume: pmtu 1500 hops 18 back 45 
