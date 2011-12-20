@@ -1,0 +1,20 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.118ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.482ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.884ms asymm  2 
+ 2:  ip-10-1-104-17.ec2.internal                           0.447ms 
+ 3:  ip-10-1-105-6.ec2.internal                            0.496ms 
+ 4:  216.182.224.64                                        9.617ms 
+ 5:  72.21.220.193                                         0.678ms asymm  4 
+ 6:  72.21.222.140                                         1.172ms asymm  5 
+ 7:  72.21.220.48                                          1.592ms asymm  9 
+ 8:  br01.asbnva16.integra.net                             2.114ms asymm 10 
+ 9:  tg9-1.cr02.chcgildt.integra.net                      58.680ms asymm 20 
+10:  209.63.82.89                                         59.227ms asymm 20 
+11:  te9-1.cr02.dnvrcoet.integra.net                     157.971ms asymm 19 
+12:  te9-4.cr01.dnvrcoet.integra.net                     102.820ms asymm 18 
+13:  tg13-1.cr02.slkcutxd.integra.net                     58.996ms asymm 17 
+14:  no reply
+15:  70.103.246.50                                        57.469ms asymm 17 
+16:  no reply
+17:  planetlab1.byu.edu                                   58.085ms reached
+     Resume: pmtu 1500 hops 17 back 49 
