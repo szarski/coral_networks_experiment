@@ -1,0 +1,17 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.112ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.910ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.659ms asymm  2 
+ 2:  ip-10-1-48-1.ec2.internal                             0.676ms 
+ 3:  ip-10-1-49-14.ec2.internal                            0.756ms 
+ 4:  216.182.232.54                                       41.036ms 
+ 5:  72.21.222.154                                         1.697ms 
+ 6:  72.21.220.46                                          1.411ms 
+ 7:  equinix-ashburn.ip-plus.net                           5.167ms asymm  9 
+ 8:  i00nye-005-gig13-0.bb.ip-plus.net                    10.351ms asymm 11 
+ 9:  i79zhb-005-pos11-0-0.bb.ip-plus.net                  96.127ms asymm 12 
+10:  no reply
+11:  swit-00-ser0.ce.ip-plus.net                          95.796ms asymm 13 
+12:  swiEZ2-10GE-1-3.switch.ch                            95.772ms 
+13:  rou-open-net-switch.ethz.ch                          96.001ms asymm 15 
+14:  planetlab4.ethz.ch                                   95.819ms reached
+     Resume: pmtu 1500 hops 14 back 48 
