@@ -1,0 +1,21 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.122ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.522ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.826ms asymm  2 
+ 2:  ip-10-1-104-17.ec2.internal                           1.029ms 
+ 3:  ip-10-1-105-6.ec2.internal                            0.564ms 
+ 4:  216.182.224.56                                        0.582ms 
+ 5:  72.21.220.193                                         0.596ms asymm  4 
+ 6:  72.21.222.140                                        24.619ms asymm  5 
+ 7:  72.21.220.32                                          1.791ms asymm  9 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.450ms asymm  9 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.748ms asymm 10 
+10:  137.164.129.2                                        73.507ms asymm 11 
+11:  xe-1-0-0.0.paix0.tr-cps.internet2.edu                94.125ms 
+12:  137.164.131.62                                       95.127ms asymm 13 
+13:  dc-svl-core1--svl-px1-10ge-1.cenic.net               95.020ms asymm 12 
+14:  dc-svl-agg1--svl-core1-10ge.cenic.net                95.209ms asymm 16 
+15:  dc-stanford--svl-agg1-10ge.cenic.net                 95.645ms 
+16:  boundarya-rtr.Stanford.EDU                           96.023ms asymm 18 
+17:  serv-rtr.Stanford.EDU                                95.825ms asymm 18 
+18:  planet1.scs.stanford.edu                             96.165ms reached
+     Resume: pmtu 1500 hops 18 back 46 
