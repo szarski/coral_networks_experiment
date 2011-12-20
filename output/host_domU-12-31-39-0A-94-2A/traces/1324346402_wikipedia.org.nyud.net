@@ -1,0 +1,22 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.108ms pmtu 1500
+ 1:  10.211.148.2                                          0.906ms asymm  2 
+ 1:  10.211.148.2                                          1.477ms asymm  2 
+ 2:  ip-10-1-10-17.ec2.internal                            7.970ms 
+ 3:  ip-10-1-11-14.ec2.internal                            0.541ms 
+ 4:  216.182.224.74                                        0.855ms 
+ 5:  72.21.222.146                                         1.824ms 
+ 6:  72.21.220.156                                         2.357ms asymm  9 
+ 7:  xe-10-2-0.edge1.Washington1.Level3.net                1.917ms asymm 10 
+ 8:  vlan70.csw2.Washington1.Level3.net                    2.127ms asymm  9 
+ 9:  ae-74-74.ebr4.Washington1.Level3.net                  8.495ms 
+10:  ae-4-4.ebr3.LosAngeles1.Level3.net                   68.391ms asymm 13 
+11:  ae-83-83.csw3.LosAngeles1.Level3.net                 65.841ms asymm 13 
+12:  ae-4-90.edge5.LosAngeles1.Level3.net                 65.890ms asymm 14 
+13:  JAPAN-TELEC.edge5.LosAngeles1.Level3.net             66.457ms asymm 16 
+14:  tokyo-dc-gm2-xe4-3-0-vlan10.s4.sinet.ad.jp          192.136ms asymm 16 
+15:  tokyo-dc-rm-ae4-vlan10.s4.sinet.ad.jp               192.632ms asymm 18 
+16:  kanazawa-dc-rm-xe0-0-1-vlan10.s4.sinet.ad.jp        192.737ms asymm 19 
+17:  JAIST-LAN-gw.sinet.ad.jp                            195.964ms asymm 20 
+18:  150.65.254.2                                        194.034ms asymm 21 
+19:  planet0.jaist.ac.jp                                 193.848ms reached
+     Resume: pmtu 1500 hops 19 back 45 
