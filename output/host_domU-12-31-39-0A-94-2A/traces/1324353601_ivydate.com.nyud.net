@@ -1,0 +1,35 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.138ms pmtu 1500
+ 1:  10.211.148.2                                          0.651ms asymm  2 
+ 1:  10.211.148.2                                          0.413ms asymm  2 
+ 2:  ip-10-1-10-17.ec2.internal                            0.656ms 
+ 3:  ip-10-1-11-14.ec2.internal                            0.549ms 
+ 4:  216.182.224.72                                        0.776ms 
+ 5:  72.21.220.225                                         1.261ms asymm  4 
+ 6:  72.21.222.148                                         1.124ms asymm  5 
+ 7:  72.21.220.28                                          1.117ms 
+ 8:  xe-3-0-0.was14.ip4.tinet.net                          1.157ms 
+ 9:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              1.650ms 
+10:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              1.422ms asymm  9 
+11:  te0-3-0-5.mpd22.dca01.atlas.cogentco.com              2.253ms asymm 10 
+12:  te0-4-0-7.mpd22.jfk02.atlas.cogentco.com              8.194ms asymm 14 
+13:  te0-0-0-6.ccr21.bos01.atlas.cogentco.com             83.031ms asymm 17 
+14:  te0-2-0-1.ccr21.lpl01.atlas.cogentco.com             79.742ms asymm 13 
+15:  te0-4-0-7.mpd21.ams03.atlas.cogentco.com             90.492ms 
+16:  te0-1-0-1.mpd21.fra03.atlas.cogentco.com             99.602ms asymm 15 
+17:  te0-0-0-0.ccr21.muc01.atlas.cogentco.com            111.840ms asymm 18 
+18:  te0-1-0-4.ccr21.muc01.atlas.cogentco.com            114.442ms asymm 21 
+19:  hanival-internet.demarc.cogentco.com                108.004ms asymm 14 
+20:  hanival-internet.demarc.cogentco.com                107.725ms asymm 14 
+21:  hanival-internet.demarc.cogentco.com                107.713ms asymm 14 
+22:  kol1-to-eie2.backbone.grnet.gr                      207.549ms asymm 17 
+23:  clientRouter.upatras.koletti-1.access-link.grnet.gr 150.712ms asymm 20 
+24:  no reply
+25:  no reply
+26:  clientRouter.upatras.koletti-1.access-link.grnet.gr 154.221ms asymm 20 
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
