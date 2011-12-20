@@ -1,0 +1,23 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.267ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.614ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.424ms asymm  2 
+ 2:  ip-10-1-38-1.ec2.internal                             0.427ms 
+ 3:  ip-10-1-39-14.ec2.internal                            0.644ms 
+ 4:  216.182.224.84                                        0.758ms 
+ 5:  72.21.220.241                                         0.706ms asymm  4 
+ 6:  72.21.222.154                                         1.557ms asymm  5 
+ 7:  72.21.220.38                                          1.915ms asymm  9 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.709ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                20.202ms 
+10:  137.164.131.102                                      55.564ms asymm 12 
+11:  ebc-p-a-170.uen.net                                  56.230ms asymm 15 
+12:  ebc-pe-a-178.uen.net                                 55.475ms asymm 14 
+13:  205.124.249.118                                      56.363ms asymm 14 
+14:  199.104.93.210                                       56.164ms asymm 16 
+15:  199.104.93.193                                       56.733ms asymm 17 
+16:  155.99.132.114                                       57.203ms asymm 17 
+17:  no reply
+18:  no reply
+19:  155.98.126.242                                       57.546ms asymm 20 
+20:  planetlab7.flux.utah.edu                             56.822ms reached
+     Resume: pmtu 1500 hops 20 back 47 
