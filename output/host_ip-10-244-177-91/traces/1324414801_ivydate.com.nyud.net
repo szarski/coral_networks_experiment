@@ -1,0 +1,20 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.123ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.889ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.657ms asymm  2 
+ 2:  ip-10-1-38-1.ec2.internal                             0.521ms 
+ 3:  ip-10-1-39-14.ec2.internal                            0.543ms 
+ 4:  216.182.224.84                                        0.836ms 
+ 5:  72.21.220.241                                         0.674ms asymm  4 
+ 6:  72.21.222.154                                         1.503ms asymm  5 
+ 7:  72.21.220.46                                          1.870ms asymm  6 
+ 8:  ae-11.r00.asbnva02.us.bb.gin.ntt.net                  1.741ms asymm 10 
+ 9:  192.205.37.53                                         2.991ms asymm 11 
+10:  cr2.wswdc.ip.att.net                                 12.007ms asymm 22 
+11:  cr2.n54ny.ip.att.net                                 10.059ms asymm 22 
+12:  cr84.n54ny.ip.att.net                                 8.953ms asymm 21 
+13:  cr84.n54ny.ip.att.net                                 9.175ms asymm 21 
+14:  12.116.102.22                                         9.577ms asymm 22 
+15:  42ce7023.unknown.oainc.net                            8.534ms asymm 14 
+16:  65.77.177.90                                          9.878ms asymm 18 
+17:  planetlab2.poly.edu                                  26.208ms reached
+     Resume: pmtu 1500 hops 17 back 46 
