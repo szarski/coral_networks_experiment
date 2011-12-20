@@ -1,0 +1,20 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.151ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.643ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.875ms asymm  2 
+ 2:  ip-10-1-120-17.ec2.internal                           4.941ms 
+ 3:  ip-10-1-121-6.ec2.internal                            0.482ms 
+ 4:  216.182.224.66                                        0.672ms 
+ 5:  72.21.222.140                                         1.246ms 
+ 6:  72.21.220.56                                          1.537ms asymm  9 
+ 7:  77.67.108.33                                          1.496ms asymm 11 
+ 8:  xe-1-0-0.was12.ip4.tinet.net                          1.527ms asymm 10 
+ 9:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              1.759ms asymm 12 
+10:  te0-2-0-5.mpd22.dca01.atlas.cogentco.com              2.798ms asymm 12 
+11:  te0-2-0-4.ccr22.dca01.atlas.cogentco.com              3.193ms asymm 12 
+12:  te0-5-0-6.ccr21.jfk02.atlas.cogentco.com              8.389ms asymm 11 
+13:  38.122.8.210                                          8.587ms asymm 15 
+14:  38.122.8.210                                          8.806ms asymm 15 
+15:  mudd-edge-1-x-cc-core-1.net.columbia.edu             67.687ms asymm 17 
+16:  mudd-edge-1-x-cc-core-1.net.columbia.edu              9.036ms asymm 17 
+17:  planetlab2.cs.columbia.edu                            8.900ms reached
+     Resume: pmtu 1500 hops 17 back 50 
