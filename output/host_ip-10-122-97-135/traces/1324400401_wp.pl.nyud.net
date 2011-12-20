@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.121ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.556ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.517ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           0.680ms 
+ 3:  ip-10-1-125-6.ec2.internal                            0.509ms 
+ 4:  216.182.224.68                                        0.653ms 
+ 5:  72.21.222.140                                         1.167ms 
+ 6:  72.21.220.64                                          1.491ms asymm  9 
+ 7:  72.21.221.42                                          1.812ms asymm 11 
+ 8:  137.164.131.54                                       22.036ms asymm  9 
+ 9:  no reply
+10:  no reply
+11:  198.32.166.178                                       48.224ms asymm 14 
+12:  131.247.254.241                                      48.475ms asymm 13 
+13:  enb-6500.net.usf.edu                                 51.491ms asymm 16 
+14:  planetlab1.csee.usf.edu                              48.049ms reached
+     Resume: pmtu 1500 hops 14 back 48 
