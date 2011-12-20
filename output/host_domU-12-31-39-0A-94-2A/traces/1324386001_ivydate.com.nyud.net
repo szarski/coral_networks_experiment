@@ -1,0 +1,15 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.112ms pmtu 1500
+ 1:  10.211.148.3                                          0.485ms asymm  2 
+ 1:  10.211.148.3                                          0.414ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            0.460ms 
+ 3:  ip-10-1-17-14.ec2.internal                            0.506ms 
+ 4:  216.182.224.82                                       40.269ms 
+ 5:  72.21.222.148                                         0.848ms 
+ 6:  72.21.220.36                                          1.063ms asymm  8 
+ 7:  72.21.221.42                                          1.385ms asymm 11 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.306ms asymm 11 
+ 9:  64.57.21.122                                         32.491ms asymm 10 
+10:  telecomb-br-01-te-4-3.northernlights.gigapop.net     32.113ms asymm 13 
+11:  telecomb-bn-01-v3760.ggnet.umn.edu                   31.684ms 
+12:  planetlabps.dtc.umn.edu                              31.944ms reached
+     Resume: pmtu 1500 hops 12 back 50 
