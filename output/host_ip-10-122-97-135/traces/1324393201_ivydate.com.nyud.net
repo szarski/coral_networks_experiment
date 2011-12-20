@@ -1,0 +1,13 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.114ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.718ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.594ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           0.559ms 
+ 3:  ip-10-1-119-6.ec2.internal                           12.776ms 
+ 4:  216.182.224.50                                        4.128ms 
+ 5:  72.21.222.140                                        21.550ms 
+ 6:  72.21.220.64                                          1.279ms asymm  9 
+ 7:  ethernet2-2.csr1.dca3.gblx.net                        1.354ms asymm 10 
+ 8:  lag9.csr2.DCA3.gblx.net                               9.542ms asymm 11 
+ 9:  COX2-iborder-ve3374.emory.net                        30.536ms asymm 12 
+10:  node1.planetlab.mathcs.emory.edu                     18.800ms reached
+     Resume: pmtu 1500 hops 10 back 52 
