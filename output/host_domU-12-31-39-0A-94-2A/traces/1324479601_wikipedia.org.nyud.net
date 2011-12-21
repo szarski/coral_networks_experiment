@@ -1,0 +1,18 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.113ms pmtu 1500
+ 1:  10.211.148.2                                          0.543ms asymm  2 
+ 1:  10.211.148.2                                          0.413ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.698ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.609ms 
+ 4:  216.182.224.74                                        0.592ms 
+ 5:  72.21.220.225                                         0.664ms asymm  4 
+ 6:  72.21.222.148                                         1.019ms asymm  5 
+ 7:  72.21.220.60                                          0.981ms asymm  8 
+ 8:  72.21.221.38                                          1.151ms asymm  9 
+ 9:  xe-0-2-0.er1.iad10.us.above.net                       1.753ms asymm 11 
+10:  xe-7-1-0.cr1.dca2.us.above.net                        1.850ms asymm  9 
+11:  xe-2-2-0.cr1.lga5.us.above.net                       46.134ms 
+12:  xe-2-1-0.mpr1.ewr1.us.above.net                       6.742ms 
+13:  64.125.188.234.t01074-01.above.net                    8.078ms 
+14:  130.156.251.190                                       8.450ms asymm 13 
+15:  planetlab1.cs.stevens-tech.edu                        8.570ms reached
+     Resume: pmtu 1500 hops 15 back 51 
