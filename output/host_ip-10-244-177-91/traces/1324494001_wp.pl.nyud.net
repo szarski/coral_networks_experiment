@@ -1,0 +1,20 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.137ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.717ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.607ms asymm  2 
+ 2:  ip-10-1-50-1.ec2.internal                             0.524ms 
+ 3:  ip-10-1-51-14.ec2.internal                            0.778ms 
+ 4:  216.182.224.94                                        0.852ms 
+ 5:  72.21.222.154                                         1.632ms 
+ 6:  72.21.220.62                                          1.724ms 
+ 7:  xe-7-3-0.was14.ip4.tinet.net                          2.242ms asymm 11 
+ 8:  te0-7-0-5.mpd22.iad02.atlas.cogentco.com              2.487ms asymm 12 
+ 9:  te0-7-0-5.mpd22.iad02.atlas.cogentco.com              2.628ms asymm 12 
+10:  te0-2-0-5.mpd22.dca01.atlas.cogentco.com              3.086ms asymm 13 
+11:  te0-3-0-4.ccr22.ord01.atlas.cogentco.com             23.231ms asymm 13 
+12:  te0-1-0-0.ccr22.ord01.atlas.cogentco.com             23.056ms asymm 14 
+13:  38.104.162.78                                        29.593ms asymm 15 
+14:  38.104.162.78                                        29.284ms asymm 15 
+15:  brookings-te-3-3.nts.wustl.edu                       30.669ms asymm 16 
+16:  ncrc-eng1.nts.wustl.edu                              30.822ms asymm 17 
+17:  vn5.cse.wustl.edu                                    62.254ms reached
+     Resume: pmtu 1500 hops 17 back 47 
