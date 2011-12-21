@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.117ms pmtu 1500
+ 1:  10.211.148.2                                          0.480ms asymm  2 
+ 1:  10.211.148.2                                          0.383ms asymm  2 
+ 2:  ip-10-1-4-17.ec2.internal                             0.370ms 
+ 3:  ip-10-1-5-14.ec2.internal                             0.818ms 
+ 4:  216.182.224.76                                        0.809ms 
+ 5:  72.21.220.225                                         0.761ms asymm  4 
+ 6:  72.21.222.148                                         1.054ms asymm  5 
+ 7:  72.21.220.60                                          1.005ms asymm  8 
+ 8:  ash-bb1-link.telia.net                                1.822ms asymm 11 
+ 9:  ffm-bb1-link.telia.net                              102.953ms asymm 12 
+10:  win-bb2-link.telia.net                              114.934ms asymm 13 
+11:  prag-b3-link.telia.net                              119.793ms asymm 12 
+12:  cesnet-01205-prag-b3.c.telia.net                    121.301ms 
+13:  r105-r40.cesnet.cz                                  120.969ms asymm 14 
+14:  planetlab1.cesnet.cz                                120.873ms reached
+     Resume: pmtu 1500 hops 14 back 52 
