@@ -1,0 +1,13 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.128ms pmtu 1500
+ 1:  10.211.148.3                                          0.698ms asymm  2 
+ 1:  10.211.148.3                                          0.400ms asymm  2 
+ 2:  ip-10-1-18-17.ec2.internal                            0.738ms 
+ 3:  ip-10-1-19-14.ec2.internal                            0.576ms 
+ 4:  216.182.224.82                                       32.777ms 
+ 5:  72.21.222.148                                         0.883ms 
+ 6:  72.21.220.28                                          1.148ms asymm  7 
+ 7:  72.21.221.5                                           1.030ms 
+ 8:  206.165.213.42                                       17.666ms asymm 12 
+ 9:  COX2-iborder-ve3374.emory.net                        18.269ms asymm 11 
+10:  node1.planetlab.mathcs.emory.edu                     18.594ms reached
+     Resume: pmtu 1500 hops 10 back 53 
