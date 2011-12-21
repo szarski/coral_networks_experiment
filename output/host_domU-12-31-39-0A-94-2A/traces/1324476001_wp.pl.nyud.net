@@ -1,0 +1,15 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.117ms pmtu 1500
+ 1:  10.211.148.3                                          1.020ms asymm  2 
+ 1:  10.211.148.3                                          0.475ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            0.446ms 
+ 3:  ip-10-1-17-14.ec2.internal                            0.773ms 
+ 4:  216.182.224.80                                        0.553ms 
+ 5:  72.21.222.148                                         1.173ms 
+ 6:  72.21.220.36                                          1.225ms asymm  8 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.089ms asymm  8 
+ 8:  64.57.21.150                                          8.797ms asymm 11 
+ 9:  no reply
+10:  vl712.cl-core-2.gw.pitt.edu                           9.190ms asymm 13 
+11:  te1-1-99.fq-core-2.gw.pitt.edu                        9.572ms 
+12:  planetlab2.cs.pitt.edu                                7.761ms reached
+     Resume: pmtu 1500 hops 12 back 54 
