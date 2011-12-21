@@ -1,0 +1,18 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.116ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.579ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.944ms asymm  2 
+ 2:  ip-10-1-122-17.ec2.internal                           0.577ms 
+ 3:  ip-10-1-125-6.ec2.internal                            0.460ms 
+ 4:  216.182.224.68                                        0.550ms 
+ 5:  72.21.222.140                                         1.384ms 
+ 6:  72.21.220.64                                          7.161ms asymm  9 
+ 7:  ae-14.r02.asbnva02.us.bb.gin.ntt.net                  2.255ms asymm 10 
+ 8:  ae-2.r21.asbnva02.us.bb.gin.ntt.net                   1.505ms 
+ 9:  ae-5.r21.sttlwa01.us.bb.gin.ntt.net                  72.678ms asymm 12 
+10:  ae-0.r20.sttlwa01.us.bb.gin.ntt.net                  72.176ms asymm 12 
+11:  ae-2.r25.tokyjp01.jp.bb.gin.ntt.net                 173.591ms asymm 13 
+12:  no reply
+13:  203.105.72.18                                       177.452ms asymm 14 
+14:  ve-51.foundry6.otemachi.wide.ad.jp                  164.247ms asymm 18 
+15:  planetlab0.otemachi.wide.ad.jp                      167.424ms reached
+     Resume: pmtu 1500 hops 15 back 48 
