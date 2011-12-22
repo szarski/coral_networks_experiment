@@ -1,0 +1,35 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.121ms pmtu 1500
+ 1:  10.211.148.2                                          0.616ms asymm  2 
+ 1:  10.211.148.2                                          0.426ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.483ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.481ms 
+ 4:  216.182.224.72                                        0.724ms 
+ 5:  72.21.220.225                                         0.648ms asymm  4 
+ 6:  72.21.222.148                                         0.887ms asymm  5 
+ 7:  72.21.220.44                                          1.366ms asymm  9 
+ 8:  rt0as-equinix.vx.shawcable.net                        1.245ms 
+ 9:  66.163.78.53                                         46.803ms asymm 11 
+10:  rc1ar-pos11-0-0.ed.shawcable.net                     66.382ms asymm  9 
+11:  rc3ar-tge0-8-4-0.ed.shawcable.net                    65.741ms asymm 10 
+12:  66.163.78.14                                         83.145ms asymm 14 
+13:  rd1cv-ge0-0-0.gv.shawcable.net                       78.757ms asymm 12 
+14:  rd2cv-ge1-0-0.gv.shawcable.net                       82.202ms asymm 17 
+15:  ra1cv-ge2-1.gv.shawcable.net                         82.357ms asymm 16 
+16:  rx0cv-bcnet.gv.bigpipeinc.com                        82.537ms asymm 19 
+17:  erc1corb115.bb.uvic.ca                               82.788ms asymm 18 
+18:  emc1cled050.bb.uvic.ca                               84.305ms asymm 20 
+19:  csc1cled050.bb.uvic.ca                               80.280ms asymm 17 
+20:  drc2cled050.bb.uvic.ca                               84.285ms asymm 22 
+21:  no reply
+22:  no reply
+23:  no reply
+24:  no reply
+25:  no reply
+26:  no reply
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
