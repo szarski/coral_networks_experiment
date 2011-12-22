@@ -1,0 +1,15 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.108ms pmtu 1500
+ 1:  10.211.148.2                                          0.788ms asymm  2 
+ 1:  10.211.148.2                                          0.424ms asymm  2 
+ 2:  ip-10-1-10-17.ec2.internal                            0.819ms 
+ 3:  ip-10-1-11-14.ec2.internal                            1.723ms 
+ 4:  216.182.224.72                                        0.506ms 
+ 5:  72.21.220.225                                        48.935ms asymm  4 
+ 6:  72.21.222.148                                         0.833ms asymm  5 
+ 7:  72.21.220.60                                          1.123ms asymm  8 
+ 8:  77.67.108.33                                         27.062ms asymm 12 
+ 9:  xe-0-0-0.was10.ip4.tinet.net                          1.340ms 
+10:  xe-1-1-0.cr1-sdtpa.wikimedia.org                     28.010ms asymm 13 
+11:  xe-1-1-0.cr1-sdtpa.wikimedia.org                     27.891ms asymm 13 
+12:  wikipedia-lb.pmtpa.wikimedia.org                     27.629ms reached
+     Resume: pmtu 1500 hops 12 back 54 
