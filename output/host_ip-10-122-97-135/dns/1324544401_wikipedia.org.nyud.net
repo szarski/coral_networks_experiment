@@ -1,0 +1,23 @@
+
+; <<>> DiG 9.7.3 <<>> wikipedia.org.nyud.net
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53586
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;wikipedia.org.nyud.net.		IN	A
+
+;; ANSWER SECTION:
+nyud.net.		45393	IN	DNAME	http.l2.l1.l0.nyucd.net.
+wikipedia.org.nyud.net.	0	IN	CNAME	wikipedia.org.http.l2.l1.l0.nyucd.net.
+wikipedia.org.http.l2.l1.l0.nyucd.net. 64865 IN	CNAME http.l2.l1.l0.nyucd.net.
+http.l2.l1.l0.nyucd.net. 18	IN	A	155.246.12.163
+http.l2.l1.l0.nyucd.net. 18	IN	A	198.7.242.43
+http.l2.l1.l0.nyucd.net. 18	IN	A	142.150.238.12
+
+;; Query time: 0 msec
+;; SERVER: 172.16.0.23#53(172.16.0.23)
+;; WHEN: Thu Dec 22 09:00:24 2011
+;; MSG SIZE  rcvd: 167
+
