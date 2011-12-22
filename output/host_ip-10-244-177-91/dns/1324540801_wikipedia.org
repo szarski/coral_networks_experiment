@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.7.3 <<>> wikipedia.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9904
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;wikipedia.org.			IN	A
+
+;; ANSWER SECTION:
+wikipedia.org.		3599	IN	A	208.80.152.201
+
+;; Query time: 0 msec
+;; SERVER: 172.16.0.23#53(172.16.0.23)
+;; WHEN: Thu Dec 22 08:00:36 2011
+;; MSG SIZE  rcvd: 47
+
