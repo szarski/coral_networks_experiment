@@ -1,0 +1,14 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.144ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.915ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.413ms asymm  2 
+ 2:  ip-10-1-50-1.ec2.internal                             0.436ms 
+ 3:  ip-10-1-51-14.ec2.internal                            0.564ms 
+ 4:  216.182.224.90                                        0.647ms 
+ 5:  72.21.222.154                                         1.697ms 
+ 6:  72.21.220.70                                          1.934ms asymm  9 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.902ms asymm 11 
+ 8:  64.57.21.226                                         11.013ms asymm 11 
+ 9:  rlgh7600-gw-to-rtp-crs-gw.ncren.net                   9.700ms asymm 12 
+10:  ciscokid-to-rlgh7600-gw.ncren.net                    11.702ms asymm 13 
+11:  planetlab2.telenet.unc.edu                           11.416ms reached
+     Resume: pmtu 1500 hops 11 back 52 
