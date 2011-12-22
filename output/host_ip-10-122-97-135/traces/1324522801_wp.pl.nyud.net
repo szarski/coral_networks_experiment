@@ -1,0 +1,23 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.611ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.729ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           0.526ms 
+ 3:  ip-10-1-119-6.ec2.internal                            0.606ms 
+ 4:  216.182.224.68                                        4.380ms 
+ 5:  72.21.222.140                                        37.659ms 
+ 6:  72.21.220.40                                          1.444ms asymm  9 
+ 7:  rt0as-equinix.vx.shawcable.net                        1.741ms asymm  8 
+ 8:  66.163.78.53                                         45.737ms 
+ 9:  rc1we-tge0-15-0-0.ed.shawcable.net                   67.146ms asymm 12 
+10:  rc3ar-tge0-1-2-0.ed.shawcable.net                    66.951ms asymm 13 
+11:  rc2bb-pos0-8-2-0.vc.shawcable.net                    84.360ms asymm 13 
+12:  rd1cv-ge0-0-0.gv.shawcable.net                       83.322ms asymm 15 
+13:  66.163.72.22                                         80.357ms asymm 14 
+14:  ra1cv-ge4-1.gv.shawcable.net                         83.113ms asymm 16 
+15:  rx0cv-bcnet.gv.bigpipeinc.com                        78.890ms asymm 13 
+16:  erc1corb115.bb.uvic.ca                               78.714ms asymm 14 
+17:  emc1cled050.bb.uvic.ca                               81.586ms asymm 13 
+18:  csc1cled050.bb.uvic.ca                               79.986ms asymm 13 
+19:  drc2cled050.bb.uvic.ca                               82.276ms asymm 15 
+20:  pl3.planetlab.uvic.ca                                82.013ms reached
+     Resume: pmtu 1500 hops 20 back 47 
