@@ -1,0 +1,19 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.136ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.521ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.422ms asymm  2 
+ 2:  ip-10-1-42-1.ec2.internal                             0.538ms 
+ 3:  ip-10-1-43-14.ec2.internal                            0.729ms 
+ 4:  216.182.224.88                                        0.780ms 
+ 5:  72.21.220.241                                         0.814ms asymm  4 
+ 6:  72.21.222.154                                         1.834ms asymm  5 
+ 7:  72.21.220.38                                          1.729ms asymm  9 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.793ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                20.111ms 
+10:  64.57.21.202                                         31.064ms asymm 12 
+11:  kr-ksu-hale-e4-4.kanren.net                          33.676ms asymm 10 
+12:  kr-ksu-pplant-e3-1.kanren.net                        33.930ms asymm 13 
+13:  kanren-border-ksu-pplant.kanren.net                  34.256ms asymm 14 
+14:  129.130.252.9                                        41.701ms asymm 16 
+15:  pp-cisco-1.ksu.edu                                   34.341ms asymm 16 
+16:  129.130.252.141                                      34.451ms reached
+     Resume: pmtu 1500 hops 16 back 47 
