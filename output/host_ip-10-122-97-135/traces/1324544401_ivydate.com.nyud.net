@@ -1,0 +1,23 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.530ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.916ms asymm  2 
+ 2:  ip-10-1-108-17.ec2.internal                           0.514ms 
+ 3:  ip-10-1-103-6.ec2.internal                            0.554ms 
+ 4:  216.182.224.62                                        0.733ms 
+ 5:  72.21.222.138                                         1.162ms 
+ 6:  72.21.220.120                                         1.865ms asymm  9 
+ 7:  xe-11-2-1.edge3.Washington1.Level3.net                1.706ms asymm 12 
+ 8:  ae-1-60.edge3.Washington4.Level3.net                  2.311ms asymm 11 
+ 9:  TELEFONICA.edge3.Washington4.Level3.net              18.405ms asymm 11 
+10:  Xe4-0-2-0-grtmiabr8.red.telefonica-wholesale.net.126.142.94.in-addr.arpa  91.392ms asymm 11 
+11:  Xe-5-0-1-0-grtbuecu1.red.telefonica-wholesale.net.121.142.94.in-addr.arpa 164.041ms asymm 12 
+12:  TdARGENTINA-7-0-0-0-grtbuecu1.red.telefonica-wholesale.net 168.264ms asymm 13 
+13:  no reply
+14:  200-63-151-2.speedy.com.ar                          164.054ms asymm 20 
+15:  190.220.179.189                                     165.806ms asymm 14 
+16:  190.220.176.34                                      176.102ms asymm 14 
+17:  190.220.179.122                                     165.710ms asymm 14 
+18:  no reply
+19:  157.92.47.98                                        169.748ms asymm 17 
+20:  planet-lab2.uba.ar                                  169.546ms reached
+     Resume: pmtu 1500 hops 20 back 47 
