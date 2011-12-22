@@ -1,0 +1,15 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.113ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.600ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.887ms asymm  2 
+ 2:  ip-10-1-122-17.ec2.internal                           0.432ms 
+ 3:  ip-10-1-125-6.ec2.internal                            0.693ms 
+ 4:  216.182.224.70                                        0.634ms 
+ 5:  72.21.222.140                                         1.325ms 
+ 6:  72.21.220.64                                          1.298ms asymm  9 
+ 7:  72.21.221.42                                         54.339ms asymm 11 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.786ms asymm 10 
+ 9:  137.164.131.138                                      43.995ms asymm 10 
+10:  border1-commodity_b.colostate.edu                    46.165ms asymm 14 
+11:  ensb1-border1.colostate.edu                          47.136ms asymm 13 
+12:  planetlab-1.cs.colostate.edu                         46.664ms reached
+     Resume: pmtu 1500 hops 12 back 50 
