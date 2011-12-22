@@ -1,0 +1,19 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           9.967ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.398ms asymm  2 
+ 2:  ip-10-1-106-17.ec2.internal                           0.962ms 
+ 3:  ip-10-1-107-6.ec2.internal                            0.509ms 
+ 4:  216.182.224.48                                        0.508ms 
+ 5:  72.21.220.193                                         0.663ms asymm  4 
+ 6:  72.21.222.140                                         1.518ms asymm  5 
+ 7:  72.21.220.24                                          1.358ms asymm  6 
+ 8:  77.67.108.33                                          1.316ms asymm 11 
+ 9:  xe-4-0-0.was12.ip4.tinet.net                          1.644ms asymm 12 
+10:  te0-3-0-5.mpd22.dca01.atlas.cogentco.com              2.455ms asymm 12 
+11:  te0-1-0-5.mpd22.dca01.atlas.cogentco.com              2.572ms 
+12:  usp.ptta.ansp.br                                    148.381ms asymm 19 
+13:  core-cce-b.uspnet.usp.br                            144.131ms asymm 19 
+14:  38.104.94.74                                         31.300ms asymm 17 
+15:  198.32.252.142                                      141.036ms asymm 14 
+16:  plab2.larc.usp.br                                   148.655ms reached
+     Resume: pmtu 1500 hops 16 back 43 
