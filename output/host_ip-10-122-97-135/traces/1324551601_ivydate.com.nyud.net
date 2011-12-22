@@ -1,0 +1,22 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.112ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.503ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.883ms asymm  2 
+ 2:  ip-10-1-104-17.ec2.internal                           0.515ms 
+ 3:  ip-10-1-107-6.ec2.internal                            0.485ms 
+ 4:  216.182.224.62                                        0.616ms 
+ 5:  72.21.222.138                                         1.108ms 
+ 6:  72.21.220.144                                         1.606ms asymm  9 
+ 7:  xe-11-1-2.edge3.Washington1.Level3.net                1.870ms asymm 11 
+ 8:  vlan90.csw4.Washington1.Level3.net                    1.995ms asymm  9 
+ 9:  ae-94-94.ebr4.Washington1.Level3.net                 13.120ms asymm 12 
+10:  ae-4-4.ebr3.LosAngeles1.Level3.net                   66.042ms asymm 11 
+11:  ae-83-83.csw3.LosAngeles1.Level3.net                 65.908ms asymm 13 
+12:  ae-2-70.edge5.LosAngeles1.Level3.net                 65.638ms asymm 15 
+13:  JAPAN-TELEC.edge5.LosAngeles1.Level3.net            105.334ms asymm 14 
+14:  tokyo-dc-gm2-xe5-3-2-vlan10.s4.sinet.ad.jp          179.614ms asymm 15 
+15:  tokyo-dc-rm-ae4-vlan10.s4.sinet.ad.jp               179.758ms asymm 16 
+16:  nagoya-dc-rm-ae0-vlan10.s4.sinet.ad.jp              187.571ms asymm 19 
+17:  tut.gw.sinet.ad.jp                                  188.925ms 
+18:  133.15.254.150                                      202.689ms asymm 19 
+19:  pl1.planetlab.ics.tut.ac.jp                         403.019ms reached
+     Resume: pmtu 1500 hops 19 back 44 
