@@ -1,0 +1,14 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.104ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.614ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.873ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           9.496ms 
+ 3:  ip-10-1-119-6.ec2.internal                            0.600ms 
+ 4:  216.182.224.50                                        0.580ms 
+ 5:  72.21.222.140                                         1.180ms 
+ 6:  72.21.220.64                                          1.350ms asymm  9 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                52.939ms asymm  9 
+ 8:  137.164.131.54                                       22.105ms asymm  9 
+ 9:  198.32.155.2                                         25.829ms asymm 15 
+10:  198.32.155.90                                        25.341ms asymm 13 
+11:  node33.seg3.ucf.edu                                  25.315ms reached
+     Resume: pmtu 1500 hops 11 back 53 
