@@ -1,0 +1,23 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.118ms pmtu 1500
+ 1:  10.211.148.2                                          0.557ms asymm  2 
+ 1:  10.211.148.2                                          0.393ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.406ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.412ms 
+ 4:  216.182.224.72                                        0.671ms 
+ 5:  72.21.220.225                                         0.637ms asymm  4 
+ 6:  72.21.222.148                                         1.029ms asymm  5 
+ 7:  72.21.220.60                                          1.225ms asymm  8 
+ 8:  72.21.221.38                                          1.385ms asymm  9 
+ 9:  xe-0-2-0.er1.iad10.us.above.net                       1.546ms asymm 11 
+10:  xe-2-0-0.cr1.dca2.us.above.net                       11.459ms asymm 12 
+11:  xe-3-2-0.cr1.lga5.us.above.net                        6.793ms 
+12:  xe-2-1-0.mpr1.ewr1.us.above.net                      61.559ms 
+13:  no reply
+14:  no reply
+15:  no reply
+16:  no reply
+17:  no reply
+18:  no reply
+19:  no reply
+20:  planetlab2.rutgers.edu                                8.459ms reached
+     Resume: pmtu 1500 hops 20 back 43 
