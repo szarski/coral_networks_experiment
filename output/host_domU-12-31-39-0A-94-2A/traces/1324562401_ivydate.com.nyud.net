@@ -1,0 +1,35 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.113ms pmtu 1500
+ 1:  10.211.148.3                                          0.613ms asymm  2 
+ 1:  10.211.148.3                                          0.406ms asymm  2 
+ 2:  ip-10-1-14-17.ec2.internal                            0.528ms 
+ 3:  ip-10-1-15-14.ec2.internal                            1.713ms 
+ 4:  216.182.232.50                                        0.593ms 
+ 5:  72.21.222.148                                         0.901ms 
+ 6:  72.21.220.68                                          2.162ms asymm  9 
+ 7:  72.21.221.42                                          1.439ms asymm 11 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.456ms asymm 11 
+ 9:  137.164.129.2                                        72.779ms asymm 12 
+10:  xe-1-0-0.0.paix0.tr-cps.internet2.edu                94.121ms asymm 12 
+11:  137.164.131.62                                       94.741ms asymm 12 
+12:  dc-svl-core1--svl-px1-10ge-2.cenic.net               94.900ms asymm 14 
+13:  dc-lax-core2--svl-core1-10ge.cenic.net              103.901ms asymm 16 
+14:  dc-riv-agg1--lax-core2-10ge.cenic.net               104.597ms asymm 16 
+15:  dc-ucr--riv-agg1-2ge.cenic.net                      104.368ms 
+16:  c6513telecom--te9-2.ucr.edu                         105.175ms asymm 18 
+17:  engineering--bournes.ucr.edu                        105.814ms asymm 18 
+18:  no reply
+19:  no reply
+20:  no reply
+21:  no reply
+22:  no reply
+23:  no reply
+24:  no reply
+25:  no reply
+26:  no reply
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
