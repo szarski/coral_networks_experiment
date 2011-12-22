@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.127ms pmtu 1500
+ 1:  10.211.148.3                                          0.697ms asymm  2 
+ 1:  10.211.148.3                                          0.399ms asymm  2 
+ 2:  ip-10-1-12-17.ec2.internal                            0.510ms 
+ 3:  ip-10-1-13-14.ec2.internal                            0.535ms 
+ 4:  216.182.232.50                                        0.633ms 
+ 5:  72.21.222.148                                         1.155ms 
+ 6:  72.21.220.36                                          1.010ms asymm  8 
+ 7:  72.21.221.42                                          1.332ms asymm 11 
+ 8:  64.57.21.226                                         25.406ms asymm 10 
+ 9:  chltcrs-gw-to-rtpcrs-gw.ncren.net                    30.444ms asymm 12 
+10:  chlt7600-gw-pri-to-chltcrs-gw.ncren.net              11.442ms asymm 12 
+11:  uncc-gw-gige-to-chlt7600-gw.ncren.net                12.007ms 
+12:  tower1-faste.uncc.edu                                12.746ms 
+13:  SciTech.uncc.edu                                    107.108ms asymm 16 
+14:  planetlab01.uncc.edu                                 17.586ms reached
+     Resume: pmtu 1500 hops 14 back 49 
