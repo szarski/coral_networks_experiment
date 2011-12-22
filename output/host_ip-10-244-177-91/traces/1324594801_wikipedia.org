@@ -1,0 +1,14 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.124ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.636ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.589ms asymm  2 
+ 2:  ip-10-1-42-1.ec2.internal                             0.717ms 
+ 3:  ip-10-1-43-14.ec2.internal                            9.567ms 
+ 4:  216.182.224.86                                        0.954ms 
+ 5:  72.21.220.241                                         0.818ms asymm  4 
+ 6:  72.21.222.154                                         1.945ms asymm  5 
+ 7:  72.21.220.38                                          1.828ms asymm  9 
+ 8:  xe-7-3-0.was14.ip4.tinet.net                          2.267ms asymm 11 
+ 9:  xe-9-3-0.was10.ip4.tinet.net                          1.918ms asymm 12 
+10:  xe-5-3-1.cr2-eqiad.wikimedia.org                      2.052ms asymm 11 
+11:  wikipedia-lb.pmtpa.wikimedia.org                     28.462ms reached
+     Resume: pmtu 1500 hops 11 back 52 
