@@ -1,0 +1,18 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.101ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.722ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           1.088ms asymm  2 
+ 2:  ip-10-1-108-17.ec2.internal                           0.866ms 
+ 3:  ip-10-1-109-6.ec2.internal                            0.819ms 
+ 4:  216.182.224.48                                        0.653ms 
+ 5:  72.21.222.138                                         2.090ms 
+ 6:  72.21.220.136                                         1.673ms asymm  8 
+ 7:  209.130.172.225                                       1.802ms asymm 10 
+ 8:  ge4-1-0-10G.scr1.WDC2.gblx.net                        2.163ms asymm 12 
+ 9:  pos1-0-0-2488M.asr1.BOS1.gblx.net                    12.144ms asymm 14 
+10:  gx-inet.gigabitethernet7-5.asr1.bos1.gblx.net        15.305ms asymm 12 
+11:  ge-1-9.cr2.alb1.tvc-ip.com                           15.570ms asymm 18 
+12:  66-109-38-246.tvc-ip.com                             15.942ms asymm 19 
+13:  72-0-147-50.tvc-ip.com                               14.108ms asymm 15 
+14:  6513_internet.gw.albany.edu                          14.366ms asymm 17 
+15:  node1.planetlab.albany.edu                           14.020ms reached
+     Resume: pmtu 1500 hops 15 back 47 
