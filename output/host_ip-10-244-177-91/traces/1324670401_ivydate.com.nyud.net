@@ -1,0 +1,22 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.119ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.547ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.423ms asymm  2 
+ 2:  ip-10-1-44-1.ec2.internal                             0.711ms 
+ 3:  ip-10-1-45-14.ec2.internal                            0.531ms 
+ 4:  216.182.232.54                                        0.785ms 
+ 5:  72.21.220.240                                         0.916ms asymm  4 
+ 6:  72.21.222.156                                         1.477ms asymm  5 
+ 7:  72.21.220.142                                         1.725ms asymm  9 
+ 8:  xe-10-2-0.edge1.Washington1.Level3.net                2.416ms asymm 10 
+ 9:  vlan70.csw2.Washington1.Level3.net                    2.309ms asymm 11 
+10:  ae-92-92.ebr2.Washington1.Level3.net                  2.507ms asymm 12 
+11:  ae-5-5.ebr2.Washington12.Level3.net                   2.437ms asymm 13 
+12:  ae-4-4.ebr1.NewYork1.Level3.net                       7.912ms asymm 14 
+13:  ae-61-61.csw1.NewYork1.Level3.net                     7.102ms asymm 12 
+14:  ae-4-90.edge2.NewYork1.Level3.net                     8.591ms asymm 17 
+15:  UNIVERSITY.edge2.NewYork1.Level3.net                 13.523ms asymm 17 
+16:  core1-rt-xe-0-0-0.gw.umass.edu                       31.811ms asymm 18 
+17:  lgrc-rt-106-8-po-10.gw.umass.edu                     13.798ms asymm 18 
+18:  128.119.3.153                                        14.422ms asymm 19 
+19:  planetlab2.cs.umass.edu                              16.916ms reached
+     Resume: pmtu 1500 hops 19 back 44 
