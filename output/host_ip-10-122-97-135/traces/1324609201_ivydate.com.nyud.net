@@ -1,0 +1,14 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.591ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.946ms asymm  2 
+ 2:  ip-10-1-108-17.ec2.internal                           0.554ms 
+ 3:  ip-10-1-103-6.ec2.internal                            0.818ms 
+ 4:  216.182.224.62                                        0.661ms 
+ 5:  72.21.220.193                                         0.660ms asymm  4 
+ 6:  72.21.222.140                                         1.432ms asymm  5 
+ 7:  72.21.220.32                                          1.877ms asymm  9 
+ 8:  xe-3-0-0.was14.ip4.tinet.net                          1.425ms asymm  7 
+ 9:  xe-3-2-0.mtl10.ip4.tinet.net                         18.134ms asymm 13 
+10:  university-of-ottawa-gw.ip4.tinet.net                21.326ms asymm 13 
+11:  pl2.rcc.uottawa.ca                                   19.304ms reached
+     Resume: pmtu 1500 hops 11 back 52 
