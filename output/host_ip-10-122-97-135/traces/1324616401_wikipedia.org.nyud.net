@@ -1,0 +1,18 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.102ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.597ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.826ms asymm  2 
+ 2:  ip-10-1-104-17.ec2.internal                          15.756ms 
+ 3:  ip-10-1-105-6.ec2.internal                            0.745ms 
+ 4:  216.182.224.64                                        0.467ms 
+ 5:  72.21.220.193                                         0.743ms asymm  4 
+ 6:  72.21.222.140                                         1.175ms asymm  5 
+ 7:  72.21.220.64                                          1.237ms asymm  9 
+ 8:  xe-0-3-0.was12.ip4.tinet.net                          1.149ms asymm  9 
+ 9:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              1.746ms asymm 12 
+10:  fiu.miami14.mia.seabone.net                          37.366ms asymm 17 
+11:  te0-2-0-3.mpd22.atl01.atlas.cogentco.com             42.899ms asymm 15 
+12:  te0-1-0-7.mpd22.atl01.atlas.cogentco.com             31.360ms asymm 16 
+13:  2910-r3-mg.bkb.rnp.br                               158.595ms asymm 19 
+14:  bandeira.pop-mg.rnp.br                              152.087ms asymm 18 
+15:  planetlab2.pop-mg.rnp.br                            162.540ms reached
+     Resume: pmtu 1500 hops 15 back 45 
