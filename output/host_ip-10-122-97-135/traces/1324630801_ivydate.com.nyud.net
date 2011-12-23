@@ -1,0 +1,16 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.138ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           2.783ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                          30.675ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           0.610ms 
+ 3:  ip-10-1-125-6.ec2.internal                            0.460ms 
+ 4:  216.182.224.66                                        0.655ms 
+ 5:  72.21.222.140                                         2.071ms 
+ 6:  72.21.220.64                                          1.334ms asymm  9 
+ 7:  72.21.221.42                                          1.928ms asymm 11 
+ 8:  xe-0-0-0.0.ny0.tr-cps.internet2.edu                   7.602ms asymm 11 
+ 9:  64.57.21.210                                         12.412ms asymm 11 
+10:  nox300gw1-peer--207-210-142-246.nox.org              44.309ms asymm 16 
+11:  host-198-7-224-38.oshean.org                         18.493ms asymm 18 
+12:  cit-r.brown.edu                                      16.487ms asymm 17 
+13:  host-198-7-242-43.oshean.org                         16.405ms reached
+     Resume: pmtu 1500 hops 13 back 47 
