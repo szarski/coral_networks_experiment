@@ -1,0 +1,35 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.118ms pmtu 1500
+ 1:  10.211.148.3                                          2.223ms asymm  2 
+ 1:  10.211.148.3                                          2.060ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            0.834ms 
+ 3:  ip-10-1-17-14.ec2.internal                            0.483ms 
+ 4:  216.182.232.50                                        0.914ms 
+ 5:  72.21.222.148                                         1.148ms 
+ 6:  72.21.220.52                                          1.187ms asymm  8 
+ 7:  ASBNVACYH27JC01.mcleodusa.com                         2.066ms asymm 10 
+ 8:  so-6-0-0.phlapafgw26cr02.paetec.net                   5.521ms asymm 11 
+ 9:  so-3-0-0.0.phlapafgw32cr04.paetec.net                 6.232ms asymm 13 
+10:  gi-1-0-311.hse1.phlapa02.paetec.net                   5.293ms asymm 11 
+11:  209.92.27.38                                          7.215ms asymm 12 
+12:  gigagate1.Princeton.EDU                               7.397ms asymm 15 
+13:  csgate.Princeton.EDU                                  7.381ms 
+14:  no reply
+15:  no reply
+16:  no reply
+17:  no reply
+18:  no reply
+19:  no reply
+20:  no reply
+21:  no reply
+22:  no reply
+23:  no reply
+24:  no reply
+25:  no reply
+26:  no reply
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
