@@ -1,0 +1,19 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.118ms pmtu 1500
+ 1:  10.211.148.3                                          0.672ms asymm  2 
+ 1:  10.211.148.3                                          0.617ms asymm  2 
+ 2:  ip-10-1-14-17.ec2.internal                            0.623ms 
+ 3:  ip-10-1-15-14.ec2.internal                            0.587ms 
+ 4:  216.182.232.50                                        0.493ms 
+ 5:  72.21.222.148                                         6.263ms 
+ 6:  72.21.220.44                                          1.547ms asymm  9 
+ 7:  br01.asbnva16.integra.net                             2.617ms asymm  9 
+ 8:  tg9-1.cr02.chcgildt.integra.net                      58.741ms asymm 19 
+ 9:  209.63.82.89                                         59.408ms asymm 17 
+10:  te9-1.cr02.dnvrcoet.integra.net                      55.858ms asymm 17 
+11:  te9-4.cr01.dnvrcoet.integra.net                      56.894ms asymm 18 
+12:  tg13-1.cr02.slkcutxd.integra.net                     57.245ms asymm 18 
+13:  no reply
+14:  70.103.246.50                                        57.734ms asymm 17 
+15:  no reply
+16:  planetlab2.byu.edu                                   59.334ms reached
+     Resume: pmtu 1500 hops 16 back 46 
