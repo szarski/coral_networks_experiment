@@ -1,0 +1,13 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.120ms pmtu 1500
+ 1:  10.211.148.3                                          0.502ms asymm  2 
+ 1:  10.211.148.3                                          0.418ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            3.000ms 
+ 3:  ip-10-1-17-14.ec2.internal                            7.291ms 
+ 4:  216.182.224.82                                        0.746ms 
+ 5:  72.21.222.148                                         1.049ms 
+ 6:  72.21.220.68                                          1.912ms asymm  9 
+ 7:  xe-3-0-0.was14.ip4.tinet.net                          1.231ms asymm  8 
+ 8:  xe-1-1-0.mtl10.ip4.tinet.net                         27.262ms asymm 13 
+ 9:  university-of-ottawa-gw.ip4.tinet.net                20.499ms asymm 11 
+10:  pl2.rcc.uottawa.ca                                   99.658ms reached
+     Resume: pmtu 1500 hops 10 back 52 
