@@ -1,0 +1,26 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.121ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.622ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.426ms asymm  2 
+ 2:  ip-10-1-50-1.ec2.internal                             0.554ms 
+ 3:  ip-10-1-51-14.ec2.internal                            0.562ms 
+ 4:  216.182.224.94                                        0.836ms 
+ 5:  72.21.222.154                                         1.607ms 
+ 6:  72.21.220.38                                          1.925ms asymm  8 
+ 7:  ae-10.r00.asbnva02.us.bb.gin.ntt.net                  1.934ms asymm 10 
+ 8:  ae-1.r21.asbnva02.us.bb.gin.ntt.net                   2.267ms asymm 11 
+ 9:  ae-5.r21.sttlwa01.us.bb.gin.ntt.net                  73.113ms asymm 12 
+10:  ae-0.r20.sttlwa01.us.bb.gin.ntt.net                  72.949ms 
+11:  as-3.r20.tokyjp01.jp.bb.gin.ntt.net                 158.724ms asymm 13 
+12:  ae-1.r24.tokyjp01.jp.bb.gin.ntt.net                 184.097ms asymm 15 
+13:  p64-2-0-0.r20.taiptw01.tw.bb.gin.ntt.net            234.558ms asymm 17 
+14:  xe-0-1-0.a05.taiptw01.tw.ra.gin.ntt.net             201.227ms asymm 15 
+15:  122.255.91.14                                       219.945ms asymm 21 
+16:  203.78.181.133                                      197.518ms asymm 23 
+17:  175.41.60.105                                       220.038ms asymm 22 
+18:  175.41.61.182                                       219.865ms asymm 21 
+19:  203.160.226.234                                     207.206ms asymm 21 
+20:  140.112.0.201                                       217.712ms asymm 22 
+21:  140.112.0.221                                       208.559ms asymm 23 
+22:  140.112.1.82                                        227.343ms asymm 27 
+23:  eve.ee.ntu.edu.tw                                   230.858ms reached
+     Resume: pmtu 1500 hops 23 back 37 
