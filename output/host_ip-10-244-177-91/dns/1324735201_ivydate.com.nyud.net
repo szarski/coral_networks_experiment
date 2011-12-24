@@ -1,0 +1,23 @@
+
+; <<>> DiG 9.7.3 <<>> ivydate.com.nyud.net
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 509
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ivydate.com.nyud.net.		IN	A
+
+;; ANSWER SECTION:
+nyud.net.		5848	IN	DNAME	http.l2.l1.l0.nyucd.net.
+ivydate.com.nyud.net.	0	IN	CNAME	ivydate.com.http.l2.l1.l0.nyucd.net.
+ivydate.com.http.l2.l1.l0.nyucd.net. 53915 IN CNAME http.l2.l1.l0.nyucd.net.
+http.l2.l1.l0.nyucd.net. 30	IN	A	203.178.133.10
+http.l2.l1.l0.nyucd.net. 30	IN	A	132.239.17.226
+http.l2.l1.l0.nyucd.net. 30	IN	A	169.229.50.14
+
+;; Query time: 18 msec
+;; SERVER: 172.16.0.23#53(172.16.0.23)
+;; WHEN: Sat Dec 24 14:03:23 2011
+;; MSG SIZE  rcvd: 163
+
