@@ -1,0 +1,21 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.116ms pmtu 1500
+ 1:  10.211.148.2                                          0.518ms asymm  2 
+ 1:  10.211.148.2                                          0.382ms asymm  2 
+ 2:  ip-10-1-4-17.ec2.internal                             0.423ms 
+ 3:  ip-10-1-5-14.ec2.internal                             0.627ms 
+ 4:  216.182.224.72                                        0.676ms 
+ 5:  72.21.220.225                                         0.655ms asymm  4 
+ 6:  72.21.222.148                                         0.853ms asymm  5 
+ 7:  72.21.220.68                                          1.977ms asymm  9 
+ 8:  72.21.221.42                                          1.338ms asymm 10 
+ 9:  xe-0-0-0.0.ny0.tr-cps.internet2.edu                   7.135ms asymm 11 
+10:  64.57.21.210                                        270.563ms 
+11:  nox1sumgw1-vl-519-nox-neu.nox.org                    28.271ms asymm 12 
+12:  nox1sumgw1-peer--207-210-142-102.nox.org             38.844ms asymm 10 
+13:  no reply
+14:  no reply
+15:  icore-sl1-p2p-slicore2.cne.neu.edu                   27.911ms asymm 16 
+16:  no reply
+17:  129.10.24.101                                        28.346ms asymm 18 
+18:  planetlabtwo.ccs.neu.edu                             28.559ms reached
+     Resume: pmtu 1500 hops 18 back 46 
