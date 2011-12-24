@@ -1,0 +1,14 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.129ms pmtu 1500
+ 1:  10.211.148.2                                          0.659ms asymm  2 
+ 1:  10.211.148.2                                          0.421ms asymm  2 
+ 2:  ip-10-1-10-17.ec2.internal                            9.810ms 
+ 3:  ip-10-1-11-14.ec2.internal                            0.485ms 
+ 4:  216.182.232.48                                        0.458ms 
+ 5:  72.21.222.146                                         1.668ms 
+ 6:  72.21.220.132                                         1.612ms asymm  9 
+ 7:  dca2-edge-01.inet.qwest.net                           2.409ms asymm 11 
+ 8:  iah-edge-18.inet.qwest.net                           42.277ms asymm 13 
+ 9:  67-132.154-154.qwest.net                             48.317ms asymm 14 
+10:  elp-core-ge-1-0-0-420.tx-bb.net                      61.171ms asymm 14 
+11:  planetlab1.utep.edu                                  61.565ms reached
+     Resume: pmtu 1500 hops 11 back 54 
