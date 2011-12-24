@@ -1,0 +1,18 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.121ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.659ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.664ms asymm  2 
+ 2:  ip-10-1-36-1.ec2.internal                             0.491ms 
+ 3:  ip-10-1-37-14.ec2.internal                            0.429ms 
+ 4:  216.182.224.84                                        0.650ms 
+ 5:  72.21.220.241                                         0.816ms asymm  4 
+ 6:  72.21.222.154                                        23.784ms asymm  5 
+ 7:  72.21.220.38                                         25.428ms asymm  8 
+ 8:  72.21.221.42                                         58.263ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                20.085ms 
+10:  64.57.21.102                                         25.305ms asymm  9 
+11:  abbt-mdf-6-xe-4-1-0-229.northwestern.edu             21.292ms 
+12:  750nlsd-3-te-3-2.northwestern.edu                    20.969ms asymm 11 
+13:  2020rdg-3-vln-696.northwestern.edu                   21.509ms asymm 15 
+14:  tech-idf-vln-2001.northwestern.edu                   21.289ms asymm 13 
+15:  planetlab3.ece.northwestern.edu                      22.015ms reached
+     Resume: pmtu 1500 hops 15 back 48 
