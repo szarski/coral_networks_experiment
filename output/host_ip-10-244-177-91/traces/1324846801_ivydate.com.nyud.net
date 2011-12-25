@@ -1,0 +1,17 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.116ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.738ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.389ms asymm  2 
+ 2:  ip-10-1-48-1.ec2.internal                             0.485ms 
+ 3:  ip-10-1-49-14.ec2.internal                            0.568ms 
+ 4:  216.182.224.90                                        0.680ms 
+ 5:  72.21.220.240                                         0.528ms asymm  4 
+ 6:  72.21.222.156                                         1.440ms asymm  5 
+ 7:  72.21.220.126                                         1.702ms asymm  9 
+ 8:  xe-4-3-1.edge2.Washington1.Level3.net                 1.522ms asymm  9 
+ 9:  ae-4-90.edge2.Washington4.Level3.net                 39.655ms 
+10:  GOOGLE-INC.edge2.Washington4.Level3.net               2.905ms asymm 13 
+11:  roc1-ar3-xe-2-0-0-0.us.twtelecom.net                 18.171ms asymm 14 
+12:  128.151.251.1                                        18.926ms 
+13:  cat6509-hopeman-d.net.rochester.edu                  19.648ms asymm 15 
+14:  planet1.cs.rochester.edu                             19.716ms reached
+     Resume: pmtu 1500 hops 14 back 49 
