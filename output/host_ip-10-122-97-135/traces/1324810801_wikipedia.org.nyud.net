@@ -1,0 +1,30 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.111ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.987ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.848ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           0.686ms 
+ 3:  ip-10-1-125-6.ec2.internal                            0.871ms 
+ 4:  216.182.224.68                                        1.966ms 
+ 5:  72.21.220.192                                         0.821ms asymm  4 
+ 6:  72.21.222.138                                         1.085ms asymm  5 
+ 7:  72.21.220.120                                         1.650ms asymm  9 
+ 8:  xe-7-0-0.edge2.Washington1.Level3.net                 1.798ms asymm 12 
+ 9:  vlan90.csw4.Washington1.Level3.net                    1.905ms 
+10:  ae-72-72.ebr2.Washington1.Level3.net                  2.258ms 
+11:  ae-3-3.ebr1.NewYork2.Level3.net                       7.229ms 
+12:  ae-1-100.ebr2.NewYork2.Level3.net                     7.301ms asymm 14 
+13:  ae-6-6.ebr2.NewYork1.Level3.net                       9.068ms 
+14:  ae-2-2.ebr4.SanJose1.Level3.net                      75.390ms asymm 16 
+15:  ae-81-81.csw3.SanJose1.Level3.net                    74.775ms asymm 14 
+16:  ae-11-70.car1.SanJose2.Level3.net                    75.832ms asymm 18 
+17:  HANARO.car1.SanJose2.Level3.net                      76.103ms asymm 18 
+18:  58.229.15.169                                       456.390ms asymm 15 
+19:  118.221.7.49                                        222.602ms asymm 18 
+20:  118.221.5.54                                        225.917ms asymm 17 
+21:  58.229.44.90                                        227.325ms asymm 20 
+22:  58.229.44.118                                       224.977ms asymm 21 
+23:  211.117.16.34                                       227.346ms 
+24:  143.248.117.4                                       236.477ms asymm 25 
+25:  143.248.117.29                                      227.595ms asymm 26 
+26:  143.248.117.105                                     234.978ms asymm 23 
+27:  csplanetlab4.kaist.ac.kr                            226.241ms reached
+     Resume: pmtu 1500 hops 27 back 42 
