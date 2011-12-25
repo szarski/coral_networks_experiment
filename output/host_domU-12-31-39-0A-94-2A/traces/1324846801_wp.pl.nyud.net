@@ -1,0 +1,28 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.123ms pmtu 1500
+ 1:  10.211.148.2                                          0.545ms asymm  2 
+ 1:  10.211.148.2                                          0.660ms asymm  2 
+ 2:  ip-10-1-10-17.ec2.internal                            0.544ms 
+ 3:  ip-10-1-11-14.ec2.internal                            0.472ms 
+ 4:  216.182.224.76                                        0.588ms 
+ 5:  72.21.222.146                                         1.596ms 
+ 6:  72.21.220.140                                         1.513ms 
+ 7:  xe-11-2-1.edge3.Washington1.Level3.net               12.554ms asymm 11 
+ 8:  vlan70.csw2.Washington1.Level3.net                    3.877ms asymm  9 
+ 9:  ae-62-62.ebr2.Washington1.Level3.net                  1.910ms asymm 10 
+10:  ae-3-3.ebr1.NewYork2.Level3.net                       7.316ms asymm 11 
+11:  ae-1-100.ebr2.NewYork2.Level3.net                     7.216ms 
+12:  ae-6-6.ebr2.NewYork1.Level3.net                       7.315ms 
+13:  ae-2-2.ebr4.SanJose1.Level3.net                      75.540ms asymm 16 
+14:  ae-71-71.csw2.SanJose1.Level3.net                    75.600ms 
+15:  ae-62-62.ebr2.SanJose1.Level3.net                    75.408ms 
+16:  ae-1-6.bar2.SanFrancisco1.Level3.net                 75.827ms asymm 17 
+17:  ae-0-11.bar1.SanFrancisco1.Level3.net                76.411ms asymm 21 
+18:  CHUNGHWA-TE.bar1.SanFrancisco1.Level3.net            77.601ms asymm 22 
+19:  175.41.60.5                                         228.997ms asymm 20 
+20:  175.41.61.182                                       202.990ms asymm 21 
+21:  203.160.226.234                                     204.009ms 
+22:  140.112.0.201                                       214.015ms 
+23:  140.112.0.221                                       422.239ms asymm 26 
+24:  140.112.0.221                                       210.075ms asymm 26 
+25:  eve.ee.ntu.edu.tw                                   218.207ms reached
+     Resume: pmtu 1500 hops 25 back 37 
