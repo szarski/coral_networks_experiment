@@ -1,0 +1,21 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.124ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.550ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.865ms asymm  2 
+ 2:  ip-10-1-118-17.ec2.internal                           0.534ms 
+ 3:  ip-10-1-119-6.ec2.internal                            0.545ms 
+ 4:  216.182.224.70                                        0.485ms 
+ 5:  72.21.222.140                                         1.053ms 
+ 6:  72.21.220.24                                          1.130ms 
+ 7:  72.21.221.57                                          1.371ms asymm 10 
+ 8:  69.63.251.153                                        15.562ms asymm 11 
+ 9:  69.63.252.233                                        17.423ms 
+10:  te-2-1-1.agw05.front.phub.net.cable.rogers.com       27.912ms asymm 11 
+11:  24.114.223.134                                       16.226ms asymm 15 
+12:  142.46.4.146                                         21.245ms asymm 14 
+13:  no reply
+14:  no reply
+15:  v719-cs-rt-mc.uwaterloo.ca                           23.033ms asymm 17 
+16:  no reply
+17:  no reply
+18:  plonk.cs.uwaterloo.ca                                24.950ms reached
+     Resume: pmtu 1500 hops 18 back 45 
