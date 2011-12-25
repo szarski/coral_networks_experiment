@@ -1,0 +1,21 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.116ms pmtu 1500
+ 1:  10.211.148.3                                         16.968ms asymm  2 
+ 1:  10.211.148.3                                          2.850ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            0.474ms 
+ 3:  ip-10-1-17-14.ec2.internal                            0.675ms 
+ 4:  216.182.224.82                                        0.937ms 
+ 5:  72.21.222.148                                        18.898ms 
+ 6:  72.21.220.28                                          0.967ms asymm  7 
+ 7:  xe-0-3-0.was12.ip4.tinet.net                          1.039ms asymm  9 
+ 8:  xe-0-0-0.was12.ip4.tinet.net                          1.027ms 
+ 9:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              1.360ms 
+10:  te0-2-0-5.mpd22.dca01.atlas.cogentco.com              3.134ms asymm 13 
+11:  te0-2-0-4.mpd22.ord01.atlas.cogentco.com             22.190ms asymm 13 
+12:  te0-1-0-5.ccr21.ord03.atlas.cogentco.com             22.467ms asymm 14 
+13:  IIT.demarc.cogentco.com                              22.152ms asymm 14 
+14:  IIT.demarc.cogentco.com                              22.053ms 
+15:  38.103.96.42                                         22.013ms asymm 14 
+16:  216.47.159.242                                       22.544ms asymm 13 
+17:  192.41.245.2                                         22.603ms asymm 15 
+18:  server3.planetlab.iit-tech.net                       23.377ms reached
+     Resume: pmtu 1500 hops 18 back 47 
