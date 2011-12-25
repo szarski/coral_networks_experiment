@@ -1,0 +1,23 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.119ms pmtu 1500
+ 1:  10.211.148.2                                          0.533ms asymm  2 
+ 1:  10.211.148.2                                          0.415ms asymm  2 
+ 2:  ip-10-1-4-17.ec2.internal                             9.734ms 
+ 3:  ip-10-1-5-14.ec2.internal                             0.863ms 
+ 4:  216.182.224.72                                        0.618ms 
+ 5:  72.21.222.146                                         1.500ms 
+ 6:  72.21.220.156                                         2.360ms asymm  9 
+ 7:  xe-10-2-0.edge1.Washington1.Level3.net                2.003ms asymm 10 
+ 8:  vlan70.csw2.Washington1.Level3.net                    2.014ms asymm  9 
+ 9:  ae-72-72.ebr2.Washington1.Level3.net                  2.369ms asymm 12 
+10:  ae-43-43.ebr2.Paris1.Level3.net                      82.639ms asymm 11 
+11:  ae-45-45.ebr1.Frankfurt1.Level3.net                  92.777ms asymm 13 
+12:  ae-71-71.csw2.Frankfurt1.Level3.net                  92.095ms asymm 15 
+13:  no reply
+14:  DANTE.edge5.Frankfurt1.Level3.net                    92.268ms asymm 15 
+15:  zr-han1-te0-7-0-5.x-win.dfn.de                      104.258ms asymm 14 
+16:  xr-bre1-te1-1.x-win.dfn.de                          105.722ms asymm 15 
+17:  kr-uni-bre.x-win.dfn.de                             123.870ms asymm 13 
+18:  134.102.121.22                                      107.341ms asymm 17 
+19:  134.102.121.22                                      105.397ms pmtu 1492
+19:  212.201.44.81                                       152.722ms reached
+     Resume: pmtu 1492 hops 19 back 47 

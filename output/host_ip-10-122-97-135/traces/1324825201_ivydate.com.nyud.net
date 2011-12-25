@@ -1,0 +1,23 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.134ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.553ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.967ms asymm  2 
+ 2:  ip-10-1-108-17.ec2.internal                           0.511ms 
+ 3:  ip-10-1-105-6.ec2.internal                            0.833ms 
+ 4:  216.182.224.64                                        0.482ms 
+ 5:  72.21.222.138                                         1.151ms 
+ 6:  72.21.220.128                                         1.287ms 
+ 7:  xe-10-2-0.edge1.Washington1.Level3.net                1.252ms asymm  8 
+ 8:  vlan80.csw3.Washington1.Level3.net                    1.771ms asymm 10 
+ 9:  ae-62-62.ebr2.Washington1.Level3.net                  2.059ms asymm 11 
+10:  ae-44-44.ebr2.Paris1.Level3.net                      81.475ms asymm 11 
+11:  ae-45-45.ebr1.Frankfurt1.Level3.net                  90.191ms asymm 12 
+12:  ae-81-81.csw3.Frankfurt1.Level3.net                  89.072ms asymm 15 
+13:  ae-3-80.edge5.Frankfurt1.Level3.net                  89.333ms 
+14:  DANTE.edge5.Frankfurt1.Level3.net                    92.490ms asymm 17 
+15:  zr-han1-te0-7-0-5.x-win.dfn.de                      104.435ms asymm 14 
+16:  xr-bre1-te1-1.x-win.dfn.de                          105.544ms asymm 13 
+17:  kr-uni-bre.x-win.dfn.de                             106.164ms asymm 16 
+18:  134.102.121.22                                      106.219ms asymm 14 
+19:  134.102.121.22                                      106.225ms pmtu 1492
+19:  212.201.44.81                                       105.943ms reached
+     Resume: pmtu 1492 hops 19 back 48 
