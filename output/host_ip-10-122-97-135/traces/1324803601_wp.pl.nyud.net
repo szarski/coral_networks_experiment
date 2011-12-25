@@ -1,0 +1,21 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.119ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.558ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.916ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           0.641ms 
+ 3:  ip-10-1-119-6.ec2.internal                            0.438ms 
+ 4:  216.182.224.50                                        0.664ms 
+ 5:  72.21.222.140                                         1.214ms 
+ 6:  72.21.220.56                                          1.335ms asymm  9 
+ 7:  72.21.221.38                                          1.376ms asymm 10 
+ 8:  xe-1-2-0.er1.iad10.us.above.net                       1.766ms asymm 11 
+ 9:  xe-2-0-0.cr1.dca2.us.above.net                        2.130ms asymm 11 
+10:  xe-3-2-0.cr1.lga5.us.above.net                        6.898ms asymm 11 
+11:  xe-2-1-0.mpr1.ewr1.us.above.net                       7.196ms asymm 13 
+12:  no reply
+13:  no reply
+14:  no reply
+15:  no reply
+16:  no reply
+17:  no reply
+18:  orbpl2.rutgers.edu                                    7.376ms reached
+     Resume: pmtu 1500 hops 18 back 47 
