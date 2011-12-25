@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.108ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.531ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           1.035ms asymm  2 
+ 2:  ip-10-1-118-17.ec2.internal                           0.691ms 
+ 3:  ip-10-1-119-6.ec2.internal                            0.516ms 
+ 4:  216.182.224.66                                        0.516ms 
+ 5:  72.21.222.140                                         2.723ms 
+ 6:  72.21.220.64                                          1.407ms asymm  9 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.481ms asymm 10 
+ 8:  64.57.21.106                                         26.589ms asymm 10 
+ 9:  128.163.221.142                                      29.130ms asymm 13 
+10:  128.163.221.141                                      29.580ms asymm 13 
+11:  pks2-04-pop2-new.net.uky.edu                         29.318ms asymm 14 
+12:  128.163.142.33                                       29.790ms asymm 15 
+13:  monkey.netlab.uky.edu                                29.721ms asymm 16 
+14:  planetlab1.netlab.uky.edu                            29.255ms reached
+     Resume: pmtu 1500 hops 14 back 52 
