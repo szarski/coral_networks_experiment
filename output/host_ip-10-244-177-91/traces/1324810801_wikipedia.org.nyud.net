@@ -1,0 +1,18 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.124ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.699ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.519ms asymm  2 
+ 2:  ip-10-1-42-1.ec2.internal                             0.921ms 
+ 3:  ip-10-1-43-14.ec2.internal                            0.552ms 
+ 4:  216.182.224.86                                        0.908ms 
+ 5:  72.21.220.241                                         2.249ms asymm  4 
+ 6:  72.21.222.154                                         1.707ms asymm  5 
+ 7:  72.21.220.62                                          1.823ms asymm  6 
+ 8:  xe-3-0-0.was14.ip4.tinet.net                          1.807ms asymm  7 
+ 9:  te0-7-0-5.mpd22.iad02.atlas.cogentco.com              2.563ms asymm 12 
+10:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              2.091ms asymm 11 
+11:  te0-5-0-2.mpd22.dca01.atlas.cogentco.com              3.157ms asymm 12 
+12:  xe-3-1-0-3000-r0-mg.bkb.rnp.br                      149.137ms asymm 15 
+13:  2910-r3-mg.bkb.rnp.br                               149.059ms asymm 19 
+14:  38.104.94.74                                         32.146ms asymm 16 
+15:  planetlab2.pop-mg.rnp.br                            153.000ms reached
+     Resume: pmtu 1500 hops 15 back 46 
