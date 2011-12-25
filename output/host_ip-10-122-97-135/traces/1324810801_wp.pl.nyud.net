@@ -1,0 +1,20 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.123ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.523ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.882ms asymm  2 
+ 2:  ip-10-1-118-17.ec2.internal                           0.478ms 
+ 3:  ip-10-1-119-6.ec2.internal                            0.547ms 
+ 4:  216.182.224.50                                        0.530ms 
+ 5:  72.21.222.140                                         1.314ms 
+ 6:  72.21.220.40                                          5.043ms asymm  9 
+ 7:  v315.core1.ash1.he.net                                1.385ms asymm 10 
+ 8:  10gigabitethernet1-2.core1.nyc4.he.net                7.633ms asymm 10 
+ 9:  10gigabitethernet8-3.core1.chi1.he.net               24.426ms asymm 12 
+10:  no reply
+11:  r-uwmadison-isp-xe-8-0-0-3997.wiscnet.net            33.997ms asymm 12 
+12:  r-peer-xe-1-1-0-945.net.wisc.edu                     34.081ms asymm 14 
+13:  r-cssc-b280c-9-core-vlan-2054.net.wisc.edu           33.764ms asymm 14 
+14:  no reply
+15:  cs-delegated.net.wisc.edu                            34.173ms 
+16:  ge-1-2.cisco1.cs.wisc.edu                            37.431ms asymm 19 
+17:  planetlab4.wail.wisc.edu                             37.531ms reached
+     Resume: pmtu 1500 hops 17 back 48 
