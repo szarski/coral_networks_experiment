@@ -1,0 +1,14 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.119ms pmtu 1500
+ 1:  10.211.148.3                                          0.477ms asymm  2 
+ 1:  10.211.148.3                                          1.303ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            0.540ms 
+ 3:  ip-10-1-17-14.ec2.internal                            0.463ms 
+ 4:  216.182.232.50                                       33.694ms 
+ 5:  72.21.220.224                                         2.914ms asymm  4 
+ 6:  72.21.222.146                                         1.618ms asymm  5 
+ 7:  72.21.220.156                                         2.142ms asymm  9 
+ 8:  dca-edge-20.inet.qwest.net                            2.423ms asymm 11 
+ 9:  phl-edge-01.inet.qwest.net                            5.062ms asymm 13 
+10:  72.166.40.46                                          7.517ms 
+11:  plab2.nec-labs.com                                    8.068ms reached
+     Resume: pmtu 1500 hops 11 back 55 
