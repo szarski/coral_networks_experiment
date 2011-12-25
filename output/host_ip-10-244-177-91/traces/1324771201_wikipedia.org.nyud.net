@@ -1,0 +1,15 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.124ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.596ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.403ms asymm  2 
+ 2:  ip-10-1-44-1.ec2.internal                             0.414ms 
+ 3:  ip-10-1-45-14.ec2.internal                            0.552ms 
+ 4:  216.182.224.92                                        0.672ms 
+ 5:  72.21.222.154                                         1.699ms 
+ 6:  72.21.220.38                                          1.869ms asymm  8 
+ 7:  72.21.221.42                                          1.815ms asymm 11 
+ 8:  64.57.21.150                                          9.408ms asymm 10 
+ 9:  no reply
+10:  vl712.cl-core-2.gw.pitt.edu                          20.327ms asymm 13 
+11:  te1-3-66.mc-core-1.gw.pitt.edu                        8.769ms asymm 14 
+12:  planetlab2.cs.pitt.edu                                9.030ms reached
+     Resume: pmtu 1500 hops 12 back 51 
