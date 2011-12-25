@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.134ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.605ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.961ms asymm  2 
+ 2:  ip-10-1-106-17.ec2.internal                           0.547ms 
+ 3:  ip-10-1-109-6.ec2.internal                            2.104ms 
+ 4:  216.182.224.64                                        0.430ms 
+ 5:  72.21.222.138                                         1.135ms 
+ 6:  72.21.220.160                                         1.829ms asymm  9 
+ 7:  dca2-edge-02.inet.qwest.net                           1.665ms asymm 10 
+ 8:  iah-edge-18.inet.qwest.net                           42.147ms asymm 13 
+ 9:  67-132.154-154.qwest.net                             48.445ms asymm 12 
+10:  ser2-v60.gw.utexas.edu                               48.390ms asymm 13 
+11:  ser10-v702.gw.utexas.edu                             48.278ms asymm 14 
+12:  cs-nocb10-v690.gw.utexas.edu                         48.823ms asymm 14 
+13:  cs65k-cs45k-po1-p2p.aces.utexas.edu                  48.005ms asymm 16 
+14:  planetlab5.csres.utexas.edu                          48.068ms reached
+     Resume: pmtu 1500 hops 14 back 47 
