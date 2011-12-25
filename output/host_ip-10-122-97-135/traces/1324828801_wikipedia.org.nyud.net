@@ -1,0 +1,18 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.930ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.502ms asymm  2 
+ 2:  ip-10-1-106-17.ec2.internal                           0.466ms 
+ 3:  ip-10-1-107-6.ec2.internal                            0.448ms 
+ 4:  216.182.224.62                                        0.678ms 
+ 5:  72.21.220.193                                         0.633ms asymm  4 
+ 6:  72.21.222.140                                         1.187ms asymm  5 
+ 7:  72.21.220.64                                         10.045ms asymm  9 
+ 8:  72.21.221.42                                          1.792ms asymm 11 
+ 9:  xe-0-0-0.0.ny0.tr-cps.internet2.edu                   7.270ms asymm 10 
+10:  64.57.21.210                                         12.942ms asymm 11 
+11:  nox300gw1-peer--207-210-142-242.nox.org              15.821ms 
+12:  core1-rt-xe-0-0-0.gw.umass.edu                       16.163ms asymm 15 
+13:  lgrc-rt-106-8-po-10.gw.umass.edu                     16.018ms asymm 16 
+14:  128.119.3.153                                        17.501ms asymm 17 
+15:  planetlab2.cs.umass.edu                              18.992ms reached
+     Resume: pmtu 1500 hops 15 back 47 
