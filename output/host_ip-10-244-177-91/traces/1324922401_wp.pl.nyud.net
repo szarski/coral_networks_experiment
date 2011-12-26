@@ -1,0 +1,20 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.125ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.517ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.436ms asymm  2 
+ 2:  ip-10-1-42-1.ec2.internal                             0.514ms 
+ 3:  ip-10-1-43-14.ec2.internal                            0.777ms 
+ 4:  216.182.224.84                                        0.644ms 
+ 5:  72.21.220.241                                         0.781ms asymm  4 
+ 6:  72.21.222.154                                         1.684ms asymm  5 
+ 7:  72.21.220.46                                          1.712ms asymm  6 
+ 8:  v315.core1.ash1.he.net                                7.080ms asymm 10 
+ 9:  allied-telecom.gigabitethernet4-11.core1.ash1.he.net   2.220ms asymm  8 
+10:  no reply
+11:  no reply
+12:  75-103-237-110.i95.net                                3.605ms asymm 14 
+13:  128.8.0.229                                           5.660ms asymm 15 
+14:  Gi6-6.css-core-r1.net.umd.edu                         4.626ms asymm 16 
+15:  Gi5-1.css-dual-r2.net.umd.edu                         5.028ms asymm 17 
+16:  128.8.239.66                                          5.538ms asymm 15 
+17:  salt.planetlab.cs.umd.edu                             5.471ms reached
+     Resume: pmtu 1500 hops 17 back 46 
