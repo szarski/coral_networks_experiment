@@ -1,0 +1,21 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.124ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.660ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.844ms asymm  2 
+ 2:  ip-10-1-120-17.ec2.internal                           0.508ms 
+ 3:  ip-10-1-123-6.ec2.internal                            0.654ms 
+ 4:  216.182.224.50                                        0.663ms 
+ 5:  72.21.220.192                                         0.684ms asymm  4 
+ 6:  72.21.222.138                                         1.086ms asymm  5 
+ 7:  72.21.220.160                                         1.759ms asymm  9 
+ 8:  xe-11-1-2.edge3.Washington1.Level3.net                1.789ms asymm 11 
+ 9:  vlan80.csw3.Washington1.Level3.net                    1.803ms asymm 10 
+10:  ae-91-91.ebr1.Washington1.Level3.net                  2.275ms 
+11:  ae-2-2.ebr3.Atlanta2.Level3.net                      14.842ms asymm 12 
+12:  ae-7-7.ebr3.Dallas1.Level3.net                       34.995ms asymm 14 
+13:  ae-73-73.csw2.Dallas1.Level3.net                     34.584ms asymm 12 
+14:  ae-2-70.edge3.Dallas1.Level3.net                     35.245ms asymm 15 
+15:  4.71.198.54                                          35.111ms 
+16:  aust-utnoc-core-ge-0-0-0-761.tx-bb.net               39.697ms asymm 18 
+17:  elp-core-ge-1-0-0-420.tx-bb.net                      52.588ms 
+18:  planetlab1.utep.edu                                  52.680ms reached
+     Resume: pmtu 1500 hops 18 back 46 
