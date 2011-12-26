@@ -1,0 +1,14 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.128ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.531ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.396ms asymm  2 
+ 2:  ip-10-1-48-1.ec2.internal                             0.896ms 
+ 3:  ip-10-1-49-14.ec2.internal                            1.202ms 
+ 4:  216.182.224.92                                        0.530ms 
+ 5:  72.21.220.240                                         0.721ms asymm  4 
+ 6:  72.21.222.156                                         1.466ms asymm  5 
+ 7:  72.21.220.142                                         1.739ms asymm  9 
+ 8:  dca2-edge-01.inet.qwest.net                           1.496ms 
+ 9:  phl-edge-01.inet.qwest.net                            5.525ms asymm 13 
+10:  72.166.40.46                                          7.247ms 
+11:  plab2.nec-labs.com                                    8.974ms reached
+     Resume: pmtu 1500 hops 11 back 53 
