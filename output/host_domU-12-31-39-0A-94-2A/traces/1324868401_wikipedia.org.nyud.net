@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.111ms pmtu 1500
+ 1:  10.211.148.3                                          0.863ms asymm  2 
+ 1:  10.211.148.3                                          0.910ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            0.413ms 
+ 3:  ip-10-1-17-14.ec2.internal                            5.478ms 
+ 4:  216.182.232.50                                        0.876ms 
+ 5:  72.21.222.148                                         0.897ms 
+ 6:  72.21.220.36                                          0.937ms 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.200ms asymm 10 
+ 8:  xe-0-2-0.212.rtr.ll.indiana.gigapop.net              31.530ms asymm 12 
+ 9:  indiana-gigapop-ctc-internet-mx960.tcom.purdue.edu   30.483ms asymm 12 
+10:  tel-210-c7609s-01-te1-1-890.tcom.purdue.edu          32.656ms asymm 13 
+11:  no reply
+12:  no reply
+13:  switch-lwsn2133-z1r11.cs.purdue.edu                  38.489ms asymm 14 
+14:  planetlab2.cs.purdue.edu                             31.979ms reached
+     Resume: pmtu 1500 hops 14 back 49 
