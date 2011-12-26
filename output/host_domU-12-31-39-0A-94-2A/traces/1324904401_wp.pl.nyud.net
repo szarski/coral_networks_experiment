@@ -1,0 +1,15 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.116ms pmtu 1500
+ 1:  10.211.148.2                                          0.838ms asymm  2 
+ 1:  10.211.148.2                                          0.430ms asymm  2 
+ 2:  ip-10-1-8-17.ec2.internal                             0.475ms 
+ 3:  ip-10-1-9-14.ec2.internal                             0.529ms 
+ 4:  216.182.232.48                                        0.530ms 
+ 5:  72.21.222.146                                         1.850ms 
+ 6:  72.21.220.132                                         1.816ms asymm  9 
+ 7:  209.130.172.193                                       2.349ms asymm 10 
+ 8:  ge4-1-0-10G.scr1.WDC2.gblx.net                        2.226ms asymm 10 
+ 9:  po6.ar1.ATL2.gblx.net                                79.951ms asymm 12 
+10:  206.165.213.42                                       18.027ms asymm 11 
+11:  COX2-iborder-ve3374.emory.net                        18.793ms 
+12:  node1.planetlab.mathcs.emory.edu                     18.426ms reached
+     Resume: pmtu 1500 hops 12 back 53 
