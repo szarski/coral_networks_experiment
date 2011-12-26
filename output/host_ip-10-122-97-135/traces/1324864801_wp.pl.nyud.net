@@ -1,0 +1,18 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.119ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.639ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           1.124ms asymm  2 
+ 2:  ip-10-1-108-17.ec2.internal                           0.486ms 
+ 3:  ip-10-1-109-6.ec2.internal                            0.637ms 
+ 4:  216.182.224.64                                        0.472ms 
+ 5:  72.21.220.193                                         0.594ms asymm  4 
+ 6:  72.21.222.140                                         1.109ms asymm  5 
+ 7:  72.21.220.32                                         28.020ms asymm  8 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.476ms asymm 10 
+ 9:  64.57.21.226                                         12.439ms 
+10:  chltcrs-gw-to-rtpcrs-gw.ncren.net                    15.673ms asymm 12 
+11:  chlt7600-gw-pri-to-chltcrs-gw.ncren.net              11.628ms asymm 12 
+12:  uncc-gw-gige-to-chlt7600-gw.ncren.net                12.596ms asymm 13 
+13:  tower1.uncc.edu                                      12.802ms asymm 15 
+14:  SciTech151-Cat6.uncc.edu                             12.994ms asymm 15 
+15:  planetlab01.uncc.edu                                 14.452ms reached
+     Resume: pmtu 1500 hops 15 back 49 
