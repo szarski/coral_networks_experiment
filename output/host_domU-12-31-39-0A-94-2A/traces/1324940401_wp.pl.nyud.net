@@ -1,0 +1,16 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.118ms pmtu 1500
+ 1:  10.211.148.3                                          0.538ms asymm  2 
+ 1:  10.211.148.3                                          0.402ms asymm  2 
+ 2:  ip-10-1-18-17.ec2.internal                            0.510ms 
+ 3:  ip-10-1-19-14.ec2.internal                            0.491ms 
+ 4:  216.182.232.50                                        0.563ms 
+ 5:  72.21.222.148                                        10.412ms 
+ 6:  72.21.220.68                                          1.857ms asymm  9 
+ 7:  72.21.221.42                                          1.451ms asymm 10 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.559ms asymm 11 
+ 9:  64.57.21.102                                         19.991ms 
+10:  rtr-sac-1s-int-ge0-2-0-v241.netequip.depaul.edu      20.133ms asymm 11 
+11:  mfc-sac-1s-v844.netequip.depaul.edu                  20.589ms asymm 14 
+12:  mfc-cst-bs-ge2-48.netequip.depaul.edu                20.676ms asymm 14 
+13:  140.192.249.204                                      20.824ms reached
+     Resume: pmtu 1500 hops 13 back 50 
