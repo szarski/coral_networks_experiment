@@ -1,0 +1,19 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.125ms pmtu 1500
+ 1:  10.211.148.3                                          1.805ms asymm  2 
+ 1:  10.211.148.3                                         13.794ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            0.503ms 
+ 3:  ip-10-1-17-14.ec2.internal                            0.513ms 
+ 4:  216.182.224.82                                        0.820ms 
+ 5:  72.21.222.148                                         1.128ms 
+ 6:  72.21.220.68                                          1.982ms asymm  9 
+ 7:  ae-11.r00.asbnva02.us.bb.gin.ntt.net                  1.219ms asymm  8 
+ 8:  ae-2.r21.asbnva02.us.bb.gin.ntt.net                   2.263ms asymm 11 
+ 9:  ae-4.r20.snjsca04.us.bb.gin.ntt.net                  79.962ms asymm 12 
+10:  as-2.r20.tokyjp01.jp.bb.gin.ntt.net                 185.193ms asymm 14 
+11:  ae-1.r24.tokyjp01.jp.bb.gin.ntt.net                 203.099ms asymm 13 
+12:  no reply
+13:  203.105.72.18                                       191.861ms asymm 14 
+14:  ve-61.cisco2.dojima.wide.ad.jp                      214.824ms asymm 17 
+15:  ve-2.foundry4.dojima.wide.ad.jp                     204.983ms asymm 18 
+16:  planetlab0.dojima.wide.ad.jp                        187.161ms reached
+     Resume: pmtu 1500 hops 16 back 46 

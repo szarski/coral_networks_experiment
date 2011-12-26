@@ -1,0 +1,28 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          1.223ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.671ms asymm  2 
+ 2:  ip-10-1-40-1.ec2.internal                             0.430ms 
+ 3:  ip-10-1-41-14.ec2.internal                            0.550ms 
+ 4:  216.182.224.88                                        0.711ms 
+ 5:  72.21.222.156                                         1.465ms 
+ 6:  72.21.220.158                                         1.549ms asymm  9 
+ 7:  xe-7-0-0.edge2.Washington1.Level3.net                 1.726ms asymm 12 
+ 8:  vlan60.csw1.Washington1.Level3.net                    2.496ms asymm 11 
+ 9:  ae-82-82.ebr2.Washington1.Level3.net                  3.276ms asymm 12 
+10:  ae-3-3.ebr1.NewYork2.Level3.net                       7.474ms asymm 12 
+11:  ae-1-100.ebr2.NewYork2.Level3.net                     6.949ms asymm 14 
+12:  ae-6-6.ebr2.NewYork1.Level3.net                       7.002ms asymm 15 
+13:  ae-2-2.ebr4.SanJose1.Level3.net                      78.332ms asymm 16 
+14:  ae-81-81.csw3.SanJose1.Level3.net                    75.240ms 
+15:  ae-92-92.ebr2.SanJose1.Level3.net                    76.234ms asymm 17 
+16:  ae-1-6.bar2.SanFrancisco1.Level3.net                 76.901ms asymm 20 
+17:  ae-0-11.bar1.SanFrancisco1.Level3.net                76.979ms asymm 20 
+18:  CHUNGHWA-TE.bar1.SanFrancisco1.Level3.net            76.749ms asymm 22 
+19:  175.41.60.5                                         228.808ms asymm 22 
+20:  175.41.60.13                                        209.708ms asymm 22 
+21:  203.160.226.234                                     203.711ms 
+22:  140.112.0.201                                       216.114ms 
+23:  140.112.0.201                                       220.667ms asymm 22 
+24:  140.112.0.225                                       208.712ms asymm 23 
+25:  planetlab1.im.ntu.edu.tw                            222.827ms reached
+     Resume: pmtu 1500 hops 25 back 39 
