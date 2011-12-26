@@ -1,0 +1,16 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.119ms pmtu 1500
+ 1:  10.211.148.2                                          0.590ms asymm  2 
+ 1:  10.211.148.2                                          0.392ms asymm  2 
+ 2:  ip-10-1-10-17.ec2.internal                            0.506ms 
+ 3:  ip-10-1-11-14.ec2.internal                            0.461ms 
+ 4:  216.182.232.48                                        0.688ms 
+ 5:  72.21.220.225                                         0.616ms asymm  4 
+ 6:  72.21.222.148                                         0.973ms asymm  5 
+ 7:  72.21.220.36                                          1.026ms asymm  6 
+ 8:  72.21.221.42                                          1.038ms asymm 10 
+ 9:  no reply
+10:  v-bin-arbl-i2-wsu5.r-bin-arbl.umnet.umich.edu        24.913ms asymm 15 
+11:  l3-caen-bin-arb.r-engin.umnet.umich.edu              33.318ms asymm 18 
+12:  cse-vss.engin.umich.edu                              26.088ms asymm 17 
+13:  planetlab3.eecs.umich.edu                            32.357ms reached
+     Resume: pmtu 1500 hops 13 back 45 
