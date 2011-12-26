@@ -1,0 +1,21 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.138ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          1.370ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.509ms asymm  2 
+ 2:  ip-10-1-40-1.ec2.internal                             0.540ms 
+ 3:  ip-10-1-41-14.ec2.internal                            0.484ms 
+ 4:  216.182.232.52                                        0.610ms 
+ 5:  72.21.220.241                                         0.698ms asymm  4 
+ 6:  72.21.222.154                                         1.499ms asymm  5 
+ 7:  72.21.220.46                                          1.627ms asymm  6 
+ 8:  rt0as-equinix.vx.shawcable.net                        2.572ms asymm  7 
+ 9:  rc3as-ge12-0-0.vx.shawcable.net                       1.978ms asymm 11 
+10:  rc2nr-pos14-0.wp.shawcable.net                       54.358ms asymm 12 
+11:  66.163.77.1                                          74.767ms asymm 13 
+12:  rc2wh-tge0-9-2-0.vc.shawcable.net                    84.587ms asymm 11 
+13:  ra2wh-tge2-1.vc.shawcable.net                        83.823ms 
+14:  rx0wh-bcnet.vc.bigpipeinc.com                        83.847ms asymm 18 
+15:  R1-SFU-TX.bc.net                                     84.963ms asymm 17 
+16:  sry-sc3685-x-1-van-hcc1360-x-1.net.sfu.ca            81.691ms asymm 15 
+17:  sry-sc3685-n-1-sry-cs-sc3685-n-1.net.sfu.ca          85.256ms asymm 20 
+18:  cs-planetlab4.cs.surrey.sfu.ca                       81.943ms reached
+     Resume: pmtu 1500 hops 18 back 45 
