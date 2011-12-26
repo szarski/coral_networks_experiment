@@ -1,0 +1,22 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.111ms pmtu 1500
+ 1:  10.211.148.2                                          0.505ms asymm  2 
+ 1:  10.211.148.2                                          0.381ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.464ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.494ms 
+ 4:  216.182.224.72                                        0.626ms 
+ 5:  72.21.220.225                                         0.659ms asymm  4 
+ 6:  72.21.222.148                                         0.809ms asymm  5 
+ 7:  72.21.220.52                                          1.176ms asymm  8 
+ 8:  ae-13.r02.asbnva02.us.bb.gin.ntt.net                  2.382ms asymm 10 
+ 9:  ae-1.r21.asbnva02.us.bb.gin.ntt.net                   4.809ms asymm 11 
+10:  ae-4.r20.snjsca04.us.bb.gin.ntt.net                  83.153ms asymm 12 
+11:  ae-1.r24.tokyjp01.jp.bb.gin.ntt.net                 210.751ms asymm 16 
+12:  no reply
+13:  203.105.72.18                                       171.747ms asymm 14 
+14:  ve-51.foundry6.otemachi.wide.ad.jp                  166.047ms asymm 16 
+15:  ve-42.foundry4.nezu.wide.ad.jp                      169.695ms asymm 17 
+16:  ve-45.foundry2.yagami.wide.ad.jp                    186.597ms asymm 20 
+17:  ve-46.cisco2.fujisawa.wide.ad.jp                    164.618ms asymm 18 
+18:  alaxala3-sfc.fujisawa.wide.ad.jp                    188.780ms asymm 22 
+19:  planetlab1.sfc.wide.ad.jp                           171.134ms reached
+     Resume: pmtu 1500 hops 19 back 44 
