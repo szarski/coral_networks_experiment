@@ -1,0 +1,18 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.120ms pmtu 1500
+ 1:  10.211.148.3                                         11.618ms asymm  2 
+ 1:  10.211.148.3                                          2.495ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            0.677ms 
+ 3:  ip-10-1-17-14.ec2.internal                            4.350ms 
+ 4:  216.182.224.78                                       32.189ms 
+ 5:  72.21.222.148                                        11.235ms 
+ 6:  72.21.220.44                                          1.465ms asymm  9 
+ 7:  v315.core1.ash1.he.net                               10.996ms asymm  9 
+ 8:  10gigabitethernet1-2.core1.nyc4.he.net                7.865ms asymm 11 
+ 9:  10gigabitethernet1-2.core1.nyc1.he.net                8.291ms asymm 12 
+10:  tvc-albany-inc.gigabitethernet2-7.core1.nyc1.he.net  13.850ms asymm 14 
+11:  ge-1-4.cr2.alb1.tvc-ip.com                           12.956ms asymm 17 
+12:  ge-4-0.ar4.alb1.tvc-ip.com                           13.660ms asymm 18 
+13:  williams-college.tvc-ip.com                          14.066ms asymm 20 
+14:  137.165.1.25                                         16.697ms asymm 17 
+15:  planetlab4.williams.edu                              16.246ms reached
+     Resume: pmtu 1500 hops 15 back 47 
