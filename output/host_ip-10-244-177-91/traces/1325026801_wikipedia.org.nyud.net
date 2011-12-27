@@ -1,0 +1,35 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.115ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                         25.122ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                         20.670ms asymm  2 
+ 2:  ip-10-1-40-1.ec2.internal                             0.501ms 
+ 3:  ip-10-1-41-14.ec2.internal                            0.610ms 
+ 4:  216.182.232.52                                        0.716ms 
+ 5:  72.21.220.241                                         0.571ms asymm  4 
+ 6:  72.21.222.154                                         1.615ms asymm  5 
+ 7:  72.21.220.38                                          2.004ms asymm  8 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.886ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                20.179ms 
+10:  64.57.21.202                                         30.927ms asymm 12 
+11:  kr-ku-e1-5.kanren.net                                31.806ms asymm 10 
+12:  kanren-border-ku-ellsworth.kanren.net                32.418ms asymm 14 
+13:  no reply
+14:  no reply
+15:  no reply
+16:  no reply
+17:  no reply
+18:  no reply
+19:  no reply
+20:  no reply
+21:  no reply
+22:  no reply
+23:  no reply
+24:  no reply
+25:  no reply
+26:  no reply
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
