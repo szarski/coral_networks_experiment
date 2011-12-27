@@ -1,0 +1,24 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.102ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           1.044ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.935ms asymm  2 
+ 2:  ip-10-1-118-17.ec2.internal                           0.567ms 
+ 3:  ip-10-1-121-6.ec2.internal                            0.625ms 
+ 4:  216.182.224.68                                       14.346ms 
+ 5:  72.21.220.192                                         0.791ms asymm  4 
+ 6:  72.21.222.138                                         1.243ms asymm  5 
+ 7:  72.21.220.152                                         3.888ms asymm  6 
+ 8:  xe-11-2-1.edge3.Washington1.Level3.net                1.802ms asymm 11 
+ 9:  vlan90.csw4.Washington1.Level3.net                    2.110ms 
+10:  ae-81-81.ebr1.Washington1.Level3.net                  2.093ms asymm 11 
+11:  ae-2-2.ebr3.Atlanta2.Level3.net                      15.167ms asymm 12 
+12:  ae-7-7.ebr3.Dallas1.Level3.net                       34.937ms asymm 14 
+13:  ae-63-63.csw1.Dallas1.Level3.net                     42.652ms asymm 15 
+14:  ae-1-60.edge3.Dallas1.Level3.net                     34.813ms asymm 15 
+15:  4.71.198.54                                          34.853ms 
+16:  aust-utnoc-core-ge-0-0-0-761.tx-bb.net               44.553ms asymm 14 
+17:  ser2-v60.gw.utexas.edu                               43.660ms asymm 15 
+18:  ser10-v702.gw.utexas.edu                             44.896ms asymm 16 
+19:  cs-nocb10-v690.gw.utexas.edu                         44.793ms asymm 14 
+20:  cs65k-cs45k-po1-p2p.aces.utexas.edu                  43.888ms asymm 16 
+21:  planetlab5.csres.utexas.edu                          44.324ms reached
+     Resume: pmtu 1500 hops 21 back 47 
