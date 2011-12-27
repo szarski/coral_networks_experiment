@@ -1,0 +1,25 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.112ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.700ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.736ms asymm  2 
+ 2:  ip-10-1-122-17.ec2.internal                           0.450ms 
+ 3:  ip-10-1-125-6.ec2.internal                            0.717ms 
+ 4:  216.182.224.50                                        0.609ms 
+ 5:  72.21.222.140                                         3.057ms 
+ 6:  72.21.220.32                                          1.354ms asymm  8 
+ 7:  ae-13.r02.asbnva02.us.bb.gin.ntt.net                  1.721ms asymm  9 
+ 8:  ae-9.r21.asbnva02.us.bb.gin.ntt.net                   1.915ms asymm 11 
+ 9:  ae-4.r20.snjsca04.us.bb.gin.ntt.net                  80.899ms asymm 12 
+10:  as-1.r20.osakjp01.jp.bb.gin.ntt.net                 201.134ms asymm 13 
+11:  ae-1.r22.osakjp01.jp.bb.gin.ntt.net                 202.912ms asymm 12 
+12:  ae-5.r24.tokyjp01.jp.bb.gin.ntt.net                 255.319ms asymm 14 
+13:  p64-2-0-0.r20.taiptw01.tw.bb.gin.ntt.net            220.172ms asymm 17 
+14:  xe-0-1-0.a05.taiptw01.tw.ra.gin.ntt.net             230.461ms asymm 16 
+15:  122.255.91.14                                       230.921ms asymm 23 
+17236101:  203.78.181.133                                      -1884930.-646ms asymm 26 
+17:  175.41.60.109                                       226.716ms asymm 20 
+18:  175.41.61.182                                       224.618ms asymm 23 
+19:  203.160.226.234                                     223.568ms asymm 24 
+20:  140.112.0.201                                       226.040ms asymm 24 
+21:  140.112.0.225                                       219.464ms asymm 26 
+22:  planetlab1.im.ntu.edu.tw                            231.340ms reached
+     Resume: pmtu 1500 hops 22 back 38 
