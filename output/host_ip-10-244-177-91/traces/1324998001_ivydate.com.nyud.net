@@ -1,0 +1,16 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.134ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.577ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.727ms asymm  2 
+ 2:  ip-10-1-46-1.ec2.internal                             0.727ms 
+ 3:  ip-10-1-47-14.ec2.internal                            0.619ms 
+ 4:  216.182.224.94                                        0.682ms 
+ 5:  72.21.222.154                                         1.857ms 
+ 6:  72.21.220.70                                          2.167ms asymm  9 
+ 7:  72.21.221.42                                          2.108ms asymm 11 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                20.368ms asymm  9 
+ 9:  64.57.21.102                                         20.865ms 
+10:  rtr-sac-1s-int-ge0-2-0-v241.netequip.depaul.edu      20.620ms asymm 11 
+11:  mfc-sac-1s-v844.netequip.depaul.edu                  21.167ms 
+12:  mfc-cst-bs-ge2-48.netequip.depaul.edu                21.046ms 
+13:  140.192.249.203                                      21.533ms reached
+     Resume: pmtu 1500 hops 13 back 49 
