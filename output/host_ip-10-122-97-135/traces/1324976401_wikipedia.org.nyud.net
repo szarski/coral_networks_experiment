@@ -1,0 +1,18 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.106ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.557ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.937ms asymm  2 
+ 2:  ip-10-1-108-17.ec2.internal                           0.454ms 
+ 3:  ip-10-1-109-6.ec2.internal                            0.517ms 
+ 4:  216.182.224.62                                        0.931ms 
+ 5:  72.21.220.193                                         0.750ms asymm  4 
+ 6:  72.21.222.140                                         2.433ms asymm  5 
+ 7:  72.21.220.32                                          1.429ms asymm  8 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.388ms asymm 10 
+ 9:  137.164.131.54                                       22.369ms 
+10:  no reply
+11:  no reply
+12:  198.32.166.178                                       48.021ms 
+13:  131.247.254.241                                      48.451ms asymm 15 
+14:  enb-6500.net.usf.edu                                 48.581ms asymm 16 
+15:  131.247.2.245                                        48.259ms reached
+     Resume: pmtu 1500 hops 15 back 51 
