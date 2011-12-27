@@ -1,0 +1,35 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.129ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.510ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.416ms asymm  2 
+ 2:  ip-10-1-50-1.ec2.internal                             0.486ms 
+ 3:  ip-10-1-51-14.ec2.internal                            0.522ms 
+ 4:  216.182.224.94                                        0.736ms 
+ 5:  72.21.222.154                                         1.707ms 
+ 6:  72.21.220.70                                          1.939ms asymm  9 
+ 7:  77.67.108.33                                          1.995ms asymm 12 
+ 8:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              2.261ms asymm 11 
+ 9:  te0-4-0-1.mpd22.dca01.atlas.cogentco.com              3.103ms asymm 13 
+10:  te0-2-0-5.mpd22.dca01.atlas.cogentco.com              2.948ms asymm 13 
+11:  te0-6-0-0.mpd22.jfk02.atlas.cogentco.com              9.342ms asymm 14 
+12:  te0-3-0-1.ccr21.lpl01.atlas.cogentco.com             80.191ms asymm 14 
+13:  te0-2-0-1.ccr21.lpl01.atlas.cogentco.com             80.121ms asymm 15 
+14:  te0-0-0-1.ccr21.fra03.atlas.cogentco.com             97.257ms asymm 15 
+15:  te0-2-0-1.ccr21.fra03.atlas.cogentco.com             97.153ms 
+16:  te0-0-0-0.ccr21.muc01.atlas.cogentco.com            112.914ms asymm 21 
+17:  hanival-internet.demarc.cogentco.com                223.208ms asymm 14 
+18:  hanival-internet.demarc.cogentco.com                104.451ms asymm 14 
+19:  as1.rt1.ath2.gr.geant2.net                          146.876ms asymm 18 
+20:  grnet-gw.rt1.ath2.gr.geant.net                      147.407ms asymm 18 
+21:  koletti1-to-eie2.backbone.grnet.gr                  147.007ms asymm 17 
+22:  clientRouter.upatras.koletti-1.access-link.grnet.gr 151.950ms asymm 17 
+23:  no reply
+24:  no reply
+25:  no reply
+26:  no reply
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
