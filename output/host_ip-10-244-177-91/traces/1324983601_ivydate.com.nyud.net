@@ -1,0 +1,18 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.123ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.779ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.661ms asymm  2 
+ 2:  ip-10-1-38-1.ec2.internal                             0.610ms 
+ 3:  ip-10-1-39-14.ec2.internal                            0.466ms 
+ 4:  216.182.224.88                                        0.709ms 
+ 5:  72.21.222.156                                         1.679ms 
+ 6:  72.21.220.134                                         1.906ms asymm  9 
+ 7:  209.130.172.225                                       2.321ms asymm 10 
+ 8:  ge4-1-0-10G.scr1.WDC2.gblx.net                        2.774ms asymm 12 
+ 9:  po1-20G.ar7.LON3.gblx.net                            74.596ms asymm 13 
+10:  204.245.38.154                                       75.756ms asymm 18 
+11:  static.turktelekom.com.tr                           129.154ms asymm 16 
+12:  itu-t3-1-gayrettepe-t2-1.turktelekom.com.tr         132.608ms asymm 17 
+13:  buyukdere-t4-1-gayrettepe-t3-1.turktelekom.com.tr   138.507ms asymm 20 
+14:  no reply
+15:  88.255.65.220                                       136.858ms reached
+     Resume: pmtu 1500 hops 15 back 42 
