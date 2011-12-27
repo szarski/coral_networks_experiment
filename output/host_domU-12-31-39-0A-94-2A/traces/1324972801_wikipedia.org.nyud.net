@@ -1,0 +1,18 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.114ms pmtu 1500
+ 1:  10.211.148.3                                          0.558ms asymm  2 
+ 1:  10.211.148.3                                          0.409ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            0.398ms 
+ 3:  ip-10-1-17-14.ec2.internal                            0.506ms 
+ 4:  216.182.224.80                                       14.411ms 
+ 5:  72.21.222.148                                        22.613ms 
+ 6:  72.21.220.52                                         50.457ms asymm  8 
+ 7:  equinix-ashburn.ip-plus.net                           4.170ms asymm 10 
+ 8:  i68geb-005-pos6-0-0.bb.ip-plus.net                   97.114ms asymm 11 
+ 9:  i69lss-025-bun5.bb.ip-plus.net                       96.966ms asymm 10 
+10:  i79zhb-025-bun4.bb.ip-plus.net                       98.746ms asymm  9 
+11:  no reply
+12:  swit-00-ser0.ce.ip-plus.net                          96.730ms asymm 13 
+13:  swiEZ2-10GE-1-3.switch.ch                            96.346ms asymm 14 
+14:  rou-open-net-switch.ethz.ch                          96.548ms 
+15:  planetlab4.ethz.ch                                   96.837ms reached
+     Resume: pmtu 1500 hops 15 back 50 
