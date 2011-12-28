@@ -1,0 +1,13 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.126ms pmtu 1500
+ 1:  10.211.148.3                                          2.211ms asymm  2 
+ 1:  10.211.148.3                                          0.452ms asymm  2 
+ 2:  ip-10-1-18-17.ec2.internal                            0.415ms 
+ 3:  ip-10-1-19-14.ec2.internal                            0.454ms 
+ 4:  216.182.224.78                                        0.692ms 
+ 5:  72.21.222.148                                         0.814ms 
+ 6:  72.21.220.68                                          1.870ms asymm  9 
+ 7:  ethernet2-2.ar7.dca3.gblx.net                         1.993ms asymm 10 
+ 8:  lag9.csr1.DCA3.gblx.net                               3.279ms asymm  9 
+ 9:  206.165.213.42                                       21.569ms asymm 11 
+10:  node1.planetlab.mathcs.emory.edu                     18.525ms reached
+     Resume: pmtu 1500 hops 10 back 53 
