@@ -1,0 +1,19 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.138ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.537ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.408ms asymm  2 
+ 2:  ip-10-1-42-1.ec2.internal                             0.593ms 
+ 3:  ip-10-1-43-14.ec2.internal                            0.817ms 
+ 4:  216.182.224.86                                        0.689ms 
+ 5:  72.21.220.241                                         2.542ms asymm  4 
+ 6:  72.21.222.154                                         1.800ms asymm  5 
+ 7:  72.21.220.54                                          1.984ms asymm  9 
+ 8:  gw3.lax1.asianetcom.net                              70.792ms asymm  9 
+ 9:  te0-1-0-0.wr1.nrt0.asianetcom.net                   239.704ms asymm 11 
+10:  te0-0-0-0.wr1.osa0.asianetcom.net                   257.662ms asymm 12 
+11:  te0-2-0-0.wr1.hkg0.asianetcom.net                   318.897ms asymm 10 
+12:  te0-0-0-0.wr1.sin0.asianetcom.net                   453.038ms asymm 11 
+13:  gi1-0-0.gw5.sin1.asianetcom.net                     458.935ms asymm 18 
+14:  po10-1.gw2.sin1.asianetcom.net                      454.802ms asymm 15 
+15:  Singaren.gw2.sin1.asianetcom.net                    461.902ms 
+16:  203.30.39.242                                       452.459ms reached
+     Resume: pmtu 1500 hops 16 back 48 
