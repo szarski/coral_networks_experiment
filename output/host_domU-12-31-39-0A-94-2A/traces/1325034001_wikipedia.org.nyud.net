@@ -1,0 +1,19 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.111ms pmtu 1500
+ 1:  10.211.148.2                                          0.597ms asymm  2 
+ 1:  10.211.148.2                                          0.398ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.484ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.625ms 
+ 4:  216.182.224.72                                       39.878ms 
+ 5:  72.21.220.225                                         0.726ms asymm  4 
+ 6:  72.21.222.148                                         1.132ms asymm  5 
+ 7:  72.21.220.60                                          1.185ms asymm  8 
+ 8:  77.67.108.33                                          1.904ms asymm 12 
+ 9:  xe-2-0-0.was12.ip4.tinet.net                          1.406ms asymm 11 
+10:  fiu.miami14.mia.seabone.net                          34.472ms asymm 14 
+11:  198.32.252.142                                      146.191ms asymm 14 
+12:  usp.ptta.ansp.br                                    146.234ms asymm 18 
+13:  core-cce-b.uspnet.usp.br                            147.498ms asymm 18 
+14:  38.104.94.74                                         29.782ms asymm 13 
+15:  143.107.151.34                                      143.319ms asymm 21 
+16:  plab2.larc.usp.br                                   144.050ms reached
+     Resume: pmtu 1500 hops 16 back 45 
