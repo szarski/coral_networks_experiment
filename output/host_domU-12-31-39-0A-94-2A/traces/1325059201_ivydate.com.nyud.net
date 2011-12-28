@@ -1,0 +1,23 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.117ms pmtu 1500
+ 1:  10.211.148.2                                          0.597ms asymm  2 
+ 1:  10.211.148.2                                          0.414ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.458ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.662ms 
+ 4:  216.182.224.76                                        0.779ms 
+ 5:  72.21.220.225                                         0.773ms asymm  4 
+ 6:  72.21.222.148                                         1.107ms asymm  5 
+ 7:  72.21.220.36                                          1.211ms asymm  6 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 3.188ms asymm 10 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.444ms asymm 11 
+10:  137.164.129.2                                        73.387ms asymm 13 
+11:  xe-1-0-0.0.paix0.tr-cps.internet2.edu                94.153ms asymm 13 
+12:  137.164.131.94                                       94.886ms asymm 14 
+13:  dc-svl-core1--svl-px1-10ge-3.cenic.net               94.937ms asymm 12 
+14:  dc-lax-core2--svl-core1-10ge-1.cenic.net            103.070ms asymm 16 
+15:  dc-lax-agg1--lax-core2-ge.cenic.net                 102.866ms 
+16:  ucla--lax-agg1-10g.cenic.net                        104.273ms asymm 18 
+17:  border-2--core-1-ge.backbone.ucla.net               103.889ms 
+18:  core-1--mathsci-10ge.backbone.ucla.net              109.570ms asymm 19 
+19:  no reply
+20:  Planetlab2.CS.UCLA.EDU                              104.273ms reached
+     Resume: pmtu 1500 hops 20 back 45 
