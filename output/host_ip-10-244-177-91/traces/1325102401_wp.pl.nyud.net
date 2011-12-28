@@ -1,0 +1,15 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.122ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.546ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.421ms asymm  2 
+ 2:  ip-10-1-50-1.ec2.internal                             0.474ms 
+ 3:  ip-10-1-51-14.ec2.internal                            0.495ms 
+ 4:  216.182.224.94                                        0.758ms 
+ 5:  72.21.222.154                                         7.016ms 
+ 6:  72.21.220.70                                          2.209ms asymm  9 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.685ms asymm 11 
+ 8:  no reply
+ 9:  v-bin-arbl-i2-wsu5.r-bin-arbl.umnet.umich.edu        25.906ms asymm 17 
+10:  l3-caen-bin-arb.r-engin.umnet.umich.edu              32.761ms asymm 17 
+11:  eecs-vss.engin.umich.edu                             25.518ms asymm 19 
+12:  planetlab1.eecs.umich.edu                            26.676ms reached
+     Resume: pmtu 1500 hops 12 back 48 
