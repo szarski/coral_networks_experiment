@@ -1,0 +1,14 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.101ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.507ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           1.019ms asymm  2 
+ 2:  ip-10-1-122-17.ec2.internal                           0.503ms 
+ 3:  ip-10-1-123-6.ec2.internal                            0.559ms 
+ 4:  216.182.224.50                                        0.652ms 
+ 5:  72.21.222.140                                         2.645ms 
+ 6:  72.21.220.40                                          1.506ms asymm  9 
+ 7:  v315.core1.ash1.he.net                                1.510ms asymm 10 
+ 8:  10gigabitethernet1-1.core1.dal1.he.net               36.639ms asymm  9 
+ 9:  learn.10gigabitethernet1-2.core1.dal1.he.net         36.811ms asymm 12 
+10:  as22645_uta7206_m320.uta.edu                        220.712ms asymm 11 
+11:  planetlab2.uta.edu                                   38.071ms reached
+     Resume: pmtu 1500 hops 11 back 51 
