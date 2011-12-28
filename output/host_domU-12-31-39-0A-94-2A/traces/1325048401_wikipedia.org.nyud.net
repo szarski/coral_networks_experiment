@@ -1,0 +1,19 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.102ms pmtu 1500
+ 1:  10.211.148.2                                          0.505ms asymm  2 
+ 1:  10.211.148.2                                          0.390ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.403ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.517ms 
+ 4:  216.182.232.48                                       26.927ms 
+ 5:  72.21.220.225                                         0.726ms asymm  4 
+ 6:  72.21.222.148                                         0.911ms asymm  5 
+ 7:  72.21.220.28                                          1.226ms 
+ 8:  72.21.221.57                                          1.291ms asymm 10 
+ 9:  69.63.249.38                                         27.864ms asymm 11 
+10:  gi-2-3.gw01.nfsj.phub.net.cable.rogers.com           19.154ms 
+11:  te-2-1-1.agw05.front.phub.net.cable.rogers.com       24.386ms 
+12:  24.114.223.134                                       17.752ms 
+13:  142.46.4.146                                         21.811ms asymm 15 
+14:  no reply
+15:  v720-cs-rt-dc.uwaterloo.ca                           27.960ms asymm 18 
+16:  plonk.cs.uwaterloo.ca                                23.396ms reached
+     Resume: pmtu 1500 hops 16 back 48 
