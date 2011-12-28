@@ -1,0 +1,35 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.113ms pmtu 1500
+ 1:  10.211.148.2                                          0.455ms asymm  2 
+ 1:  10.211.148.2                                          0.403ms asymm  2 
+ 2:  ip-10-1-10-17.ec2.internal                            0.406ms 
+ 3:  ip-10-1-11-14.ec2.internal                            0.605ms 
+ 4:  216.182.232.48                                        0.976ms 
+ 5:  72.21.220.225                                         0.722ms asymm  4 
+ 6:  72.21.222.148                                        34.006ms asymm  5 
+ 7:  72.21.220.28                                          1.088ms 
+ 8:  xe-7-3-0.was14.ip4.tinet.net                          1.181ms asymm 11 
+ 9:  xe-1-1-0.was12.ip4.tinet.net                          1.658ms asymm 11 
+10:  te0-3-0-5.mpd22.dca01.atlas.cogentco.com              2.206ms 
+11:  te0-1-0-5.mpd22.dca01.atlas.cogentco.com              2.137ms 
+12:  te0-3-0-3.mpd22.jfk02.atlas.cogentco.com              8.189ms asymm 13 
+13:  te0-2-0-1.ccr21.lpl01.atlas.cogentco.com             79.514ms 
+14:  te0-1-0-1.ccr21.lpl01.atlas.cogentco.com             82.766ms asymm 13 
+15:  te0-3-0-7.mpd21.ams03.atlas.cogentco.com             94.046ms asymm 16 
+16:  te0-2-0-1.mpd21.fra03.atlas.cogentco.com             97.257ms 
+17:  te0-3-0-0.ccr21.muc01.atlas.cogentco.com            108.312ms asymm 19 
+18:  hanival-internet.demarc.cogentco.com                141.164ms asymm 14 
+19:  hanival-internet.demarc.cogentco.com                104.497ms asymm 14 
+20:  as1.rt1.ath2.gr.geant2.net                          146.094ms asymm 15 
+21:  kol1-to-eie2.backbone.grnet.gr                      147.808ms asymm 17 
+22:  kol1-to-eie2.backbone.grnet.gr                      148.141ms asymm 17 
+23:  clientRouter.upatras.koletti-1.access-link.grnet.gr 150.518ms asymm 20 
+24:  no reply
+25:  no reply
+26:  no reply
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
