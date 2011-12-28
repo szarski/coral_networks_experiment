@@ -1,0 +1,18 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.106ms pmtu 1500
+ 1:  10.211.148.2                                          0.805ms asymm  2 
+ 1:  10.211.148.2                                          0.414ms asymm  2 
+ 2:  ip-10-1-4-17.ec2.internal                             0.500ms 
+ 3:  ip-10-1-5-14.ec2.internal                             1.394ms 
+ 4:  216.182.224.74                                        0.695ms 
+ 5:  72.21.220.225                                         0.681ms asymm  4 
+ 6:  72.21.222.148                                         0.785ms asymm  5 
+ 7:  72.21.220.68                                          1.979ms asymm  9 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.272ms asymm 10 
+ 9:  64.57.21.106                                         26.167ms 
+10:  128.163.221.142                                      28.500ms asymm 11 
+11:  128.163.221.141                                      28.864ms asymm 10 
+12:  pks2-04-pop2-new.net.uky.edu                         29.922ms asymm 14 
+13:  128.163.142.33                                       30.246ms asymm 15 
+14:  monkey.netlab.uky.edu                                29.073ms asymm 15 
+15:  planetlab1.netlab.uky.edu                            29.013ms reached
+     Resume: pmtu 1500 hops 15 back 51 
