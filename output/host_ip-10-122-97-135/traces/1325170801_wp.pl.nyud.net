@@ -1,0 +1,24 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.511ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.461ms asymm  2 
+ 2:  ip-10-1-106-17.ec2.internal                           0.496ms 
+ 3:  ip-10-1-107-6.ec2.internal                            0.643ms 
+ 4:  216.182.224.64                                        0.446ms 
+ 5:  72.21.220.193                                         0.665ms asymm  4 
+ 6:  72.21.222.140                                         1.210ms asymm  5 
+ 7:  72.21.220.32                                          1.261ms asymm  8 
+ 8:  72.21.221.42                                         64.465ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                20.250ms asymm 12 
+10:  137.164.129.2                                        73.107ms 
+11:  xe-1-0-0.0.paix0.tr-cps.internet2.edu                94.582ms asymm 13 
+12:  137.164.131.94                                       94.967ms asymm 11 
+13:  dc-svl-core1--svl-px1-10ge-2.cenic.net               95.564ms asymm 15 
+14:  dc-oak-core1--svl-core1-ge-1.cenic.net               96.485ms asymm 13 
+15:  dc-tri-core1--oak-core1-10ge-1.cenic.net             99.495ms asymm 17 
+16:  dc-riv-core1--tri-core1-2.cenic.net                 106.276ms asymm 14 
+17:  dc-sdg-agg1--riv-core1-10ge-2.cenic.net             114.233ms asymm 18 
+18:  dc-ucsd-1--sdg-agg1.cenic.net                       116.448ms asymm 20 
+19:  nodem-core--mx0-30ge.ucsd.edu                       114.792ms asymm 20 
+20:  ebu3b-6513-nodem-core-720-10ge.ucsd.edu             114.202ms asymm 19 
+21:  planetlab1.ucsd.edu                                 114.172ms reached
+     Resume: pmtu 1500 hops 21 back 43 
