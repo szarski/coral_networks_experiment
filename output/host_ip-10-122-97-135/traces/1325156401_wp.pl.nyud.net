@@ -1,0 +1,35 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.120ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.622ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.674ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           0.627ms 
+ 3:  ip-10-1-119-6.ec2.internal                            0.616ms 
+ 4:  216.182.224.66                                        0.673ms 
+ 5:  72.21.222.140                                         1.061ms 
+ 6:  72.21.220.64                                          7.366ms asymm  9 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.399ms asymm 10 
+ 8:  xe-0-2-0.212.rtr.ll.indiana.gigapop.net              30.775ms asymm 10 
+ 9:  indiana-gigapop-ctc-internet-mx960.tcom.purdue.edu   30.895ms asymm 12 
+10:  tel-210-c7609s-01-te1-1-890.tcom.purdue.edu          32.257ms 
+11:  no reply
+12:  no reply
+13:  switch-lwsn2133-z1r11.cs.purdue.edu                  40.019ms asymm 16 
+14:  no reply
+15:  no reply
+16:  no reply
+17:  no reply
+18:  no reply
+19:  no reply
+20:  no reply
+21:  no reply
+22:  no reply
+23:  no reply
+24:  no reply
+25:  no reply
+26:  no reply
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
