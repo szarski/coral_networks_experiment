@@ -1,0 +1,23 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.117ms pmtu 1500
+ 1:  10.211.148.2                                          0.947ms asymm  2 
+ 1:  10.211.148.2                                          0.784ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.489ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.706ms 
+ 4:  216.182.224.72                                        0.870ms 
+ 5:  72.21.220.225                                         0.867ms asymm  4 
+ 6:  72.21.222.148                                         1.033ms asymm  5 
+ 7:  72.21.220.60                                         12.231ms asymm  8 
+ 8:  ae-10.r00.asbnva02.us.bb.gin.ntt.net                  1.149ms asymm  7 
+ 9:  ae-12.r00.asbnva02.us.bb.gin.ntt.net                  1.449ms asymm  7 
+10:  cr2.wswdc.ip.att.net                                 39.767ms asymm 23 
+11:  cr1.attga.ip.att.net                                 73.642ms asymm 19 
+12:  cr2.ormfl.ip.att.net                                 48.695ms asymm 21 
+13:  gar3.miufl.ip.att.net                                40.815ms asymm 20 
+14:  12.88.228.6                                          33.208ms asymm 17 
+15:  110-19-50-200-static.centennialpr.net                60.198ms asymm 17 
+16:  182-207-38-65-static.centennialpr.net                60.631ms asymm 18 
+17:  hpcf2ac.hpcf.upr.edu                                 60.628ms asymm 19 
+18:  gsr27600.hpcf.upr.edu                                60.245ms asymm 19 
+19:  rum2hpcf.hpcf.upr.edu                                64.386ms asymm 22 
+20:  planetlab-01.ece.uprm.edu                            65.182ms reached
+     Resume: pmtu 1500 hops 20 back 43 
