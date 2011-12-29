@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.115ms pmtu 1500
+ 1:  10.211.148.3                                          0.598ms asymm  2 
+ 1:  10.211.148.3                                          0.399ms asymm  2 
+ 2:  ip-10-1-18-17.ec2.internal                            0.494ms 
+ 3:  ip-10-1-19-14.ec2.internal                            0.522ms 
+ 4:  216.182.232.50                                        0.772ms 
+ 5:  72.21.222.148                                         1.019ms 
+ 6:  72.21.220.44                                          1.421ms asymm  9 
+ 7:  v315.core1.ash1.he.net                               10.490ms asymm  9 
+ 8:  10gigabitethernet1-2.core1.nyc4.he.net                8.187ms asymm 11 
+ 9:  10gigabitethernet3-4.core1.nyc5.he.net                6.490ms asymm 11 
+10:  10gigabitethernet3-4.core1.tor1.he.net               21.331ms asymm 13 
+11:  gtanet-networking.10gigabitethernet3-1.core1.tor1.he.net  21.082ms asymm 13 
+12:  utoronto-ut-hub-if-internet.gtanet.ca                22.150ms asymm 15 
+13:  bcit-gpb.gw.utoronto.ca                              21.012ms 
+14:  pl2.csl.utoronto.ca                                  21.967ms reached
+     Resume: pmtu 1500 hops 14 back 49 
