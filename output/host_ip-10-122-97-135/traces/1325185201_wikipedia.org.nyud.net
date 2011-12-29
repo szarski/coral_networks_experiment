@@ -1,0 +1,25 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.099ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.506ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.842ms asymm  2 
+ 2:  ip-10-1-104-17.ec2.internal                           0.555ms 
+ 3:  ip-10-1-105-6.ec2.internal                            2.250ms 
+ 4:  216.182.224.48                                        0.520ms 
+ 5:  72.21.222.138                                         1.821ms 
+ 6:  72.21.220.120                                         1.698ms asymm  9 
+ 7:  xe-11-1-2.edge3.Washington1.Level3.net                1.956ms asymm 12 
+ 8:  vlan80.csw3.Washington1.Level3.net                    1.752ms asymm 10 
+ 9:  ae-82-82.ebr2.Washington1.Level3.net                  1.921ms asymm 10 
+10:  ae-43-43.ebr2.Paris1.Level3.net                      82.604ms asymm 13 
+11:  ae-48-48.ebr1.Frankfurt1.Level3.net                  90.691ms asymm 13 
+12:  ae-91-91.csw4.Frankfurt1.Level3.net                  90.063ms asymm 15 
+13:  no reply
+14:  DANTE.edge5.Frankfurt1.Level3.net                   158.535ms asymm 17 
+15:  xr-gsi1-te1-1.x-win.dfn.de                           95.390ms asymm 24 
+16:  xr-hei1-te2-1.x-win.dfn.de                           97.574ms asymm 22 
+17:  xr-fzk1-te1-1.x-win.dfn.de                           95.081ms asymm 23 
+18:  xr-kai1-te1-1.x-win.dfn.de                           97.273ms asymm 21 
+19:  xr-saa1-te1-1.x-win.dfn.de                           98.751ms asymm 21 
+20:  kr-0unisb.x-win.dfn.de                               97.137ms asymm 22 
+21:  mpi2rz-hsrp2.net.uni-saarland.de                     95.586ms 
+22:  planetlab01.mpi-sws.mpg.de                           98.618ms reached
+     Resume: pmtu 1500 hops 22 back 40 
