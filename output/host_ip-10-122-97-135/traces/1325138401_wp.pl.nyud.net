@@ -1,0 +1,19 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.121ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.551ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.859ms asymm  2 
+ 2:  ip-10-1-122-17.ec2.internal                           9.606ms 
+ 3:  ip-10-1-123-6.ec2.internal                            0.516ms 
+ 4:  216.182.224.66                                        0.518ms 
+ 5:  72.21.222.140                                         1.404ms 
+ 6:  72.21.220.40                                          1.636ms asymm  9 
+ 7:  v315.core1.ash1.he.net                                1.498ms asymm 10 
+ 8:  10gigabitethernet1-2.core1.nyc4.he.net               14.979ms asymm 10 
+ 9:  10gigabitethernet8-3.core1.chi1.he.net               35.255ms asymm 12 
+10:  no reply
+11:  xe-1-2-0.945.rtr.ictc.indiana.gigapop.net            26.446ms asymm 19 
+12:  no reply
+13:  no reply
+14:  no reply
+15:  switch-lwsn2133-z1r11.cs.purdue.edu                  28.082ms asymm 19 
+16:  planetlab1.cs.purdue.edu                             27.410ms reached
+     Resume: pmtu 1500 hops 16 back 46 
