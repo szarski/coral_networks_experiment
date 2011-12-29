@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.113ms pmtu 1500
+ 1:  10.211.148.2                                          0.604ms asymm  2 
+ 1:  10.211.148.2                                          0.399ms asymm  2 
+ 2:  ip-10-1-4-17.ec2.internal                             0.768ms 
+ 3:  ip-10-1-5-14.ec2.internal                             0.431ms 
+ 4:  216.182.224.76                                        0.574ms 
+ 5:  72.21.220.225                                         0.821ms asymm  4 
+ 6:  72.21.222.148                                         2.017ms asymm  5 
+ 7:  72.21.220.36                                          1.184ms asymm  6 
+ 8:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.191ms asymm 10 
+ 9:  xe-0-0-0.0.ny0.tr-cps.internet2.edu                   7.089ms asymm 11 
+10:  64.57.21.210                                         12.101ms 
+11:  nox300gw1-peer--207-210-142-246.nox.org              13.605ms asymm 17 
+12:  host-198-7-224-38.oshean.org                         16.529ms asymm 16 
+13:  cit-r.brown.edu                                      16.842ms asymm 17 
+14:  host-198-7-242-42.oshean.org                         16.798ms reached
+     Resume: pmtu 1500 hops 14 back 45 
