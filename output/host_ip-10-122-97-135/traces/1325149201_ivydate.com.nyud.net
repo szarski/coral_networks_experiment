@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.541ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.869ms asymm  2 
+ 2:  ip-10-1-102-17.ec2.internal                           0.972ms 
+ 3:  ip-10-1-103-6.ec2.internal                            0.613ms 
+ 4:  216.182.224.64                                        0.502ms 
+ 5:  72.21.220.193                                         0.551ms asymm  4 
+ 6:  72.21.222.140                                         1.093ms asymm  5 
+ 7:  72.21.220.32                                          1.159ms asymm  8 
+ 8:  72.21.221.42                                          1.758ms asymm 11 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                20.116ms asymm 12 
+10:  64.57.21.254                                         30.643ms asymm  9 
+11:  164.113.232.226                                      34.958ms asymm 10 
+12:  b31gb1-438.tele.iastate.edu                          34.933ms asymm 11 
+13:  b11sr1-vlan254.tele.iastate.edu                      35.184ms asymm 12 
+14:  planetlab-6.ece.iastate.edu                          35.326ms reached
+     Resume: pmtu 1500 hops 14 back 52 
