@@ -1,0 +1,13 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.118ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.489ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.917ms asymm  2 
+ 2:  ip-10-1-120-17.ec2.internal                           0.555ms 
+ 3:  ip-10-1-121-6.ec2.internal                            8.370ms 
+ 4:  216.182.224.70                                        0.543ms 
+ 5:  72.21.222.140                                         1.212ms 
+ 6:  72.21.220.56                                          1.486ms asymm  9 
+ 7:  77.67.108.33                                          3.252ms asymm 12 
+ 8:  xe-5-3-1.cr2-eqiad.wikimedia.org                      1.341ms asymm 12 
+ 9:  xe-1-1-0.cr1-sdtpa.wikimedia.org                     27.922ms asymm 13 
+10:  wikipedia-lb.pmtpa.wikimedia.org                     27.623ms reached
+     Resume: pmtu 1500 hops 10 back 54 
