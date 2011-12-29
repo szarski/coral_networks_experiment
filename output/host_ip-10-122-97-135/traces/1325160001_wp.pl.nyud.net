@@ -1,0 +1,22 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.121ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           1.067ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.402ms asymm  2 
+ 2:  ip-10-1-104-17.ec2.internal                           0.509ms 
+ 3:  ip-10-1-105-6.ec2.internal                            0.736ms 
+ 4:  216.182.224.48                                        0.661ms 
+ 5:  72.21.222.138                                         1.112ms 
+ 6:  72.21.220.160                                         2.163ms asymm  9 
+ 7:  xe-11-0-0.edge1.Washington1.Level3.net                1.345ms asymm  8 
+ 8:  vlan80.csw3.Washington1.Level3.net                    1.787ms asymm 10 
+ 9:  ae-74-74.ebr4.Washington1.Level3.net                  8.428ms 
+10:  ae-4-4.ebr3.LosAngeles1.Level3.net                   65.844ms asymm 11 
+11:  ae-93-93.csw4.LosAngeles1.Level3.net                 65.371ms 
+12:  ae-4-90.edge5.LosAngeles1.Level3.net                 65.727ms asymm 15 
+13:  JAPAN-TELEC.edge5.LosAngeles1.Level3.net             66.016ms asymm 14 
+14:  tokyo-dc-gm2-xe4-3-0-vlan10.s4.sinet.ad.jp          191.833ms asymm 17 
+15:  tokyo-dc-rm-ae4-vlan10.s4.sinet.ad.jp               192.076ms asymm 16 
+16:  waseda.gw.sinet.ad.jp                               179.879ms asymm 19 
+17:  cl2948gl3a.goto.info.waseda.ac.jp                   192.891ms asymm 20 
+18:  mbone-goto.goto.info.waseda.ac.jp                   192.974ms asymm 20 
+19:  planetlab5.goto.info.waseda.ac.jp                   193.130ms reached
+     Resume: pmtu 1500 hops 19 back 45 
