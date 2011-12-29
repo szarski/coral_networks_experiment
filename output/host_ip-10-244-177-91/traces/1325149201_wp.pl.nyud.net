@@ -1,0 +1,18 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.123ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                         36.380ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          3.170ms asymm  2 
+ 2:  ip-10-1-40-1.ec2.internal                             0.516ms 
+ 3:  ip-10-1-41-14.ec2.internal                            0.961ms 
+ 4:  216.182.224.84                                        0.742ms 
+ 5:  72.21.222.156                                        19.472ms 
+ 6:  72.21.220.134                                         1.594ms asymm  9 
+ 7:  209.130.172.221                                       2.540ms asymm  9 
+ 8:  xe7-0-0-10G.scr2.WDC2.gblx.net                        2.974ms asymm 12 
+ 9:  pos1-0-0-2488M.asr1.BOS1.gblx.net                    12.181ms asymm 14 
+10:  gx-inet.gigabitethernet7-5.asr1.bos1.gblx.net        15.790ms asymm 13 
+11:  ge-1-9.cr1.alb1.tvc-ip.com                          184.355ms asymm 15 
+12:  ge-3-0.ar4.alb1.tvc-ip.com                           15.929ms asymm 16 
+13:  williams-college.tvc-ip.com                          16.934ms asymm 20 
+14:  137.165.1.25                                         22.625ms asymm 19 
+15:  planetlab4.williams.edu                              18.469ms reached
+     Resume: pmtu 1500 hops 15 back 45 
