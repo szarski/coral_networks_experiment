@@ -1,0 +1,19 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.121ms pmtu 1500
+ 1:  10.211.148.3                                          0.545ms asymm  2 
+ 1:  10.211.148.3                                          0.436ms asymm  2 
+ 2:  ip-10-1-18-17.ec2.internal                            0.527ms 
+ 3:  ip-10-1-19-14.ec2.internal                            0.477ms 
+ 4:  216.182.224.82                                        0.685ms 
+ 5:  72.21.222.148                                         1.122ms 
+ 6:  72.21.220.36                                          1.004ms 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.042ms asymm  8 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.585ms asymm 11 
+ 9:  137.164.131.138                                      43.478ms 
+10:  frgp-gw-2-te1-1.frgp.net                             43.972ms asymm 13 
+11:  ucb-i1-frgp.colorado.edu                             44.909ms asymm 19 
+12:  hut-juniper.colorado.edu                             44.851ms asymm 17 
+13:  engr-hut.colorado.edu                                45.340ms asymm 20 
+14:  engrgw-engr.colorado.edu                             45.383ms asymm 21 
+15:  cs-engr.colorado.edu                                 45.208ms asymm 21 
+16:  planetlab1.cs.colorado.edu                           45.371ms reached
+     Resume: pmtu 1500 hops 16 back 42 
