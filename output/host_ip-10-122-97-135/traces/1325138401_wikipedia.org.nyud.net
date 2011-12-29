@@ -1,0 +1,22 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.505ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.889ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           3.406ms 
+ 3:  ip-10-1-125-6.ec2.internal                            0.592ms 
+ 4:  216.182.224.70                                       28.424ms 
+ 5:  72.21.220.192                                         0.697ms asymm  4 
+ 6:  72.21.222.138                                         1.243ms asymm  5 
+ 7:  72.21.220.128                                         1.428ms asymm  6 
+ 8:  dca2-edge-01.inet.qwest.net                           1.244ms 
+ 9:  bst-core-01.inet.qwest.net                           12.773ms asymm 14 
+10:  cmb-edge-03.inet.qwest.net                           12.643ms asymm 16 
+11:  65.112.16.166                                       130.622ms asymm 16 
+12:  bdrvrf-hbl-out.net.uconn.edu                         14.918ms asymm 15 
+13:  bdr-fwin-hbl.net.uconn.edu                           15.293ms asymm 14 
+14:  no reply
+15:  no reply
+16:  vss-west-po3.net.uconn.edu                           16.501ms 
+17:  no reply
+18:  137.99.22.82                                         16.536ms asymm 19 
+19:  planetlab1.engr.uconn.edu                            16.906ms reached
+     Resume: pmtu 1500 hops 19 back 45 
