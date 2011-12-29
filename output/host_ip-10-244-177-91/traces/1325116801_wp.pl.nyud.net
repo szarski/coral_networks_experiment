@@ -1,0 +1,16 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.124ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.769ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.758ms asymm  2 
+ 2:  ip-10-1-38-1.ec2.internal                             0.496ms 
+ 3:  ip-10-1-39-14.ec2.internal                            0.537ms 
+ 4:  216.182.224.86                                        0.728ms 
+ 5:  72.21.220.241                                         0.684ms asymm  4 
+ 6:  72.21.222.154                                        19.341ms asymm  5 
+ 7:  72.21.220.54                                          2.074ms asymm  9 
+ 8:  equinix-ash.ntelos.net                                1.992ms asymm 10 
+ 9:  216-24-99-62.unassigned.ntelos.net                    8.592ms asymm 13 
+10:  no reply
+11:  carruthers-6509a-x.misc.Virginia.EDU                  7.580ms asymm 13 
+12:  gilmer-6509a-x.misc.Virginia.EDU                      7.504ms asymm 13 
+13:  planetlab01.sys.Virginia.EDU                        828.492ms reached
+     Resume: pmtu 1500 hops 13 back 51 
