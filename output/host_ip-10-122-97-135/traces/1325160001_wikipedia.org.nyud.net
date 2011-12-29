@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.099ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.588ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.784ms asymm  2 
+ 2:  ip-10-1-102-17.ec2.internal                           0.780ms 
+ 3:  ip-10-1-103-6.ec2.internal                            1.502ms 
+ 4:  216.182.224.48                                        1.864ms 
+ 5:  72.21.220.193                                        58.175ms asymm  4 
+ 6:  72.21.222.140                                         1.156ms asymm  5 
+ 7:  72.21.220.40                                          1.260ms asymm  9 
+ 8:  v315.core1.ash1.he.net                                1.462ms asymm 10 
+ 9:  10gigabitethernet1-1.core1.dal1.he.net               41.843ms 
+10:  learn.gigabitethernet2-15.core1.dal1.he.net          36.302ms asymm  9 
+11:  ntg-gw1-dllstx-MX480-vl410-xe-0-2-0.dfw.tx-learn.net  36.827ms asymm 12 
+12:  ntg-gw1-rcsntx-vl404-ge-2-3-0.dfw.tx-learn.net       37.330ms 
+13:  vl431-utd-ntg-gw1.dfw.tx-learn.net                   37.191ms asymm 15 
+14:  planetlab1.utdallas.edu                              37.809ms reached
+     Resume: pmtu 1500 hops 14 back 50 
