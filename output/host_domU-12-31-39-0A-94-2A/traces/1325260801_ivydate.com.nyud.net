@@ -1,0 +1,21 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.140ms pmtu 1500
+ 1:  10.211.148.3                                          0.616ms asymm  2 
+ 1:  10.211.148.3                                          0.393ms asymm  2 
+ 2:  ip-10-1-14-17.ec2.internal                            0.486ms 
+ 3:  ip-10-1-15-14.ec2.internal                            0.405ms 
+ 4:  216.182.224.80                                        0.736ms 
+ 5:  72.21.222.148                                         0.709ms 
+ 6:  72.21.220.68                                          2.141ms asymm  9 
+ 7:  xe-3-0-0.was14.ip4.tinet.net                          1.095ms asymm  8 
+ 8:  xe-9-0-0.was12.ip4.tinet.net                          1.232ms 
+ 9:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              1.359ms 
+10:  te0-2-0-4.mpd22.dca01.atlas.cogentco.com              2.452ms asymm 12 
+11:  te0-1-0-0.ccr22.dca01.atlas.cogentco.com              2.761ms asymm 10 
+12:  vl3827.na41.b007499-0.dca01.atlas.cogentco.com        2.526ms 
+13:  vl3527.na41.b007499-0.dca01.atlas.cogentco.com        2.684ms 
+14:  141.161.76.218                                        2.397ms asymm 15 
+15:  141.161.76.218                                        2.377ms 
+16:  141.161.220.19                                        2.655ms asymm 15 
+17:  141.161.220.19                                        2.521ms asymm 15 
+18:  planetlab2.georgetown.edu                             3.404ms reached
+     Resume: pmtu 1500 hops 18 back 46 
