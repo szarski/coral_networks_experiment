@@ -1,0 +1,15 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.109ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.628ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.931ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           0.689ms 
+ 3:  ip-10-1-125-6.ec2.internal                            9.244ms 
+ 4:  216.182.224.66                                        0.587ms 
+ 5:  72.21.222.140                                         1.371ms 
+ 6:  72.21.220.24                                          1.177ms 
+ 7:  64.211.194.153                                       50.011ms 
+ 8:  lag9.csr2.DCA3.gblx.net                               2.354ms asymm 11 
+ 9:  202.169.174.225                                     197.134ms asymm 11 
+10:  64.209.107.46                                        71.436ms asymm 11 
+11:  202.169.174.225                                     197.595ms 
+12:  planetlab1.iis.sinica.edu.tw                        198.153ms reached
+     Resume: pmtu 1500 hops 12 back 50 
