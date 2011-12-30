@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.116ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.539ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.882ms asymm  2 
+ 2:  ip-10-1-102-17.ec2.internal                           0.470ms 
+ 3:  ip-10-1-103-6.ec2.internal                            0.537ms 
+ 4:  216.182.224.56                                        0.590ms 
+ 5:  72.21.222.138                                         1.260ms 
+ 6:  72.21.220.120                                         1.601ms asymm  9 
+ 7:  xe-11-0-0.edge1.Washington1.Level3.net                1.465ms asymm  8 
+ 8:  vlan80.csw3.Washington1.Level3.net                    1.514ms asymm 10 
+ 9:  ae-92-92.ebr2.Washington1.Level3.net                  1.693ms asymm 11 
+10:  ae-8-8.car2.Baltimore1.Level3.net                     3.300ms asymm 11 
+11:  no reply
+12:  addr162129253110.testippl.jhmi.edu                    4.783ms asymm 16 
+13:  commedia.cnds.jhu.edu                                 4.420ms 
+14:  128.220.231.5                                         5.375ms reached
+     Resume: pmtu 1500 hops 14 back 49 
