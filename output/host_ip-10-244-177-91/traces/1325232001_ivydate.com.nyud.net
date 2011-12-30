@@ -1,0 +1,21 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.519ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.718ms asymm  2 
+ 2:  ip-10-1-50-1.ec2.internal                             1.097ms 
+ 3:  ip-10-1-51-14.ec2.internal                            8.682ms 
+ 4:  216.182.224.94                                        0.731ms 
+ 5:  72.21.222.154                                         1.631ms 
+ 6:  72.21.220.62                                          1.658ms 
+ 7:  ae-11.r00.asbnva02.us.bb.gin.ntt.net                  1.834ms asymm 10 
+ 8:  ae-12.r00.asbnva02.us.bb.gin.ntt.net                  2.155ms asymm 10 
+ 9:  192.205.37.53                                         3.010ms asymm 11 
+10:  cr2.wswdc.ip.att.net                                 49.016ms asymm 22 
+11:  cr2.ormfl.ip.att.net                                 42.713ms asymm 21 
+12:  gar4.miufl.ip.att.net                                46.367ms asymm 20 
+13:  12.88.168.14                                         37.153ms 
+14:  t9-1.gw1.mia.terremark.net                           36.270ms 
+15:  72.46.240.180                                        38.718ms asymm 16 
+16:  saopaulo-miami.core.redclara.net                    148.820ms asymm 18 
+17:  santiago-saopaulo.core.redclara.net                 177.094ms asymm 19 
+18:  planetlab1-santiago.lan.redclara.net                176.915ms reached
+     Resume: pmtu 1500 hops 18 back 45 
