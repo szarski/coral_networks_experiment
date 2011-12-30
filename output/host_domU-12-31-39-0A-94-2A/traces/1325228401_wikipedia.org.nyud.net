@@ -1,0 +1,14 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.105ms pmtu 1500
+ 1:  10.211.148.3                                          0.495ms asymm  2 
+ 1:  10.211.148.3                                          0.412ms asymm  2 
+ 2:  ip-10-1-14-17.ec2.internal                            2.191ms 
+ 3:  ip-10-1-15-14.ec2.internal                            0.453ms 
+ 4:  216.182.224.82                                        0.733ms 
+ 5:  72.21.222.148                                         0.914ms 
+ 6:  72.21.220.68                                          1.904ms asymm  9 
+ 7:  72.21.221.42                                          1.120ms asymm 10 
+ 8:  137.164.131.54                                       21.393ms 
+ 9:  198.32.155.2                                         25.000ms asymm 13 
+10:  198.32.155.90                                        35.486ms asymm 11 
+11:  node33.seg3.ucf.edu                                  24.557ms reached
+     Resume: pmtu 1500 hops 11 back 54 
