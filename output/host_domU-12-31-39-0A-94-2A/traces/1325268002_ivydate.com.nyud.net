@@ -1,0 +1,29 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.119ms pmtu 1500
+ 1:  10.211.148.2                                          6.013ms asymm  2 
+ 1:  10.211.148.2                                          2.052ms asymm  2 
+ 2:  ip-10-1-10-17.ec2.internal                            0.499ms 
+ 3:  ip-10-1-11-14.ec2.internal                            0.738ms 
+ 4:  216.182.224.72                                        0.504ms 
+ 5:  72.21.222.146                                         1.603ms 
+ 6:  72.21.220.140                                         1.724ms 
+ 7:  xe-7-0-0.edge2.Washington1.Level3.net                 1.762ms asymm 11 
+ 8:  vlan60.csw1.Washington1.Level3.net                    1.938ms asymm 10 
+ 9:  ae-82-82.ebr2.Washington1.Level3.net                  2.983ms asymm 11 
+10:  ae-3-3.ebr1.NewYork2.Level3.net                       7.174ms asymm 11 
+11:  ae-1-100.ebr2.NewYork2.Level3.net                     7.118ms 
+12:  ae-6-6.ebr2.NewYork1.Level3.net                       7.252ms 
+13:  ae-2-2.ebr4.SanJose1.Level3.net                      75.505ms asymm 16 
+14:  ae-81-81.csw3.SanJose1.Level3.net                    75.111ms 
+15:  ae-72-72.ebr2.SanJose1.Level3.net                    75.394ms asymm 17 
+16:  ae-1-6.bar2.SanFrancisco1.Level3.net                 75.317ms asymm 17 
+17:  ae-0-11.bar1.SanFrancisco1.Level3.net                76.228ms asymm 21 
+18:  CHUNGHWA-TE.bar1.SanFrancisco1.Level3.net            77.781ms asymm 22 
+19:  175.41.60.1                                         203.944ms asymm 20 
+20:  175.41.61.174                                       211.999ms asymm 23 
+21:  203.160.226.234                                     205.637ms 
+22:  140.112.0.201                                       209.646ms 
+23:  140.112.0.201                                       266.287ms asymm 22 
+24:  140.112.0.221                                       258.619ms asymm 26 
+25:  140.112.1.82                                        300.304ms asymm 24 
+26:  eve.ee.ntu.edu.tw                                   212.308ms reached
+     Resume: pmtu 1500 hops 26 back 37 
