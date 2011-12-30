@@ -1,0 +1,20 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.124ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.513ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.969ms asymm  2 
+ 2:  ip-10-1-104-17.ec2.internal                           0.576ms 
+ 3:  ip-10-1-107-6.ec2.internal                            0.783ms 
+ 4:  216.182.224.62                                        0.649ms 
+ 5:  72.21.222.138                                         2.281ms 
+ 6:  72.21.220.120                                         2.027ms asymm  9 
+ 7:  dca2-edge-01.inet.qwest.net                           1.311ms asymm  8 
+ 8:  dcp-brdr-03.inet.qwest.net                            4.313ms asymm 11 
+ 9:  63.146.27.98                                          2.428ms asymm 12 
+10:  if-4-16.tcore1.NYY-NewYork.as6453.net                 9.055ms asymm 19 
+11:  if-10-1-25.mse1.NW8-NewYork.as6453.net                9.142ms asymm 17 
+12:  if-10-2.mse2.NW8-NewYork.as6453.net                   8.884ms asymm 16 
+13:  209.58.76.26                                          8.853ms asymm 20 
+14:  NYUGWA-VL10.NET.NYU.EDU                               8.901ms asymm 18 
+15:  WSSGW-VL901.NET.NYU.EDU                               8.944ms asymm 19 
+16:  delancy.scs.cs.nyu.edu                                8.533ms asymm 20 
+17:  planet1.scs.cs.nyu.edu                               10.417ms reached
+     Resume: pmtu 1500 hops 17 back 44 
