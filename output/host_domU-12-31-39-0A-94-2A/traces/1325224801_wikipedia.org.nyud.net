@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.101ms pmtu 1500
+ 1:  10.211.148.3                                          0.538ms asymm  2 
+ 1:  10.211.148.3                                          0.426ms asymm  2 
+ 2:  ip-10-1-12-17.ec2.internal                            0.445ms 
+ 3:  ip-10-1-13-14.ec2.internal                            1.218ms 
+ 4:  216.182.232.50                                        0.745ms 
+ 5:  72.21.222.148                                         1.088ms 
+ 6:  72.21.220.36                                          0.763ms 
+ 7:  72.21.221.42                                          1.323ms asymm 10 
+ 8:  137.164.131.194                                       9.495ms asymm 11 
+ 9:  rtr-mi.cmu.3rox.net                                   9.125ms asymm 12 
+10:  CORE255-VL987.GW.CMU.NET                              7.998ms 
+11:  128.2.255.156                                         8.415ms asymm 13 
+12:  SCS-WEH-VL925.GW.CMU.NET                              8.482ms asymm 15 
+13:  no reply
+14:  PLANETLAB-3.CMCL.CS.CMU.EDU                           8.207ms reached
+     Resume: pmtu 1500 hops 14 back 51 
