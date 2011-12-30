@@ -1,0 +1,29 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.110ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.886ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.791ms asymm  2 
+ 2:  ip-10-1-42-1.ec2.internal                             0.549ms 
+ 3:  ip-10-1-43-14.ec2.internal                            1.928ms 
+ 4:  216.182.224.84                                        2.064ms 
+ 5:  72.21.222.156                                         1.425ms 
+ 6:  72.21.220.158                                         1.476ms asymm  9 
+ 7:  xe-11-1-2.edge3.Washington1.Level3.net                1.593ms asymm 11 
+ 8:  vlan80.csw3.Washington1.Level3.net                    1.415ms 
+ 9:  ae-72-72.ebr2.Washington1.Level3.net                  1.640ms 
+10:  ae-3-3.ebr1.NewYork2.Level3.net                       7.480ms asymm 12 
+11:  ae-1-100.ebr2.NewYork2.Level3.net                     6.913ms asymm 14 
+12:  ae-6-6.ebr2.NewYork1.Level3.net                       6.855ms asymm 15 
+13:  ae-2-2.ebr4.SanJose1.Level3.net                      75.899ms asymm 16 
+14:  ae-61-61.csw1.SanJose1.Level3.net                    75.302ms 
+15:  ae-92-92.ebr2.SanJose1.Level3.net                    76.111ms asymm 17 
+16:  ae-1-6.bar2.SanFrancisco1.Level3.net                 76.915ms asymm 20 
+17:  ae-0-11.bar1.SanFrancisco1.Level3.net                76.550ms asymm 20 
+18:  CHUNGHWA-TE.bar1.SanFrancisco1.Level3.net            76.936ms asymm 22 
+19:  175.41.60.1                                         256.078ms asymm 22 
+20:  175.41.61.182                                       202.338ms asymm 21 
+21:  203.160.226.234                                     268.209ms 
+22:  203.160.226.234                                     285.005ms asymm 21 
+23:  140.112.0.221                                       262.744ms 
+24:  140.112.1.82                                        276.417ms asymm 27 
+25:  140.112.1.82                                        270.058ms asymm 27 
+26:  eve.ee.ntu.edu.tw                                   265.130ms reached
+     Resume: pmtu 1500 hops 26 back 37 
