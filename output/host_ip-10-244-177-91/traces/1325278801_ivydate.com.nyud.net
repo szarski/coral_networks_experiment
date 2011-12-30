@@ -1,0 +1,13 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.108ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          1.112ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.743ms asymm  2 
+ 2:  ip-10-1-46-1.ec2.internal                             0.486ms 
+ 3:  ip-10-1-47-14.ec2.internal                            2.312ms 
+ 4:  216.182.224.90                                        0.899ms 
+ 5:  72.21.222.154                                         1.765ms 
+ 6:  72.21.220.62                                          1.756ms 
+ 7:  72.21.221.5                                          66.026ms asymm  9 
+ 8:  206.165.213.42                                       18.566ms asymm 12 
+ 9:  206.165.213.42                                       18.298ms asymm 12 
+10:  node1.planetlab.mathcs.emory.edu                     19.183ms reached
+     Resume: pmtu 1500 hops 10 back 55 
