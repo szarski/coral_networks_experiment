@@ -1,0 +1,14 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.103ms pmtu 1500
+ 1:  10.211.148.3                                          0.665ms asymm  2 
+ 1:  10.211.148.3                                          0.483ms asymm  2 
+ 2:  ip-10-1-12-17.ec2.internal                            0.495ms 
+ 3:  ip-10-1-13-14.ec2.internal                            0.463ms 
+ 4:  216.182.224.80                                        1.523ms 
+ 5:  72.21.222.148                                        34.656ms 
+ 6:  72.21.220.36                                          0.957ms 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 0.923ms asymm  8 
+ 8:  64.57.21.226                                         12.297ms asymm  9 
+ 9:  rlgh7600-gw-to-rtp-crs-gw.ncren.net                   9.868ms asymm 12 
+10:  ciscokid-to-rlgh7600-gw.ncren.net                    11.457ms asymm 13 
+11:  planetlab1.telenet.unc.edu                           10.257ms reached
+     Resume: pmtu 1500 hops 11 back 53 
