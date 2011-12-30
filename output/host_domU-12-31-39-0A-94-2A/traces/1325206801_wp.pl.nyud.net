@@ -1,0 +1,18 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.116ms pmtu 1500
+ 1:  10.211.148.3                                          0.571ms asymm  2 
+ 1:  10.211.148.3                                          0.453ms asymm  2 
+ 2:  ip-10-1-16-17.ec2.internal                            2.624ms 
+ 3:  ip-10-1-17-14.ec2.internal                            2.681ms 
+ 4:  216.182.224.78                                        0.635ms 
+ 5:  72.21.220.224                                         0.772ms asymm  4 
+ 6:  72.21.222.146                                         1.747ms asymm  5 
+ 7:  72.21.220.148                                         1.951ms 
+ 8:  xe-7-0-0.edge2.Washington1.Level3.net                 1.823ms asymm 11 
+ 9:  vlan90.csw4.Washington1.Level3.net                    1.817ms 
+10:  ae-82-82.ebr2.Washington1.Level3.net                  1.949ms asymm 11 
+11:  ae-8-8.car2.Baltimore1.Level3.net                     3.342ms 
+12:  no reply
+13:  addr162129253110.testippl.jhmi.edu                    5.635ms asymm 16 
+14:  commedia.cnds.jhu.edu                                14.511ms asymm 18 
+15:  128.220.231.3                                        21.809ms reached
+     Resume: pmtu 1500 hops 15 back 49 
