@@ -1,0 +1,19 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.119ms pmtu 1500
+ 1:  10.211.148.3                                          0.551ms asymm  2 
+ 1:  10.211.148.3                                          0.412ms asymm  2 
+ 2:  ip-10-1-12-17.ec2.internal                            0.377ms 
+ 3:  ip-10-1-13-14.ec2.internal                            0.601ms 
+ 4:  216.182.224.80                                        0.822ms 
+ 5:  72.21.222.148                                         0.853ms 
+ 6:  72.21.220.44                                          1.565ms asymm  9 
+ 7:  v315.core1.ash1.he.net                                1.334ms asymm  9 
+ 8:  allied-telecom.gigabitethernet4-11.core1.ash1.he.net   1.919ms asymm  9 
+ 9:  no reply
+10:  no reply
+11:  75-103-237-110.i95.net                                3.822ms asymm 14 
+12:  128.8.0.229                                           4.610ms 
+13:  Gi6-6.css-core-r1.net.umd.edu                         4.221ms asymm 16 
+14:  Gi5-1.css-dual-r2.net.umd.edu                         5.045ms asymm 17 
+15:  128.8.239.66                                          3.738ms asymm 17 
+16:  salt.planetlab.cs.umd.edu                             4.408ms reached
+     Resume: pmtu 1500 hops 16 back 48 
