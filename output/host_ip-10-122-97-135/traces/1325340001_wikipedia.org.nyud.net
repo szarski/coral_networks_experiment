@@ -1,0 +1,15 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.101ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.551ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.863ms asymm  2 
+ 2:  ip-10-1-122-17.ec2.internal                           1.402ms 
+ 3:  ip-10-1-123-6.ec2.internal                            6.719ms 
+ 4:  216.182.224.68                                        0.753ms 
+ 5:  72.21.222.140                                         1.346ms 
+ 6:  72.21.220.48                                          3.200ms asymm  9 
+ 7:  rt0as-equinix.vx.shawcable.net                        1.838ms asymm  8 
+ 8:  rc2sc-pos0-9-2-0.wp.shawcable.net                    47.525ms asymm 11 
+ 9:  66.163.78.137                                        66.578ms asymm 10 
+10:  66.163.70.42                                         64.114ms asymm 14 
+11:  h208-118-95-3.bigpipeinc.com                         72.459ms asymm 14 
+12:  planetlab-2.usask.ca                                 72.994ms reached
+     Resume: pmtu 1500 hops 12 back 50 
