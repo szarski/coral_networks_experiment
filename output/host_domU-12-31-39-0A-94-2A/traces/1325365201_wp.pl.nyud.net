@@ -1,0 +1,21 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.119ms pmtu 1500
+ 1:  10.211.148.2                                          0.760ms asymm  2 
+ 1:  10.211.148.2                                          0.400ms asymm  2 
+ 2:  ip-10-1-10-17.ec2.internal                            0.812ms 
+ 3:  ip-10-1-11-14.ec2.internal                            0.528ms 
+ 4:  216.182.224.72                                        0.775ms 
+ 5:  72.21.220.225                                         0.604ms asymm  4 
+ 6:  72.21.222.148                                         0.932ms asymm  5 
+ 7:  72.21.220.60                                         41.036ms asymm  8 
+ 8:  72.21.221.38                                          1.305ms asymm  9 
+ 9:  xe-1-2-0.er1.iad10.us.above.net                       2.078ms asymm  8 
+10:  xe-5-1-0.cr1.dca2.us.above.net                        2.185ms asymm 11 
+11:  xe-1-1-0.mpr3.iad1.us.above.net                       3.548ms asymm 13 
+12:  xe-1-1-0.mpr3.iad2.us.above.net                       2.482ms 
+13:  64.124.12.77.gmu.edu                                  3.041ms asymm 12 
+14:  no reply
+15:  no reply
+16:  no reply
+17:  no reply
+18:  199.26.254.66                                         3.581ms reached
+     Resume: pmtu 1500 hops 18 back 48 
