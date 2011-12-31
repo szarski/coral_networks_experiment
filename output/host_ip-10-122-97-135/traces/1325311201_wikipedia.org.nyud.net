@@ -1,0 +1,35 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.122ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.950ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.681ms asymm  2 
+ 2:  ip-10-1-118-17.ec2.internal                           6.357ms 
+ 3:  ip-10-1-119-6.ec2.internal                            0.485ms 
+ 4:  216.182.224.68                                        0.658ms 
+ 5:  72.21.222.140                                         1.353ms 
+ 6:  72.21.220.64                                          1.447ms asymm  9 
+ 7:  xe-3-0-0.was14.ip4.tinet.net                          1.357ms 
+ 8:  xe-1-0-0.was12.ip4.tinet.net                          1.421ms asymm 10 
+ 9:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              1.883ms asymm 12 
+10:  te0-2-0-4.ccr22.iad02.atlas.cogentco.com              1.762ms asymm 11 
+11:  te0-2-0-2.mpd22.jfk02.atlas.cogentco.com              8.402ms asymm 13 
+12:  te0-1-0-3.ccr21.jfk02.atlas.cogentco.com              8.709ms asymm 14 
+13:  te0-3-0-7.ccr21.lon13.atlas.cogentco.com             99.284ms asymm 18 
+14:  te0-1-0-2.ccr22.lon13.atlas.cogentco.com             99.402ms asymm 19 
+15:  te0-0-0-0.ccr22.ams03.atlas.cogentco.com             98.626ms asymm 16 
+16:  te0-3-0-0.ccr22.ams03.atlas.cogentco.com             99.371ms asymm 19 
+17:  te0-0-0-1.ccr22.fra03.atlas.cogentco.com             99.863ms asymm 16 
+18:  bgu-gp0-orng.ilan.net.il                            151.610ms asymm 19 
+19:  bgu-gp0-orng.ilan.net.il                            154.060ms 
+20:  no reply
+21:  no reply
+22:  no reply
+23:  no reply
+24:  no reply
+25:  no reply
+26:  no reply
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
