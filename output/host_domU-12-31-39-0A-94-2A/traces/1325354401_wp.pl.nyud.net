@@ -1,0 +1,16 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.118ms pmtu 1500
+ 1:  10.211.148.2                                          0.791ms asymm  2 
+ 1:  10.211.148.2                                          1.208ms asymm  2 
+ 2:  ip-10-1-8-17.ec2.internal                             8.770ms 
+ 3:  ip-10-1-9-14.ec2.internal                             0.567ms 
+ 4:  216.182.224.74                                        0.736ms 
+ 5:  72.21.220.225                                         0.635ms asymm  4 
+ 6:  72.21.222.148                                        23.508ms asymm  5 
+ 7:  72.21.220.68                                          2.065ms asymm  9 
+ 8:  72.21.221.42                                          1.139ms asymm 10 
+ 9:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.414ms asymm 11 
+10:  137.164.131.138                                      43.259ms asymm  9 
+11:  border1-commodity_b.colostate.edu                    45.241ms asymm 13 
+12:  ensb1-border1.colostate.edu                          46.051ms asymm 13 
+13:  planetlab-2.cs.colostate.edu                         46.019ms reached
+     Resume: pmtu 1500 hops 13 back 52 
