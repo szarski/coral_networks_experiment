@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.113ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.601ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.768ms asymm  2 
+ 2:  ip-10-1-102-17.ec2.internal                           0.452ms 
+ 3:  ip-10-1-105-6.ec2.internal                            0.440ms 
+ 4:  216.182.224.48                                        0.501ms 
+ 5:  72.21.222.138                                         1.061ms 
+ 6:  72.21.220.136                                         1.864ms asymm  8 
+ 7:  209.130.172.225                                       4.460ms asymm 10 
+ 8:  ge4-1-0-10G.scr1.WDC2.gblx.net                        1.977ms asymm 12 
+ 9:  te6-4-10G.ar1.PAO2.gblx.net                          70.821ms asymm 13 
+10:  64.209.107.46                                        70.723ms asymm 11 
+11:  202.169.174.225                                     196.510ms 
+12:  202.169.174.78                                      216.128ms asymm 10 
+13:  140.109.254.78                                      199.780ms asymm 14 
+14:  planetlab1.iis.sinica.edu.tw                        196.993ms reached
+     Resume: pmtu 1500 hops 14 back 50 
