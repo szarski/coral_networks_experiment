@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.141ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.702ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           3.142ms asymm  2 
+ 2:  ip-10-1-120-17.ec2.internal                           0.667ms 
+ 3:  ip-10-1-125-6.ec2.internal                            0.547ms 
+ 4:  216.182.224.68                                        0.569ms 
+ 5:  72.21.222.140                                         1.183ms 
+ 6:  72.21.220.32                                          6.836ms asymm  8 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.718ms asymm 10 
+ 8:  64.57.21.70                                          19.204ms asymm  9 
+ 9:  72.36.126.105                                        29.142ms asymm 11 
+10:  iccn-ur1rtr-uiuc1.gw.uiuc.edu                        22.198ms asymm 13 
+11:  no reply
+12:  no reply
+13:  no reply
+14:  planetlab1.cs.uiuc.edu                               22.778ms reached
+     Resume: pmtu 1500 hops 14 back 49 
