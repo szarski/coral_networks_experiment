@@ -1,0 +1,28 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.098ms pmtu 1500
+ 1:  10.211.148.2                                          3.681ms asymm  2 
+ 1:  10.211.148.2                                          0.441ms asymm  2 
+ 2:  ip-10-1-10-17.ec2.internal                           10.171ms 
+ 3:  ip-10-1-11-14.ec2.internal                            0.570ms 
+ 4:  216.182.224.76                                        0.812ms 
+ 5:  72.21.222.146                                         1.873ms 
+ 6:  72.21.220.124                                         1.593ms 
+ 7:  xe-11-1-2.edge3.Washington1.Level3.net                2.524ms asymm 12 
+ 8:  vlan80.csw3.Washington1.Level3.net                    1.744ms asymm 10 
+ 9:  ae-72-72.ebr2.Washington1.Level3.net                  2.306ms asymm 12 
+10:  ae-3-3.ebr1.NewYork2.Level3.net                       7.149ms asymm 11 
+11:  ae-1-100.ebr2.NewYork2.Level3.net                     7.051ms 
+12:  ae-6-6.ebr2.NewYork1.Level3.net                       7.076ms 
+13:  ae-2-2.ebr4.SanJose1.Level3.net                      75.342ms asymm 16 
+14:  ae-91-91.csw4.SanJose1.Level3.net                    75.544ms asymm 17 
+15:  ae-62-62.ebr2.SanJose1.Level3.net                    75.530ms 
+16:  ae-1-6.bar2.SanFrancisco1.Level3.net                 75.392ms asymm 17 
+17:  ae-0-11.bar1.SanFrancisco1.Level3.net                76.773ms asymm 21 
+18:  CHUNGHWA-TE.bar1.SanFrancisco1.Level3.net            77.387ms asymm 22 
+19:  175.41.60.5                                         202.860ms asymm 20 
+20:  175.41.61.182                                       201.852ms asymm 21 
+21:  203.160.226.234                                     204.455ms 
+22:  140.112.0.201                                       204.674ms 
+23:  140.112.0.201                                       207.258ms asymm 22 
+24:  140.112.0.225                                       220.074ms asymm 26 
+25:  planetlab1.im.ntu.edu.tw                            211.583ms reached
+     Resume: pmtu 1500 hops 25 back 39 
