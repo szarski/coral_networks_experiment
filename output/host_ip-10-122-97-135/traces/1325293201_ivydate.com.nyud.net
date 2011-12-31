@@ -1,0 +1,18 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.112ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.582ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.878ms asymm  2 
+ 2:  ip-10-1-124-17.ec2.internal                           0.552ms 
+ 3:  ip-10-1-125-6.ec2.internal                            0.785ms 
+ 4:  216.182.224.70                                        0.649ms 
+ 5:  72.21.222.140                                         1.360ms 
+ 6:  72.21.220.32                                          1.368ms asymm  8 
+ 7:  xe-7-3-0.was14.ip4.tinet.net                         59.458ms asymm 11 
+ 8:  tiscali.ash.seabone.net                               1.790ms asymm 11 
+ 9:  fiu.miami14.mia.seabone.net                          65.210ms asymm 17 
+10:  ae4-540-r0-sp.bkb.rnp.br                            144.638ms asymm 17 
+11:  te0-1-0-2.mpd22.atl01.atlas.cogentco.com             31.272ms asymm 16 
+12:  2910-r3-mg.bkb.rnp.br                               150.040ms asymm 19 
+13:  38.104.94.74                                         31.654ms asymm 17 
+14:  ae4-540-r0-sp.bkb.rnp.br                            138.467ms asymm 17 
+15:  planetlab2.pop-mg.rnp.br                            153.086ms reached
+     Resume: pmtu 1500 hops 15 back 45 
