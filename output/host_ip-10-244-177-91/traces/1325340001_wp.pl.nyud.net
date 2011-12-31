@@ -1,0 +1,20 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.129ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                          0.564ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          0.446ms asymm  2 
+ 2:  ip-10-1-50-1.ec2.internal                             0.481ms 
+ 3:  ip-10-1-51-14.ec2.internal                            0.462ms 
+ 4:  216.182.224.92                                        0.702ms 
+ 5:  72.21.222.154                                         1.746ms 
+ 6:  72.21.220.70                                          2.193ms asymm  9 
+ 7:  72.21.221.42                                          1.523ms asymm  8 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                19.920ms asymm 12 
+ 9:  64.57.21.190                                         20.311ms asymm 10 
+10:  clmbn-r9-xe-4-0-0s100.core.oar.net                   22.714ms 
+11:  clmbs-r9-xe-2-0-0s100.core.oar.net                   23.107ms asymm 14 
+12:  clmbk-r9-xe-2-0-0s100.core.oar.net                   23.088ms asymm 13 
+13:  kc3-teng1-4s330.ohio-dmz.net                         23.276ms asymm 14 
+14:  kc1-teng8-4.net.ohio-state.edu                       23.039ms asymm 15 
+15:  no reply
+16:  no reply
+17:  planetlab-2.cse.ohio-state.edu                       24.324ms reached
+     Resume: pmtu 1500 hops 17 back 47 
