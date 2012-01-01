@@ -1,0 +1,21 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.127ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          1.014ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.415ms asymm  2 
+ 2:  ip-10-1-42-1.ec2.internal                             0.480ms 
+ 3:  ip-10-1-43-14.ec2.internal                            0.505ms 
+ 4:  216.182.224.84                                        0.677ms 
+ 5:  72.21.220.241                                         0.650ms asymm  4 
+ 6:  72.21.222.154                                         1.713ms asymm  5 
+ 7:  72.21.220.62                                          1.579ms asymm  6 
+ 8:  72.21.221.38                                          1.772ms asymm 10 
+ 9:  xe-1-2-0.er1.iad10.us.above.net                       1.945ms asymm  8 
+10:  xe-7-1-0.cr1.dca2.us.above.net                        3.020ms asymm 11 
+11:  xe-1-1-0.mpr3.iad1.us.above.net                       3.609ms asymm 13 
+12:  xe-1-1-0.mpr3.iad2.us.above.net                      47.103ms asymm 15 
+13:  64.124.12.77.gmu.edu                                  3.838ms asymm 15 
+14:  no reply
+15:  no reply
+16:  no reply
+17:  no reply
+18:  199.26.254.66                                         4.266ms reached
+     Resume: pmtu 1500 hops 18 back 48 
