@@ -1,0 +1,22 @@
+
+; <<>> DiG 9.7.3 <<>> wp.pl.nyud.net
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22232
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;wp.pl.nyud.net.			IN	A
+
+;; ANSWER SECTION:
+wp.pl.nyud.net.		86387	IN	CNAME	wp.pl.http.l2.l1.l0.nyucd.net.
+wp.pl.http.l2.l1.l0.nyucd.net. 86387 IN	CNAME	http.l2.l1.l0.nyucd.net.
+http.l2.l1.l0.nyucd.net. 18	IN	A	140.109.17.180
+http.l2.l1.l0.nyucd.net. 18	IN	A	199.26.254.66
+http.l2.l1.l0.nyucd.net. 18	IN	A	200.19.159.35
+
+;; Query time: 0 msec
+;; SERVER: 172.16.0.23#53(172.16.0.23)
+;; WHEN: Sun Jan  1 04:00:25 2012
+;; MSG SIZE  rcvd: 134
+
