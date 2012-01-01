@@ -1,0 +1,35 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.122ms pmtu 1500
+ 1:  ip-10-244-176-2.ec2.internal                          0.548ms asymm  2 
+ 1:  ip-10-244-176-2.ec2.internal                          0.590ms asymm  2 
+ 2:  ip-10-1-38-1.ec2.internal                             0.504ms 
+ 3:  ip-10-1-39-14.ec2.internal                            0.489ms 
+ 4:  216.182.224.88                                        0.866ms 
+ 5:  72.21.220.241                                        19.578ms asymm  4 
+ 6:  72.21.222.154                                         1.685ms asymm  5 
+ 7:  72.21.220.62                                          1.551ms asymm  6 
+ 8:  xe-7-3-0.was14.ip4.tinet.net                          1.950ms asymm 11 
+ 9:  xe-4-0-0.was12.ip4.tinet.net                         56.512ms asymm 12 
+10:  te0-6-0-5.mpd22.iad02.atlas.cogentco.com              2.110ms asymm 11 
+11:  te0-4-0-1.mpd22.dca01.atlas.cogentco.com              3.244ms asymm 13 
+12:  te0-3-0-5.ccr21.bos01.atlas.cogentco.com             99.624ms asymm 21 
+13:  te0-1-0-5.ccr21.bos01.atlas.cogentco.com             84.489ms asymm 17 
+14:  te0-1-0-2.ccr21.lon13.atlas.cogentco.com            100.389ms asymm 18 
+15:  te0-0-0-0.ccr21.ams03.atlas.cogentco.com            104.311ms asymm 19 
+16:  te0-0-0-1.ccr21.fra03.atlas.cogentco.com             97.290ms asymm 15 
+17:  te0-2-0-0.ccr21.muc01.atlas.cogentco.com            108.958ms asymm 20 
+18:  no reply
+19:  hanival-internet.demarc.cogentco.com                107.637ms asymm 14 
+20:  as1.rt1.ath2.gr.geant2.net                          149.704ms asymm 18 
+21:  grnet-gw.rt1.ath2.gr.geant.net                      151.423ms asymm 18 
+22:  clientRouter.upatras.koletti-1.access-link.grnet.gr 150.390ms asymm 17 
+23:  clientRouter.upatras.koletti-1.access-link.grnet.gr 150.024ms asymm 17 
+24:  no reply
+25:  no reply
+26:  no reply
+27:  no reply
+28:  no reply
+29:  no reply
+30:  no reply
+31:  no reply
+     Too many hops: pmtu 1500
+     Resume: pmtu 1500 
