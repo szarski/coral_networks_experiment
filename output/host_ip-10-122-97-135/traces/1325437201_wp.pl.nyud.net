@@ -1,0 +1,17 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.136ms pmtu 1500
+ 1:  ip-10-122-96-2.ec2.internal                           0.920ms asymm  2 
+ 1:  ip-10-122-96-2.ec2.internal                           0.486ms asymm  2 
+ 2:  ip-10-1-102-17.ec2.internal                           0.540ms 
+ 3:  ip-10-1-103-6.ec2.internal                            0.565ms 
+ 4:  216.182.224.64                                        0.454ms 
+ 5:  72.21.222.138                                         1.075ms 
+ 6:  72.21.220.160                                         1.847ms asymm  9 
+ 7:  xe-11-1-2.edge3.Washington1.Level3.net                1.861ms asymm 12 
+ 8:  vlan60.csw1.Washington1.Level3.net                    1.725ms asymm 11 
+ 9:  ae-82-82.ebr2.Washington1.Level3.net                  1.972ms asymm 10 
+10:  ae-8-8.car2.Baltimore1.Level3.net                     3.348ms asymm 11 
+11:  no reply
+12:  addr162129253110.testippl.jhmi.edu                    4.765ms asymm 16 
+13:  no reply
+14:  128.220.231.2                                         5.721ms reached
+     Resume: pmtu 1500 hops 14 back 48 
