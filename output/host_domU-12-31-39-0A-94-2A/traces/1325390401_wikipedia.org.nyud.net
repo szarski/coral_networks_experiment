@@ -1,0 +1,18 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.108ms pmtu 1500
+ 1:  10.211.148.3                                          0.586ms asymm  2 
+ 1:  10.211.148.3                                          2.361ms asymm  2 
+ 2:  ip-10-1-18-17.ec2.internal                            0.512ms 
+ 3:  ip-10-1-19-14.ec2.internal                            0.486ms 
+ 4:  216.182.232.50                                        2.904ms 
+ 5:  72.21.222.148                                         0.876ms 
+ 6:  72.21.220.36                                          0.875ms 
+ 7:  77.67.108.33                                          2.114ms asymm 12 
+ 8:  tiscali.ash.seabone.net                               1.463ms asymm 11 
+ 9:  te0-7-0-5.mpd22.iad02.atlas.cogentco.com              1.405ms asymm 10 
+10:  ae4-540-r0-sp.bkb.rnp.br                            143.405ms asymm 14 
+11:  te0-0-0-3.mpd22.atl01.atlas.cogentco.com             30.698ms asymm 14 
+12:  2910-r3-mg.bkb.rnp.br                               153.679ms asymm 16 
+13:  bandeira.pop-mg.rnp.br                              151.876ms asymm 18 
+14:  ae4-540-r0-sp.bkb.rnp.br                            137.642ms 
+15:  planetlab2.pop-mg.rnp.br                            146.330ms reached
+     Resume: pmtu 1500 hops 15 back 44 
