@@ -1,0 +1,19 @@
+ 1:  ip-10-122-97-135.ec2.internal                         0.117ms pmtu 1500
+ 1:  ip-10-122-96-3.ec2.internal                           0.537ms asymm  2 
+ 1:  ip-10-122-96-3.ec2.internal                           0.806ms asymm  2 
+ 2:  ip-10-1-118-17.ec2.internal                           0.561ms 
+ 3:  ip-10-1-119-6.ec2.internal                            0.574ms 
+ 4:  216.182.224.66                                       49.185ms 
+ 5:  72.21.222.140                                         1.330ms 
+ 6:  72.21.220.32                                          1.286ms asymm  8 
+ 7:  xe-0-1-0.0.asbn0.tr-cps.internet2.edu                 1.287ms asymm 10 
+ 8:  xe-0-3-0.0.chic0.tr-cps.internet2.edu                20.029ms asymm 12 
+ 9:  137.164.129.2                                        72.990ms asymm 10 
+10:  137.164.131.186                                      73.419ms asymm 11 
+11:  ae0--4010.iccr-sttlwa01-03.infra.pnw-gigapop.net     73.502ms asymm 15 
+12:  vl4010.uwbr-kne-01.infra.washington.edu              73.582ms asymm 13 
+13:  vl1800.uwcr-ads-01.infra.washington.edu              73.481ms 
+14:  vl3829.uwcr-ads-01.infra.washington.edu              74.177ms asymm 17 
+15:  vl3805.acar-atg-02.infra.washington.edu              74.401ms asymm 18 
+16:  planetlab03.cs.washington.edu                        73.632ms reached
+     Resume: pmtu 1500 hops 16 back 49 
