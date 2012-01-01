@@ -1,0 +1,18 @@
+ 1:  ip-10-244-177-91.ec2.internal                         0.120ms pmtu 1500
+ 1:  ip-10-244-176-3.ec2.internal                         42.445ms asymm  2 
+ 1:  ip-10-244-176-3.ec2.internal                          4.990ms asymm  2 
+ 2:  ip-10-1-44-1.ec2.internal                             4.877ms 
+ 3:  ip-10-1-45-14.ec2.internal                            0.525ms 
+ 4:  216.182.224.94                                        0.649ms 
+ 5:  72.21.222.154                                         1.951ms 
+ 6:  72.21.220.30                                          1.666ms 
+ 7:  77.67.108.33                                          1.950ms asymm 12 
+ 8:  tiscali.ash.seabone.net                               2.545ms asymm 12 
+ 9:  fiu.miami14.mia.seabone.net                          32.513ms asymm 17 
+10:  198.32.252.142                                      146.021ms asymm 17 
+11:  usp.ptta.ansp.br                                    149.573ms asymm 19 
+12:  core-cce-b.uspnet.usp.br                            143.972ms asymm 16 
+13:  core-poli-b.uspnet.usp.br                           149.107ms asymm 20 
+14:  198.32.252.142                                      144.015ms asymm 17 
+15:  plab2.larc.usp.br                                   148.282ms reached
+     Resume: pmtu 1500 hops 15 back 43 
