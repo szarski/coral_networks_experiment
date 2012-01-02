@@ -1,0 +1,18 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.115ms pmtu 1500
+ 1:  10.211.148.2                                          0.546ms asymm  2 
+ 1:  10.211.148.2                                          0.663ms asymm  2 
+ 2:  ip-10-1-6-17.ec2.internal                             0.738ms 
+ 3:  ip-10-1-7-14.ec2.internal                             0.473ms 
+ 4:  216.182.232.48                                        0.740ms 
+ 5:  72.21.220.225                                         0.690ms asymm  4 
+ 6:  72.21.222.148                                         1.091ms asymm  5 
+ 7:  72.21.220.52                                          1.031ms asymm  8 
+ 8:  equinixexchange-ash.flagtelecom.com                  12.563ms 
+ 9:  xe-1-2-0.0.cji01.nyc005.flagtel.com                   8.748ms asymm 12 
+10:  customer-yipes.flagtel.com                            8.722ms asymm 13 
+11:  nyu-bgp-1gr-35q-1.yipes.com                           9.587ms asymm 13 
+12:  NYUGWA-VL10.NET.NYU.EDU                               8.268ms asymm 17 
+13:  WSSGW-VL902.NET.NYU.EDU                               9.051ms asymm 19 
+14:  delancy.scs.cs.nyu.edu                                8.818ms asymm 20 
+15:  planetx.scs.cs.nyu.edu                                9.862ms reached
+     Resume: pmtu 1500 hops 15 back 47 
