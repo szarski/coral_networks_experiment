@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+<title>Wirtualna Polska - www.wp.pl - Ciekawsza strona informacji</title>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Expires" content="0" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="X-XRDS-Location" content="http://serwer.openid.wp.pl/?xrds=1" />
+<meta name="author" content="Wirtualna Polska" />
+<meta name="Keywords" content="wp.pl,wp,Wirtualna Polska,Wirtualna,Polska,Katalog,Katalog WWW,Firmy,Encyklopedia,Pogoda,Wiadomosci,Sklep,Kawiarenka,MP3" />
+<meta name="description" content="Pierwszy horyzontalny portal internetowy w Polsce. Skuteczne medium reklamowe. Bogactwo serwisow informacyjnych i finansowych. Centrum wyszukiwania, komunikacji i rozrywki: wiadomosci, wyszukiwarki, poczta, webpark, czat, komunikator, SMS, randki, kartki, krzyżówki, mp3, gry, gry on-line, muzyka, film. Platforma e-commerce: aukcje, zakupy, przetargi, oferty, turystyka." />
+<meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" l gen true for "http://www.wp.pl" r (nz 1 vz 1 lz 1 oz 1 cz 1))' />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script type="text/javascript">
+	<!-- // <![CDATA[
+	var pp_gemius_identifier = 'coWacc7R.xHk.xzhRC.LgpQJ38OGWzuyOAxvi8UATAr.s7';
+	var pp_gemius_hitcollector = 'wp.hit.gemius.pl';
+	var wp_sn = 'stronaglowna';
+	var wp_dot_type = 'click';
+	var wp_fba = '';
+		var wp_rekid = "7757";
+	// ]]> -->
+</script>
+<script src="http://www.wp.pl/i/ivar/layout/200812/wpjslib_101.js?v=28" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+<!-- // <![CDATA[
+	var ajaxEnabled = true;
+	var searchTipsEnabled = true;
+// ]]> -->
+</script>
+
+<link rel="icon" type="image/png" href="i/ivar/layout/200812/large-ico.png" />
+<link rel="shortcut icon" type="image/x-icon" href="http://www.wp.pl/favicon.ico" />
+<link href="https://plus.google.com/105528572931700558344/" rel="publisher" />
+<style type="text/css" id="newStyles">
+/**
+ *  Resety
+ */
+html, body { font-size:14px; line-height:18px }
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, big, em, img, q, small, strong, tt, var,
+b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline
+}
+h1, h2, h3, h4, h5, h6 { font-weight: normal }
+a img, :link img, :visited img, :active img, :hover img, fieldset, abbr, acronym { border:0 }
+a, a:link, a:visited, a:active { color:#059; text-decoration:none; }
+a:hover { text-decoration:underline }
+table { border-collapse:collapse; border-spacing:0 }
+th, caption { text-align:left }
+form { display:inline; margin:0; padding:0 }
+input, select { font:1em/1.25 Arial, Helvetica, sans-serif }
+input[type="button"] { cursor:pointer }
+blockquote, q {  quotes: none }
+:focus { outline: 0 }
+label:hover { cursor:pointer }
+ol, ul { list-style: none }
+.fl { float:left }
+.fr { float:right }
+.block { display:block }
+.nowrap { white-space:nowrap !important }
+.hlink { text-decoration:none !important }
+.hlink:hover { text-decoration:underline !important }
+.clr { font-size:0; clear:both; height:0; line-height:0; }
+.red { color:#d10000 !important }
+.gray { color:#777 !important }
+.black { color:#000 !important }
+.orange { color:#f63 !important }
+.green { color:#429706 !important }
+
+/**
+ *  Adv
+ */
+.wpAdv { display:none; margin:0 auto 10px auto; text-align:center; font:0px/0px arial,sans-seif }
+#wpTop, #wpAdvBot { clear:both; margin-top:10px; text-align:center }
+
+
+/**
+ *  Main Styles
+ */
+#wpHeaderContainer { width:970px; margin:0 auto; padding:0 10px; background-color:#fff }
+#wpContainer { width:970px; margin:0 auto; padding:10px 10px 0; background-color:#fff }
+
+#wpLeft { float:left; width:190px; }
+#wpLeft:after { clear:both; display:block; content:''; margin-bottom:10px }
+
+#wpT { float:right; width:770px; margin-left:10px; margin-bottom:10px }
+#wpCenter { float:left; width:420px }
+#wpRight { float:right; width:340px; margin-left:10px }
+
+#wpB { float:right; width:770px; margin-left:10px }
+#wpB:after { clear:both; display:block; content:''; margin-bottom:10px }
+#wpBCenter { float:left; width:525px }
+#wpBRight { float:right; width:235px; margin-left:10px }
+
+.bx { margin-bottom:15px }
+
+/* belki */
+.bx .head { position: relative; height:25px; background: transparent url(i/ivar/layout/201012/skin_1_ng.png) no-repeat top left }
+.bRight { float:right; width:6px; height:25px; background: transparent url(i/ivar/layout/201012/skin_1_ng.png) no-repeat top right; }
+.bx .head h2 { position:absolute; left:12px; top:4px; line-height:0; color:#fff; font: bold 12px Arial, Helvetica, sans-serif; text-transform: uppercase }
+.bx .head h2 a { color:#fff; font: bold 12px "Trebuchet MS", Arial, Helvetica, sans-serif; text-transform: uppercase }
+.bx a { font: 12px Tahoma, Arial, Helvetica, sans-serif; }
+.bx .wiecej { font: bold 9px Tahoma, helvetica, sans-serif; color: #7e838f; padding: 7px 0 0 10px;}
+.bx .wiecej ul { background: none; display: inline; padding:0; }
+.bx .wiecej li { display: inline; display: inline-block; background: none; padding: 0 0 0 3px;}
+.bx .wiecej li a { font: bold 10px Verdana, Arial, helvetica, sans-serif; }
+.bx a.ngrek, a.ngrek:visited, a.ngrek:hover, span.ngrek { color:#656971; background-color:transparent; font-weight:normal; font-size:10px; text-decoration:none; }
+.bx a.babol, a.babol:visited, a.babol:hover, span.babol { color:#7383a2; background-color:transparent; font-weight:normal; font-size:10px; text-decoration:none; }
+.rss { margin:6px 3px 0 0; text-indent:15px; display:block; width:14px; height:14px; overflow:hidden; background:transparent url(i/ivar/layout/201012/rss.gif) top left; float:right }
+.rss:hover { opacity:.88 }
+.topnews { margin:6px 6px 0 0; text-indent:15px; display:block; width:15px; height:14px; overflow:hidden; background:transparent url(i/ivar/layout/201012/topnews.png) top left; float:right }
+.topnews:hover { opacity:.88 }
+
+.bx ul { padding:5px 0 0 9px; background: transparent url(i/ivar/layout/201012/skin_1_ng.png) no-repeat 0 -25px; height:1% }
+.bx li { padding:1px 0 0 8px; background: transparent url(i/ivar/layout/201012/dot.gif) no-repeat 0 10px }
+.bx li.first { height:80px; overflow:hidden; background-image:none; padding-left:0 }
+.bx li.first a img { border:1px solid #bec3ca; width:105px; height:70px; float:left; margin:4px 6px 0 0 }
+.bx li.first a { font:bold 16px Arial, Helvetica, sans-serif; height:1%; letter-spacing:-1px }
+.bx span.nazywo { font: 10px Tahoma, Helvetica, sans-serif; color: #d90000; vertical-align: text-top; }
+.bx li a span { color:#d10000 }
+.bx ul.nobg { padding:0 0 0 9px; background:none }
+
+#wpContainer .bx .wiecej ul { background:none }
+#wpContainer .bx ul.nobg { background:none }
+
+/* Profilowanie */
+/*.SGPnapowaznie #wydanieLabel { background-position: 0 -20px }
+.SGPnasportowo #wydanieLabel { background-position: 0 -40px }
+.SGPnaluzie #wydanieLabel { background-position: 0 -60px }*/
+.SGPnapowaznie #wydanieLabel { background-position: 0 -30px }
+.SGPnasportowo #wydanieLabel { background-position: 0 -60px }
+.SGPnaluzie #wydanieLabel { background-position: 0 -90px }
+
+/* skorki :: begin */
+.SGSkin1 .bx .head { background-image: url(i/ivar/layout/201012/skin_1_ng.png) }
+.SGSkin1 .bRight { background-image: url(i/ivar/layout/201012/skin_1_ng.png) }
+.SGSkin1 #bxBabelkiF { background-image: url(i/ivar/layout/201012/skin_1_ng.png) }
+.SGSkin1 .bx .head h2, .SGSkin1 .bx .head h2 a { color:#6f7887 !important }
+
+.SGSkin2 .bRight { background-image: url(i/ivar/layout/201012/skin_2_ng.png) }
+.SGSkin2 .bx .head { background-image: url(i/ivar/layout/201012/skin_2_ng.png) }
+.SGSkin2 .bRight { background-image: url(i/ivar/layout/201012/skin_2_ng.png) }
+.SGSkin2 #bxBabelkiF { background-image: url(i/ivar/layout/201012/skin_2_ng.png) }
+.SGSkin2 .bx .head h2, .SGSkin2 .bx .head h2 a { color:#6f7887 !important }
+
+.SGSkin3 { background: #fdfcf9 url(i/ivar/layout/201012/skin_3_bg.png) repeat-y center}
+.SGSkin3 .bx .head { background-image: url(i/ivar/layout/201012/skin_3_ng.png) }
+.SGSkin3 .bRight { background-image: url(i/ivar/layout/201012/skin_3_ng.png) }
+.SGSkin3 #bxBabelkiF { background-image: url(i/ivar/layout/201012/skin_3_ng.png) }
+.SGSkin3 .bx ul { background-image: url(i/ivar/layout/201012/skin_3_ng.png) }
+.SGSkin3 .bx .head h2, .SGSkin3 .bx .head h2 a { color:#5e4b3b !important; padding-left:9px }
+.SGSkin3 .bx a { color:#694e34 !important }
+.SGSkin3 #bxServisyLista a, .SGSkin3 #bxServisyPolecane a { color:#7b6046 }
+
+.SGSkin4 .bx .head { background-image: url(i/ivar/layout/201012/skin_4_ng.png) }
+.SGSkin4 .bRight { background-image: url(i/ivar/layout/201012/skin_4_ng.png) }
+.SGSkin4 #bxBabelkiF { background-image: url(i/ivar/layout/201012/skin_4_ng.png) }
+
+.SGSkin5 .bx .head { background-image: url(i/ivar/layout/201012/skin_5_ng.png) }
+.SGSkin5 .bRight { background-image: url(i/ivar/layout/201012/skin_5_ng.png) }
+.SGSkin5 #bxBabelkiF { background-image: url(i/ivar/layout/201012/skin_5_ng.png) }
+
+.SGSkin6 .bx .head { background-image: url(i/ivar/layout/201012/skin_6_ng.png) }
+.SGSkin6 .bRight { background-image: url(i/ivar/layout/201012/skin_6_ng.png) }
+.SGSkin6 #bxBabelkiF { background-image: url(i/ivar/layout/201012/skin_6_ng.png) }
+
+.SGSkin7 { background-color: #fdf3fb }
+.SGSkin7 .bx .head { background-image: url(i/ivar/layout/201012/skin_7_ng.png) }
+.SGSkin7 .bRight { background-image: url(i/ivar/layout/201012/skin_7_ng.png) }
+.SGSkin7 #bxBabelkiF { background-image: url(i/ivar/layout/201012/skin_7_ng.png) }
+
+.SGSkin8 { background-color: #fff9fe }
+.SGSkin8 .bx .head { background-image: url(i/ivar/layout/201012/skin_8_ng.png) }
+.SGSkin8 .bRight { background-image: url(i/ivar/layout/201012/skin_8_ng.png) }
+.SGSkin8 #bxBabelkiF { background-image: url(i/ivar/layout/201012/skin_8_ng.png) }
+.SGSkin8 .bx .head h2, .SGSkin8 .bx .head h2 a { color:#9c3388 !important }
+
+.SGSkin9 { background-color: #f1f5f7 }
+.SGSkin9 .bx .head { background-image: url(i/ivar/layout/201012/skin_9_ng.png) }
+.SGSkin9 .bRight { background-image: url(i/ivar/layout/201012/skin_9_ng.png) }
+.SGSkin9 #bxBabelkiF { background-image: url(i/ivar/layout/201012/skin_9_ng.png) }
+.SGSkin9 .bx .head h2 { left:43px }
+.SGSkin9 { background-color: #429706 }
+
+.SGSkin_bw .bx .head { background-image: url(i/ivar/layout/201012/skin_bw_ng.png) }
+.SGSkin_bw .bRight { background-image: url(i/ivar/layout/201012/skin_bw_ng.png) }
+.SGSkin_bw #bxBabelkiF { background-image: url(i/ivar/layout/201012/skin_bw_ng.png) }
+.SGSkin_bw .bx .head h2, .SGSkin_bw .bx .head h2 a { color:#fff !important }
+.SGSkin_bw a, .SGSkin_bw span, .SGSkin_bw * { color:#111 !important }
+.SGSkin_bw #gloHTML a { color:#fafafa !important }
+.SGSkin_bw #gloHTML .gloKat { color:#bbb !important }
+.SGSkin_bw #gloNLista a.on { background-color:#777 !important }
+.SGSkin_bw #bxWPtv { background-color:#e5e5e5 !important }
+
+/* skorki :: end */
+
+/* Footer */
+#wpFooter { clear:both; width:970px; font-size:11px; margin:10px auto 0; padding:8px 0; border-top:1px solid #d5dade; color:#555; }
+#wpFooter .copyright { float:right; }
+#wpFooter .copyright a { font-weight:bold; color:#333; }
+#wpFooter a { padding:0 4px; }
+
+
+/**
+ * Content styles
+ */
+ #wpHeaderContainer .light { font-size:10px; color:#9198a1 }
+ #wpHeaderContainer small.pipe { font-size:12px; color:#d8dcdf }
+ #ngTop { position:relative; width:970px; height:21px; background:#fff url(i/ivar/layout/201012/xng.gif) repeat-x 0 0; margin:0 auto }
+ #ngImieniny { position:absolute; top:2px; left:10px; text-align:right; font:11px Tahoma, Arial, Helvetica, sans-serif; color:#63656a }
+ #ngOpcje { position:absolute; top:2px; right:10px; text-align:right; font:11px Tahoma, Arial, Helvetica, sans-serif; color:#d8dcdf }
+ #ngOpcje a { font-size:10px; color:#9198a1 }
+ #wpHeader { position:relative; width:970px; height:84px; background:#fff url(i/ivar/layout/201012/xng.gif) repeat-x 0 -100px; margin:0 auto }
+ #wpHeader h1 { position:absolute; width:200px; outline:none; overflow:hidden; text-indent:-9999px }
+ #ngIcons { float:right; height:84px; background:#fff url(i/ivar/layout/201012/xng.gif) repeat-x; background-position:0 -200px }
+ #ngIcons li { display:block; float:left; width:65px; height:64px; text-align:center; background:#fff url(i/ivar/layout/201012/xng.gif) no-repeat; background-position:0 -300px; line-height:14px }
+ #ngIcons li a { font:10px Tahoma, Arial, helvetica, sans-serif; color:#294e92; display:block; margin-left:1px; width:64px; height:60px; padding-top:4px; background:#fff url(i/ivar/layout/201012/xngIcons.gif) no-repeat top left }
+ #ngIcons li a:hover { text-decoration:none; opacity:.8; color:#0b3054 }
+ #ngIcons li.poczta a {  }
+ #ngIcons li.poczta a:hover { background:#fff url(i/ivar/layout/201012/xngAPoczta.gif) no-repeat top left }
+ #ngIcons li.programtv a { background:#fff url(i/ivar/layout/201012/xngProgramtv.gif) no-repeat top left }
+ #ngIcons li.programtv a:hover { background:#fff url(i/ivar/layout/201012/xngAProgramtv.gif) no-repeat top left }
+ #ngIcons li.bloog a { background-position:0 -64px }
+ #ngIcons li.bloog a:hover { background:#fff url(i/ivar/layout/201012/xngABloog.gif) no-repeat top left }
+ #ngIcons li.czat a { background-position:0 -128px }
+ #ngIcons li.czat a:hover { background:#fff url(i/ivar/layout/201012/xngACzat.gif) no-repeat top left }
+ #ngIcons li.strefa a { background-position:0 -192px }
+ #ngIcons li.strefa a:hover { }
+ #ngIcons li.docelu a { background-position:0 -256px }
+ #ngIcons li.docelu a:hover { background:#fff url(i/ivar/layout/201012/xngADocelu.gif) no-repeat top left }
+ #ngIcons li.zakupy a { background-position:0 -320px }
+ #ngIcons li.zakupy a:hover { background:#fff url(i/ivar/layout/201012/xngAZakupy.gif) no-repeat top left }
+ #ngIcons li.aukcje a { background-position:0 -384px }
+ #ngIcons li.aukcje a:hover { background:#fff url(i/ivar/layout/201012/xngAAukcje.gif) no-repeat top left }
+ #ngIcons li.twoja a { background-position:0 -448px }
+ #ngIcons li.twoja a:hover { background:#fff url(i/ivar/layout/201012/xngABliscy.gif) no-repeat top left }
+ #ngIcons li.taniopl a { background:#fff url(i/ivar/layout/201012/xngTaniopl.gif) no-repeat top left }
+ #ngIcons li.taniopl a:hover { background:#fff url(i/ivar/layout/201012/xngATaniopl.gif) no-repeat top left }
+ #ngIcons li.bliscy a { background:#fff url(i/ivar/layout/201012/xngBliscy.gif) no-repeat top left }
+ #ngIcons li.bliscy a:hover { background:#fff url(i/ivar/layout/201012/xngABliscy.gif) no-repeat top left }
+
+ #ngFalka { float:right; height:84px; width:38px; background:transparent url(i/ivar/layout/201012/xngw.gif) no-repeat bottom right }
+ #ngInfo { position:absolute; top:72px; right:10px; text-align:right; font:11px Tahoma, Arial, Helvetica, sans-serif; color:#63656a }
+ #ngInfo small { font:10px tahoma, sans-serif; color:#d0d0d0 }
+ #ngLogo { position:absolute; top:0; left:0 }
+/* #wydanieLabel { position:absolute; left:215px; top:57px; display:block; width:200px; height:20px; background:transparent url(i/ivar/layout/201012/wersjasg.gif) no-repeat top right }*/
+ #wydanieLabel { position:absolute; left:320px; top:47px; display:block; width:100px; height:30px; background:transparent url(i/ivar/layout/201012/wersjasg15lat.gif) no-repeat top right }
+ #ngWydanie .wydanieLabel_20090604 { left:155px; top:60px }
+
+ #bxLogin { top:200px; left:38%; width:390px; height:275px; background:transparent url(i/ivar/layout/201012/loginbg.png) no-repeat 0 0; position:absolute; z-index:9; position:fixed }
+ #bxLogin .login_close { width:16px; height:16px; left:350px; top:26px; position:absolute; cursor:pointer }
+ .login_username { border:0; position:absolute; top:85px; left:130px; width:175px }
+ .login_password { border:0; position:absolute; top:121px; left:130px; width:175px }
+ .login_submit { position:absolute; left:128px; top:156px; border:0; width:73px; height:24px; text-indent:-9999px; cursor:pointer; background:transparent url(i/ivar/layout/201012/btn_x3.gif) no-repeat 0 -48px }
+ .login_register { display:block; width:183px; height:18px; position:absolute; top:204px; left:60px }
+ .login_lost { display:block; width:120px; height:18px; position:absolute; top:222px; left:60px }
+ a.login_register:hover, a.login_lost:hover { border-bottom:1px solid #9f9f9f }
+
+ /* lista serwisow */
+ #bxSerwisyDuze { background: url(i/ivar/layout/201012/przk_bg.gif) no-repeat top left; border: 1px solid #737373; background-color: #ffffff; padding: 8px 8px 20px 10px; width: 480px; }
+ #bxSerwisy { background: transparent url(i/ivar/layout/201012/xlsbg.gif) repeat-y top left; width:190px  }
+ ul.bxSerwisy li { padding:0 9px; width:172px }
+ #bxSerwisy { margin-bottom: 10px; }
+ #bxSerwisy h2 { overflow:hidden; text-indent:-999px; outline:none; background: transparent url(i/ivar/layout/201012/xlsbg.gif) repeat-y top left }
+ #bxSerwisy h2#lsNowosci { height:24px; background-position:-190px 0 }
+ #bxSerwisy h2#lsLista { height:24px; background-position:-380px 0 }
+ #bxSerwisy h2#lsPolecamy { height:24px; background-position:-570px 0 }
+ ul.bxSerwisy li#lsWiecej { text-align:center; padding-top:10px }
+ ul#bxSerwisyNew li a { color:#c80000 }
+ /* bxSerwisy sprites */
+ ul.bxSerwisy li a { background:#f8f9fa url(i/ivar/layout/201012/lsSerwisy.gif) no-repeat 3px 0; display:block; border-bottom:1px solid #dfe3e8; color:#3f77a9; font:normal bold 11px Arial, Helvetica, sans-serif; padding:4px 0 5px 44px; width:128px; }
+ ul.bxSerwisy li a:hover { opacity:.85 }
+ ul.bxSerwisy li a.dzieci { background-position:3px -25px }
+ ul.bxSerwisy li a.facet { background-position:3px -50px }
+ ul.bxSerwisy li a.film { background-position:3px -75px }
+ ul.bxSerwisy li a.gielda { background-position:3px -100px }
+ ul.bxSerwisy li a.gryonline { background-position:3px -125px }
+ ul.bxSerwisy li a.horoskop { background-position:3px -150px }
+ ul.bxSerwisy li a.kartki { background-position:3px -175px }
+ ul.bxSerwisy li a.kobieta { background-position:3px -200px }
+ ul.bxSerwisy li a.ksiazki { background-position:3px -225px }
+ ul.bxSerwisy li a.mini { background-position:3px -250px }
+ ul.bxSerwisy li a.moto { background-position:3px -275px }
+ ul.bxSerwisy li a.muzyka { background-position:3px -300px }
+ ul.bxSerwisy li a.nocoty { background-position:3px -325px }
+ ul.bxSerwisy li a.ogloszenia { background-position:3px -350px }
+ ul.bxSerwisy li a.pogoda { background-position:3px -375px }
+ ul.bxSerwisy li a.praca { background-position:3px -400px }
+ ul.bxSerwisy li a.program { background-position:3px -425px }
+ ul.bxSerwisy li a.erotyka { background-position:3px -450px }
+ ul.bxSerwisy li a.sport { background-position:3px -475px }
+ ul.bxSerwisy li a.tech { background-position:3px -500px }
+ ul.bxSerwisy li a.turystyka { background-position:3px -525px }
+ ul.bxSerwisy li a.wptv { background-position:3px -550px }
+ ul.bxSerwisy li a.biznes { background-position:3px -575px }
+ ul.bxSerwisy li a.spik { background-position:3px -600px }
+ ul.bxSerwisy li a.bliscy { background-position:3px -625px }
+ ul.bxSerwisy li a.szkola { background-position:3px -650px }
+ ul.bxSerwisy li a.pjf { background-position:3px -675px }
+ ul.bxSerwisy li a.kultura { background-position:3px -700px }
+ ul.bxSerwisy li a.polonia { background-position:3px -725px }
+ ul.bxSerwisy li a.future { background-position:3px -750px }
+ ul.bxSerwisy li a.dziecipl { background-position:3px -775px }
+ ul.bxSerwisy li a.narty { background-position:3px -800px }
+ ul.bxSerwisy li a.swieta { background-position:3px -825px }
+ ul.bxSerwisy li a.gry { background-position:3px -850px }
+
+ /* nowosci */
+ ul.bxSerwisy li a.new3 { background-image: url(i/ivar/layout/201012/ls_new3.gif) }
+ ul.bxSerwisy li a.new4 { background-image: url(i/ivar/layout/201012/ls_new4.gif) }
+ ul.bxSerwisy li a.new5 { background-image: url(i/ivar/layout/201012/ls_new5.gif) }
+ ul.bxSerwisy li a.new6 { background-image: url(i/ivar/layout/201012/ls_new6.gif) }
+ ul.bxSerwisy li a.new7 { background-image: url(i/ivar/layout/201012/ls_new7.gif) }
+ ul.bxSerwisy li a.new8 { background-image: url(i/ivar/layout/201012/ls_new8.gif) }
+ ul.bxSerwisy li a.new9 { background-image: url(i/ivar/layout/201012/ls_new9.gif) }
+ ul.bxSerwisy li a.new10 { background-image: url(i/ivar/layout/201012/ls_new10.gif) }
+ ul.bxSerwisy li a.new11 { background-image: url(i/ivar/layout/201012/ls_new11.gif) }
+ ul.bxSerwisy li a.new12 { background-image: url(i/ivar/layout/201012/ls_new12.gif) }
+ ul.bxSerwisy li a.new13 { background-image: url(i/ivar/layout/201012/ls_new13.gif) }
+ ul.bxSerwisy li a.new14 { background-image: url(i/ivar/layout/201012/ls_new14.gif) }
+ ul.bxSerwisy li a.new15 { background-image: url(i/ivar/layout/201012/ls_new15.gif) }
+ ul.bxSerwisy li a.new16 { background-image: url(i/ivar/layout/201012/ls_new16.gif) }
+ ul.bxSerwisy li a.new17 { background-image: url(i/ivar/layout/201012/ls_new17.gif) }
+ ul.bxSerwisy li a.new18 { background-image: url(i/ivar/layout/201012/ls_new18.gif) }
+ ul.bxSerwisy li a.new19 { background-image: url(i/ivar/layout/201012/ls_new19.gif) }
+ ul.bxSerwisy li a.new20 { background-image: url(i/ivar/layout/201012/ls_new20.gif) }
+ ul.bxSerwisy li a.new24 { background-image: url(i/ivar/layout/201012/ls_new24.gif) }
+ ul.bxSerwisy li a.st4189615 { background-image: url(i/ivar/F/201112/1322828119.gif) }
+ ul.bxSerwisy li a.st4230321 { background-image: url(i/ivar/F/201112/1323961059.png) }
+ ul.bxSerwisy li a.st4252271 { background-image: url(i/ivar/M/201112/1325063038.png) }
+ 
+ /* polecane i eventowe */
+ ul.bxSerwisy li a.hosting { background-image: url(i/ivar/layout/201012/ls_hosting.gif) }
+ ul.bxSerwisy li a.wakacje { background-image: url(i/ivar/layout/201012/ls_wakacje.gif) }
+ ul.bxSerwisy li a.opener  { background-image: url(i/ivar/layout/201012/ls_openers.gif) }
+
+ /* serwisy polecane */
+ ul#bxServisyPolecane { width:177px; padding:0 3px 5px 9px }
+ ul#bxServisyPolecane li { display:inline; background: transparent url(i/ivar/layout/201012/dot.gif) no-repeat 0 11px; padding:0 0 0 8px; margin:0 }
+ ul#bxServisyPolecane li.first { background-image:none; padding:0 }
+ ul#bxServisyPolecane li a { display:inline; background:none; padding:0; margin:0; border:0 }
+ /* btn wiecej serwisow */
+ #bxSerwisyBottom { background: transparent url(i/ivar/layout/201012/xlsbg.gif) no-repeat -950px top; padding:14px 0 8px; margin:0; }
+ a#lsWiecejBtn { display:block; width:120px; height:24px; background: transparent url(i/ivar/layout/201012/btn.gif) no-repeat 0 -24px; margin:0 auto; padding:0; text-indent:-9999px; border:0 }
+ a#lsWiecejBtn:hover { opacity:.88 }
+ div#bxSerwisyEnd { font-size:0; height:7px; background: transparent url(i/ivar/layout/201012/xlsbg.gif) -760px bottom; margin:0; padding:0 }
+
+/* serwisy2 - dyn */
+#bxSerwisy2, #bxPopTem { display:none; z-index:7; position:absolute; width:825px; top:200px; left:200px; overflow:hidden; border:1px solid #a1a9b5; text-align:left; }
+#bxSerwisy2 h2, #bxPopTem h2 { height:21px; padding:3px 5px 0 10px; background:#dcdfe4 url(i/ivar/layout/201012/bxgs_off.gif) repeat-x bottom; font:bold 12px 'Trebuchet MS',Arial,sans-serif; color:#6f7887; text-transform:uppercase; }
+#bxSerwisy2 .cnt, #bxPopTem .cnt { padding:1px; background-color:#fafafa; }
+#bxSerwisy2 .serwisyCnt, #bxPopTem .serwisyCnt { background-color:#fafafa; padding:5px 5px 0 5px; border:0; }
+#bxSerwisy2 .serwisyCnt ul, #bxPopTem .serwisyCnt ul { width:125px; border:0; margin:0 5px 0 5px; float:left; }
+#bxSerwisy2 .serwisyCnt li, #bxPopTem .serwisyCnt li { font-size:11px; padding:2px 0 3px 14px; background-position:4px 3px; width:111px; border-bottom:1px solid #ededed; }
+#bxSerwisy2 .serwisyCnt li.last, #bxPopTem .serwisyCnt li.last { border:0; }
+#bxPopTem .serwisyCnt ul { width:260px; }
+#bxPopTem .serwisyCnt li { width:246px; }
+/* kafelki */
+#bxSerwisy2 li.ng { padding:0; margin-top:1px; border-bottom:1px solid #cfd0cf; height:19px; width:125px; background:transparent url(i/ivar/layout/201012/serwisy2bg_kfl.gif) n
