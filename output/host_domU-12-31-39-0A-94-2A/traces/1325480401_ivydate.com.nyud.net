@@ -1,0 +1,17 @@
+ 1:  domU-12-31-39-0A-94-2A.compute-1.internal             0.115ms pmtu 1500
+ 1:  10.211.148.2                                          0.845ms asymm  2 
+ 1:  10.211.148.2                                          0.986ms asymm  2 
+ 2:  ip-10-1-8-17.ec2.internal                             0.411ms 
+ 3:  ip-10-1-9-14.ec2.internal                             0.455ms 
+ 4:  216.182.224.72                                        0.730ms 
+ 5:  72.21.222.146                                         1.658ms 
+ 6:  72.21.220.124                                         1.735ms 
+ 7:  209.130.172.193                                       2.160ms asymm 10 
+ 8:  ge4-1-0-10G.scr1.WDC2.gblx.net                        2.370ms asymm 10 
+ 9:  te6-4-10G.ar1.PAO2.gblx.net                          70.862ms asymm 12 
+10:  64.209.107.46                                        74.628ms asymm 12 
+11:  202.169.174.225                                     204.272ms asymm 12 
+12:  202.169.174.78                                      205.917ms asymm 13 
+13:  140.109.254.78                                      205.667ms 
+14:  planetlab1.iis.sinica.edu.tw                        197.955ms reached
+     Resume: pmtu 1500 hops 14 back 52 
